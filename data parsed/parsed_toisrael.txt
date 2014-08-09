@@ -1,0 +1,57 @@
+Date	Ordinal_day	Full_name	First_name	Last_name	Age	Ethnic_group	Sex	Name_summary	Age_group	Name_unknown	Age_unknown	Circumstances
+July 18	11	First Sergeant Eitan Barak		Barak	20	Israeli	M	21	2	0	0	
+July 19	12	Major Amotz Greenberg		Greenberg	45	Israeli	M	88	3	0	0	
+July 19	12	Sergeant Adar Barsano		Barsano	20	Israeli	M	21	2	0	0	
+July 19	12	Second Lieutenant Bar Rahav		Rahav	21	Israeli	M	181	2	0	0	
+July 19	12	Staff Sergeant Bnaya Rubel		Rubel	20	Israeli	M	201	2	0	0	
+July 20	13	Staff Sergeant Oren Simcha Noach		Noach	22	Israeli	M	155	2	0	0	
+July 20	13	Sergeant Ben Itzhak Oanounou		Oanounou	19	Israeli	M	151	2	0	0	
+July 20	13	Staff Sergeant Daniel Pomerantz		Pomerantz	20	Israeli	M	175	2	0	0	
+July 20	13	Sergeant Shon Mondshine		Mondshine	19	Israeli	M	145	2	0	0	
+July 20	13	Staff Sergeant Shachar Tase		Tase	20	Israeli	M	201	2	0	0	
+July 20	13	Staff Sergeant Max Steinberg		Steinberg	24	Israeli	M	210	2	0	0	
+July 20	13	Major Tzafrir Baror		Baror	32	Israeli	M	21	3	0	0	
+July 20	13	Captain Tsvi Kaplan		Kaplan	28	Israeli	M	111	3	0	0	
+July 20	13	Staff Sergeant Gilad Rozenthal Yacoby		Yacoby	21	Israeli	M	251	2	0	0	
+July 20	13	Staff Sergeant Oz Mendelovich		Mendelovich	21	Israeli	M	135	2	0	0	
+July 19	12	Staff Sergeant Nissim Sean Carmeli		Carmeli	21	Israeli	M	31	2	0	0	
+July 20	13	Staff Sergeant Moshe Malko		Malko	20	Israeli	M	131	2	0	0	
+July 20	13	Staff Sergeant Jordan Bensemhoun		Bensemhoun	22	Israeli	M	25	2	0	0	
+July 21	14	Staff Sergeant Yuval Dagan		Dagan	22	Israeli	M	41	2	0	0	
+July 21	14	Staff Sergeant Tal Ifrach		Ifrach	21	Israeli	M	96	2	0	0	
+July 21	14	Sergeant Nadav Goldmacher		Goldmacher	23	Israeli	M	85	2	0	0	
+July 21	14	Second Lieutenant Yuval Haiman		Haiman	21	Israeli	M	81	2	0	0	
+July 21	14	Sergeant-Major Bayhesain Kshaun		Kshaun	39	Israeli	M	129	3	0	0	
+July 21	14	Lieutenant-Colonel Dolev Keidar		Keidar	38	Israeli	M	115	3	0	0	
+July 21	14	Sergeant First Class Oded Ben Sira		Sira	22	Israeli	M	199	2	0	0	
+July 21	14	Non-Commissioned Officer Ohad Shemesh		Shemesh	27	Israeli	M	198	3	0	0	
+July 22	15	Staff Sergeant Avitar Moshe Torjamin		Torjamin	20	Israeli	M	215	2	0	0	
+July 22	15	Captain Dmitri Levitas		Levitas	26	Israeli	M	125	3	0	0	
+July 23	16	First Lieutenant Natan Cohen		Cohen	23	Israeli	M	45	2	0	0	
+July 25	18	First Sgt. Amit Yeori		Yeori	20	Israeli	M	255	2	0	0	
+July 26	19	Second Lt. Roy Peles		Peles	21	Israeli	M	165	2	0	0	
+July 26	19	First Sgt. Gal Bason		Bason	21	Israeli	M	21	2	0	0	
+July 26	19	First Sgt. Avraham Grintzvaig		Grintzvaig	21	Israeli	M	88	2	0	0	
+July 24	17	Capt. Liad Lavi		Lavi	20	Israeli	M	121	2	0	0	
+July 22	15	Chief Warrant Officer Rami Kahlon		Kahlon	39	Israeli	M	111	3	0	0	
+July 26	19	Sgt. First Class (res.) Barak Refael Degorker		Degorker	27	Israeli	M	45	3	0	0	
+July 28	21	Staff Sgt. Moshe Davino		Davino	20	Israeli	M	41	2	0	0	
+July 28	21	Staff Sgt. Adi Briga		Briga	23	Israeli	M	38	2	0	0	
+July 28	21	Cpl. Niran Cohen		Cohen	20	Israeli	M	45	2	0	0	
+July 28	21	Cpl. Meidan Maymon Biton		Biton	20	Israeli	M	29	2	0	0	
+July 28	21	Staff Sgt. Eliav Eliyahu Haim Kahlon		Kahlon	22	Israeli	M	111	2	0	0	
+July 28	21	Sgt. Dor Dery		Dery	18	Israeli	M	45	2	0	0	
+July 28	21	Sgt. Sagi Erez		Erez	19	Israeli	M	68	2	0	0	
+July 28	21	Sgt. Barkey Ishai Shor		Shor	21	Israeli	M	198	2	0	0	
+July 28	21	Sgt. Daniel Kedmi		Kedmi	18	Israeli	M	115	2	0	0	
+July 28	21	Sgt. Nadav Raimond		Raimond	19	Israeli	M	181	2	0	0	
+July 30	23	Staff Sgt. Matan Gotlib		Gotlib	21	Israeli	M	85	2	0	0	
+July 30	23	Staff Sgt. Omer Hay		Hay	21	Israeli	M	81	2	0	0	
+July 30	23	Staff Sgt. Guy Algranati		Algranati	20	Israeli	M	22	2	0	0	
+July 31	24	Staff Sgt. Shay Kushnir		Kushnir	20	Israeli	M	131	2	0	0	
+July 31	24	Capt. Omri Tal		Tal	22	Israeli	M	201	2	0	0	
+July 31	24	Sgt. First Class Daniel Marash		Marash	22	Israeli	M	131	2	0	0	
+July 31	24	Staff Sgt. Noam Rosenthal		Rosenthal	20	Israeli	M	195	2	0	0	
+August 1	25	Capt. (res.) Liran Adir		Adir	31	Israeli	M	14	3	0	0	
+August 1	25	Staff Sgt. Liel Gidoni		Gidoni	20	Israeli	M	79	2	0	0	
+August 1	25	Mjr. Benya Sharel		Sharel	26	Israeli	M	198	3	0	0	

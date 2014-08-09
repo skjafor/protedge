@@ -1,0 +1,1458 @@
+Date	Ordinal_day	Full_name	First_name	Last_name	Age	Ethnic_group	Sex	Name_summary	Age_group	Name_unknown	Age_unknown	Circumstances
+August 04	28	Dia'ed-Deen Mohammad al-Madhoun	Dia'ed-Deen	al-Madhoun	23	Palestinian	M	131	2	0	0	Dia'ed-Deen Mohammad al-Madhoun, 23, Gaza.
+August 04	28	Ahmad Banat	Ahmad	Banat	22	Palestinian	M	21	2	0	0	Ahmad Banat, 22, Gaza.
+August 04	28	Hamada Khalil al-Qaaq	Hamada	al-Qaaq	NA	Palestinian	M	171	0	0	1	Hamada Khalil al-Qaaq, Beit Lahia.
+August 04	28	Ahmad Khaled al-Qaaq	Ahmad	al-Qaaq	NA	Palestinian	M	171	0	0	1	Ahmad Khaled al-Qaaq, Beit Lahia.
+August 04	28	Suleiman Mohammad Ma'rouf	Suleiman	Ma'rouf	NA	Palestinian	M	131	0	0	1	Suleiman Mohammad Ma'rouf, Beit Lahia.
+August 04	28	Zaher al-Andah	Zaher	al-Andah	NA	Palestinian	M	24	0	0	1	Zaher al-Andah, Beit Lahia.
+August 04	28	Abdul-Nasser al-Ajjoury	Abdul-Nasser	al-Ajjoury	NA	Palestinian	M	20	0	0	1	Abdul-Nasser al-Ajjoury, Beit Lahia.
+August 04	28	Abdul-Hai Salama al-Qreinawi	Abdul-Hai	al-Qreinawi	45	Palestinian	M	188	3	0	0	Abdul-Hai Salama al-Qreinawi, 45, Gaza.
+August 04	28	Mohammad Sabri Atallah	Mohammad	Atallah	21	Palestinian	M	30	2	0	0	Mohammad Sabri Atallah, 21, Gaza.
+August 04	28	Raghd Mas'oud	Raghd	Mas'oud	7	Palestinian	F	131	1	0	0	Raghd Mas'oud, 7, Rafah.
+August 04	28	Daniel Abdullah Abu Mansour	Daniel	Mansour	44	Palestinian	M	131	3	0	0	Daniel Abdullah Abu Mansour, 44, Jabalia, Northern Gaza
+August 04	28	Abdul-Nasser Ajjouri	Abdul-Nasser	Ajjouri	NA	Palestinian	M	20	0	0	1	Abdul-Nasser Ajjouri, Jabalia., Northern Gaza
+August 04	28	Ashraf Mashal	Ashraf	Mashal	25	Palestinian	M	131	3	0	0	Ashraf Mashal, 25, Rafah.
+August 04	28	Fadi Madhi	Fadi	Madhi	23	Palestinian	M	131	2	0	0	Fadi Madhi, 23, Rafah.
+August 04	28	Aseel Mohammad al-Bakri	Aseel	al-Bakri	8	Palestinian	F	21	1	0	0	Aseel Mohammad al-Bakri, 8,, Shati' Refugee camp Northern Gaza.
+August 04	28	Saher Talal Abu Mohsen	Saher	Mohsen	23	Palestinian	M	145	2	0	0	Saher Talal Abu Mohsen, 23, Rafah.
+August 04	28	Aseel Saleh Hussein Abu Mohsen	Aseel	Mohsen	18	Palestinian	F	145	2	0	0	Aseel Saleh Hussein Abu Mohsen, 18, Rafah.
+August 04	28	Ebtisam Hammad al-Mahmoum	Ebtisam	al-Mahmoum	18	Palestinian	F	131	2	0	0	Ebtisam Hammad al-Mahmoum, 18, Rafah.
+August 04	28	Hiba Mustafa al-Mahmoum	Hiba	al-Mahmoum	7	Palestinian	F	131	1	0	0	Hiba Mustafa al-Mahmoum, 7, Rafah.
+August 04	28	Obada Mustafa al-Mahmoud	Obada	al-Mahmoud	3	Palestinian	F	131	1	0	0	Obada Mustafa al-Mahmoud, 3, Rafah.
+August 04	28	Abdullah Hussein Mousa Mubarak	Abdullah	Mubarak	50	Palestinian	M	151	3	0	0	Abdullah Hussein Mousa Mubarak, 50, Northern Gaza.
+August 04	28	Mahmoud Zaki Lahham	Mahmoud	Lahham	25	Palestinian	M	121	3	0	0	Mahmoud Zaki Lahham, 25, Khan Younis.
+August 04	28	Ahmad Abdul-Halim Mohammad al-Astal	Ahmad	al-Astal	26	Palestinian	M	29	3	0	0	Ahmad Abdul-Halim Mohammad al-Astal, 26, Khan Younis.
+August 04	28	Walid Darabiyyah	Walid	Darabiyyah	NA	Palestinian	M	41	0	0	1	Walid Darabiyyah, Northern Gaza.
+August 04	28	Amro Mohjez	Amro	Mohjez	NA	Palestinian	M	145	0	0	1	Amro Mohjez, Northern Gaza.
+August 04	28	Mohammad Saleh Shemaly	Mohammad	Shemaly	60	Palestinian	M	198	4	0	0	Mohammad Saleh Shemaly, 60, Gaza.
+August 04	28	Mohammad Fawzi Bhar	Mohammad	Bhar	22	Palestinian	M	28	2	0	0	Mohammad Fawzi Bhar, 22, Gaza.
+August 04	28	Mohammad Hosni Sukkar	Mohammad	Sukkar	20	Palestinian	M	211	2	0	0	Mohammad Hosni Sukkar, 20, Gaza.
+August 04	28	Mohammad Amjad Awida'	Mohammad	Awida'	12	Palestinian	M	33	1	0	0	Mohammad Amjad Awida', age 12, Rafah.
+August 04	28	Amal Amjad Awida'	Amal	Awida'	5	Palestinian	F	33	1	0	0	Amal Amjad Awida', age 5, Rafah.
+August 04	28	Karam Mahrous Dahir	Karam	Dahir	24	Palestinian	M	41	2	0	0	Karam Mahrous Dahir, 24, Rafah.
+August 04	28	Ibrahim al-Masharawi	Ibrahim	al-Masharawi	30	Palestinian	M	131	3	0	0	Ibrahim al-Masharawi, 30, Gaza City.
+August 04	28	Ebtisam al-Bakri	Ebtisam	al-Bakri	38	Palestinian	F	21	3	0	0	Ebtisam al-Bakri, 38, Gaza City.
+August 04	28	Mahmoud Zaki al-Laham	Mahmoud	al-Laham	25	Palestinian	M	121	3	0	0	Mahmoud Zaki al-Laham, 25, Khan Younis.
+August 04	28	Ahmad Abdel-Halim Mohammad al-Astal	Ahmad	al-Astal	26	Palestinian	M	29	3	0	0	Ahmad Abdel-Halim Mohammad al-Astal, 26, Khan Younis.
+August 04	28	Fayez Ismail Abu Hamad	Fayez	Hamad	34	Palestinian	M	81	3	0	0	Fayez Ismail Abu Hamad, 34, Khan Younis.
+August 04	28	Saleh Ahmad al-Ghouti	Saleh	al-Ghouti	22	Palestinian	M	78	2	0	0	Saleh Ahmad al-Ghouti, 22, Rafah
+August 03	27	Fares Abu Jazar	Fares	Jazar	2	Palestinian	M	101	1	0	0	Fares Abu Jazar, 2, Rafah.
+August 03	27	Maria Abu Jazar	Maria	Jazar	2	Palestinian	F	101	1	0	0	Maria Abu Jazar, 2,, Twins Rafah.
+August 03	27	Amani Abu Jazar	Amani	Jazar	23	Palestinian	F	101	2	0	0	Amani Abu Jazar, 23, Rafah.
+August 03	27	Issa Sha'er	Issa	Sha'er	NA	Palestinian	M	198	0	0	1	Issa Sha'er, Rafah.
+August 03	27	Saed Mahmoud al-Lahwani	Saed	al-Lahwani	NA	Palestinian	M	121	0	0	1	Saed Mahmoud al-Lahwani, Rafah.
+August 03	27	Hatem Abdul-Rahman Wahdan	Hatem	Wahdan	50	Palestinian	M	231	3	0	0	Hatem Abdul-Rahman Wahdan, 50, Jabalia.
+August 03	27	Seniora Wahdan	Seniora	Wahdan	27	Palestinian	NA	231	3	0	0	Seniora Wahdan, 27, Jabalia.
+August 03	27	Jamila Jamal Wahdan	Jamila	Wahdan	NA	Palestinian	F	231	0	0	1	Jamila Jamal Wahdan, Jabalia.
+August 03	27	Mohammad al-Hour	Mohammad	al-Hour	30	Palestinian	M	95	3	0	0	Mohammad al-Hour, 30, Rafah.
+August 03	27	Nasrallah al-Masry	Nasrallah	al-Masry	NA	Palestinian	M	131	0	0	1	Nasrallah al-Masry, Rafah.
+August 03	27	Mohammad Ismael al-Ghoul	Mohammad	al-Ghoul	NA	Palestinian	M	78	0	0	1	Mohammad Ismael al-Ghoul, Rafah.
+August 03	27	Wael Ismael al-Ghoul	Wael	al-Ghoul	NA	Palestinian	M	78	0	0	1	Wael Ismael al-Ghoul, Rafah.
+August 03	27	Ismael Mohammad al-Ghoul	Ismael	al-Ghoul	NA	Palestinian	M	78	0	0	1	Ismael Mohammad al-Ghoul, Rafah.
+August 03	27	Ismael Wael al-Ghoul	Ismael	al-Ghoul	NA	Palestinian	M	78	0	0	1	Ismael Wael al-Ghoul, Rafah.
+August 03	27	Khadra Khaled al-Ghoul	Khadra	al-Ghoul	NA	Palestinian	M	78	0	0	1	Khadra Khaled al-Ghoul, Rafah.
+August 03	27	Asma' Ismael al-Ghoul	Asma'	al-Ghoul	NA	Palestinian	F	78	0	0	1	Asma' Ismael al-Ghoul, Rafah.
+August 03	27	Malak Wael al-Ghoul	Malak	al-Ghoul	NA	Palestinian	F	78	0	0	1	Malak Wael al-Ghoul, Rafah.
+August 03	27	Mustafa Wael al-Ghoul	Mustafa	al-Ghoul	NA	Palestinian	M	78	0	0	1	Mustafa Wael al-Ghoul, Rafah.
+August 03	27	Hanadi Ismael al-Ghoul	Hanadi	al-Ghoul	NA	Palestinian	F	78	0	0	1	Hanadi Ismael al-Ghoul, Rafah.
+August 03	27	'Atwa Suleiman Khattab	'Atwa	Khattab	64	Palestinian	M	118	4	0	0	'Atwa Suleiman Khattab, 64, Rafah.
+August 03	27	Remas 'Atwa al-'Attar	Remas	al-'Attar	NA	Palestinian	M	30	0	0	1	Remas 'Atwa al-'Attar, Khattab, Rafah.
+August 03	27	Mohammad 'Atwa Khattab	Mohammad	Khattab	NA	Palestinian	M	118	0	0	1	Mohammad 'Atwa Khattab, Rafah.
+August 03	27	Suleiman 'Atwa Khattab	Suleiman	Khattab	NA	Palestinian	M	118	0	0	1	Suleiman 'Atwa Khattab, Rafah
+August 03	27	Nevin Suleiman Khattab	Nevin	Khattab	NA	Palestinian	M	118	0	0	1	Nevin Suleiman Khattab, Rafah
+August 03	27	Amira Ahmad Khattab	Amira	Khattab	NA	Palestinian	F	118	0	0	1	Amira Ahmad Khattab
+August 03	27	Rajab Abdul-Rahman Sharafi	Rajab	Sharafi	10	Palestinian	M	198	1	0	0	Rajab Abdul-Rahman Sharafi, 10, Jabalia
+August 03	27	Mahmoud Abdullah Sharafi	Mahmoud	Sharafi	26	Palestinian	M	198	3	0	0	Mahmoud Abdullah Sharafi, 26, Jabalia
+August 03	27	Najah Rajab Sharafi	Najah	Sharafi	48	Palestinian	F	198	3	0	0	Najah Rajab Sharafi, 48, Jabalia
+August 03	27	Turkiyya Mahmoud 'Okal	Turkiyya	'Okal	60	Palestinian	M	161	4	0	0	Turkiyya Mahmoud 'Okal, 60, Rafah
+August 03	27	Elham Mohammad Mahmoud 'Okal	Elham	'Okal	34	Palestinian	F	161	3	0	0	Elham Mohammad Mahmoud 'Okal, 34, Rafah
+August 03	27	Mahmoud As'ad Mohammad 'Okal	Mahmoud	'Okal	18	Palestinian	M	161	2	0	0	Mahmoud As'ad Mohammad 'Okal, 18, Rafah
+August 03	27	Mahmoud Mohammad Na'im 'Okal	Mahmoud	'Okal	10	Palestinian	M	161	1	0	0	Mahmoud Mohammad Na'im 'Okal, 10, Rafah
+August 03	27	'Ahed Badran	'Ahed	Badran	NA	Palestinian	M	21	0	0	1	'Ahed Badran, Northern Gaza.
+August 03	27	Mohammad Abu Rajal	Mohammad	Rajal	NA	Palestinian	M	181	0	0	1	Mohammad Abu Rajal, UN School, Rafah.
+August 03	27	Sami Abdullah Qishta'	Sami	Qishta'	NA	Palestinian	M	179	0	0	1	Sami Abdullah Qishta', UN School, Rafah.
+August 03	27	Sami Ismael Abu Shaouf	Sami	Shaouf	NA	Palestinian	M	198	0	0	1	Sami Ismael Abu Shaouf, UN School, Rafah.
+August 03	27	Ahmad Khaled Abu Harba'	Ahmad	Harba'	NA	Palestinian	M	81	0	0	1	Ahmad Khaled Abu Harba', UN School, Rafah.
+August 03	27	Mohammad Mosa'ed Qishta'	Mohammad	Qishta'	NA	Palestinian	M	179	0	0	1	Mohammad Mosa'ed Qishta', UN School, Rafah.
+August 03	27	Hazem Abdel-Baset Hilal	Hazem	Hilal	NA	Palestinian	M	89	0	0	1	Hazem Abdel-Baset Hilal, UN School, Rafah.
+August 03	27	Amr Tariq Abu al-Rous	Amr	al-Rous	NA	Palestinian	M	195	0	0	1	Amr Tariq Abu al-Rous, UN School, Rafah.
+August 03	27	Ahmad Kamal al-Nahhal	Ahmad	al-Nahhal	NA	Palestinian	M	141	0	0	1	Ahmad Kamal al-Nahhal, UN School, Rafah.
+August 03	27	Yousef Akram Skafi	Yousef	Skafi	NA	Palestinian	M	201	0	0	1	Yousef Akram Skafi, UN School, Rafah.
+August 03	27	Tareq Sa'id Abu al-Rous	Tareq	al-Rous	NA	Palestinian	M	195	0	0	1	Tareq Sa'id Abu al-Rous, UN School, Rafah.
+August 03	27	Abdul-Karim Najm	Abdul-Karim	Najm	NA	Palestinian	M	141	0	0	1	Abdul-Karim Najm, northern Gaza.
+August 03	27	Bilal Abdul-Karim Najm	Bilal	Najm	NA	Palestinian	M	141	0	0	1	Bilal Abdul-Karim Najm, son of Abdel-Karim , northern Gaza.
+August 03	27	Ahmad Abdعl-Karim Najm	Ahmad	Najm	NA	Palestinian	M	141	0	0	1	Ahmad Abdعl-Karim Najm, son of Abdel-Karim , northern Gaza.
+August 03	27	Raghd Najm	Raghd	Najm	NA	Palestinian	F	141	0	0	1	Raghd Najm, northern Gaza.
+August 03	27	Soha Najm	Soha	Najm	NA	Palestinian	F	141	0	0	1	Soha Najm, northern Gaza.
+August 03	27	Shimaa' Wael Qassim	Shimaa'	Qassim	NA	Palestinian	F	171	0	0	1	Shimaa' Wael Qassim, northern Gaza.
+August 03	27	Rowan Ahmed Majdalawi	Rowan	Majdalawi	7	Palestinian	M	131	1	0	0	Rowan Ahmed Majdalawi, 7 years old, northern Gaza.
+August 03	27	Mohammad Ahmad Majdalawi	Mohammad	Majdalawi	6	Palestinian	M	131	1	0	0	Mohammad Ahmad Majdalawi, 6 years old, northern Gaza.
+August 03	27	Ras Hadi Majdalawi	Ras	Majdalawi	NA	Palestinian	M	131	0	0	1	Ras Hadi Majdalawi , northern Gaza.
+August 03	27	Mahmoud Abdel-Hadi Majdalawi	Mahmoud	Majdalawi	NA	Palestinian	M	131	0	0	1	Mahmoud Abdel-Hadi Majdalawi , northern Gaza.
+August 03	27	Abdullah Majdalawi	Abdullah	Majdalawi	NA	Palestinian	M	131	0	0	1	Abdullah Majdalawi, northern Gaza.
+August 03	27	Khalil Mohammad Ramadan Abu Daba'a	Khalil	Daba'a	42	Palestinian	M	41	3	0	0	Khalil Mohammad Ramadan Abu Daba'a, 42, Rafah.
+August 03	27	Munir Abu Daba'a	Munir	Daba'a	NA	Palestinian	M	41	0	0	1	Munir Abu Daba'a, Rafah.
+August 03	27	Qassim Mahmoud Qassim	Qassim	Qassim	40	Palestinian	M	171	3	0	0	Qassim Mahmoud Qassim, 40, northern Gaza.
+August 03	27	Mohammad Sa'dy Ahmad	Mohammad	Ahmad	37	Palestinian	M	18	3	0	0	Mohammad Sa'dy Ahmad, 37, northern Gaza.
+August 03	27	Ahmad Qassem	Ahmad	Qassem	NA	Palestinian	M	171	0	0	1	Ahmad Qassem, Beit Lahia.
+August 03	27	Qassem Qassem	Qassem	Qassem	NA	Palestinian	M	171	0	0	1	Qassem Qassem, Beit Lahia.
+August 03	27	Basil Walid at-Tala'a	Basil	at-Tala'a	23	Palestinian	M	201	2	0	0	Basil Walid at-Tala'a, 23, Nusseirat.
+August 03	27	Abdullah Soheil Abu Shawish	Abdullah	Shawish	24	Palestinian	M	198	2	0	0	Abdullah Soheil Abu Shawish, 24, Nusseirat.
+August 02	26	Haitham Yasser Abdel Wahab	Haitham	Wahab	16	Palestinian	M	231	2	0	0	Haitham Yasser Abdel Wahab, 16, Rafah.
+August 02	26	Mohamed Issa Ashaar	Mohamed	Ashaar	NA	Palestinian	M	29	0	0	1	Mohamed Issa Ashaar, Rafah.
+August 02	26	Hossam Yassin Abu Naqira	Hossam	Naqira	20	Palestinian	M	141	2	0	0	Hossam Yassin Abu Naqira, 20, Rafah.
+August 02	26	Mousa Yasin Abu Naqira	Mousa	Naqira	NA	Palestinian	M	141	0	0	1	Mousa Yasin Abu Naqira, his brother, Rafah.
+August 02	26	Ola Bassam Al-Nairab	Ola	Al-Nairab	NA	Palestinian	M	141	0	0	1	Ola Bassam Al-Nairab, Rafah.
+August 02	26	Arwa Mohamed al-Nairab	Arwa	al-Nairab	NA	Palestinian	F	141	0	0	1	Arwa Mohamed al-Nairab, Rafah.
+August 02	26	Fida Yousef Abu Suleiman	Fida	Suleiman	23	Palestinian	M	211	2	0	0	Fida Yousef Abu Suleiman, 23, Rafah.
+August 02	26	Mariam Hasan Abu Jazzar	Mariam	Jazzar	60	Palestinian	F	101	4	0	0	Mariam Hasan Abu Jazzar, 60, Rafah.
+August 02	26	Maha Raed Abu Suleiman	Maha	Suleiman	NA	Palestinian	F	211	0	0	1	Maha Raed Abu Suleiman, Rafah.
+August 02	26	Mohammad Rami Abu Suleiman	Mohammad	Suleiman	NA	Palestinian	M	211	0	0	1	Mohammad Rami Abu Suleiman, Rafah.
+August 02	26	Ahmad Rami Abu Suleiman	Ahmad	Suleiman	NA	Palestinian	M	211	0	0	1	Ahmad Rami Abu Suleiman, Rafah.
+August 02	26	Lama Rami Abu Suleiman	Lama	Suleiman	NA	Palestinian	M	211	0	0	1	Lama Rami Abu Suleiman, Rafah.
+August 02	26	Jana Rami Abu Suleiman	Jana	Suleiman	NA	Palestinian	F	211	0	0	1	Jana Rami Abu Suleiman, Rafah.
+August 02	26	Mohammad Fouad Al-Dedda	Mohammad	Al-Dedda	28	Palestinian	M	45	3	0	0	Mohammad Fouad Al-Dedda, 28, Jabalia.
+August 02	26	Issa Saadi Ashaar	Issa	Ashaar	40	Palestinian	M	29	3	0	0	Issa Saadi Ashaar, 40, Khan Younis.
+August 02	26	Yasser Yousef Abu Dbagh	Yasser	Dbagh	20	Palestinian	M	42	2	0	0	Yasser Yousef Abu Dbagh, 20, Nusseirat, Central Gaza.
+August 02	26	Amro Tareq Hasan Qandil	Amro	Qandil	17	Palestinian	M	171	2	0	0	Amro Tareq Hasan Qandil, 17, Central Gaza
+August 02	26	Wael Nihad Sayyed	Wael	Sayyed	23	Palestinian	M	191	2	0	0	Wael Nihad Sayyed, 23, Central Gaza
+August 02	26	Mohammad Taiseer Hasan Qandil	Mohammad	Qandil	20	Palestinian	M	171	2	0	0	Mohammad Taiseer Hasan Qandil, 20, Central Gaza.
+August 02	26	Hamdi Mohammad Abdul-Aziz Ayyad	Hamdi	Ayyad	NA	Palestinian	M	35	0	0	1	Hamdi Mohammad Abdul-Aziz Ayyad, Gaza.
+August 02	26	Shadi Hamdi Mohammad Ayyad	Shadi	Ayyad	NA	Palestinian	M	35	0	0	1	Shadi Hamdi Mohammad Ayyad, Gaza.
+August 02	26	Sadia Abu Taha	Sadia	Taha	40	Palestinian	F	201	3	0	0	Sadia Abu Taha, 40 , Rafah.
+August 02	26	Mohammed Abu Taha	Mohammed	Taha	27	Palestinian	M	201	3	0	0	Mohammed Abu Taha, 27, Rafah.
+August 02	26	Youssef Abu Taha	Youssef	Taha	NA	Palestinian	M	201	0	0	1	Youssef Abu Taha, Rafah.
+August 02	26	Rezeq Abu Taha	Rezeq	Taha	NA	Palestinian	M	201	0	0	1	Rezeq Abu Taha, two months, Rafah.
+August 02	26	Yousef Daoud Abu Madi	Yousef	Madi	65	Palestinian	M	131	4	0	0	Yousef Daoud Abu Madi, 65, Nusseirat.
+August 02	26	Hassan Yousef Abu Madi	Hassan	Madi	NA	Palestinian	M	131	0	0	1	Hassan Yousef Abu Madi, Nusseirat.
+August 02	26	Karim Yousef Abu Madi 24	Karim	Yousef	24	Palestinian	M	265	2	0	0	Karim Yousef Abu Madi 24, Nusseirat.
+August 02	26	Amin Yousef Abu Madi	Amin	Madi	5	Palestinian	M	131	1	0	0	Amin Yousef Abu Madi, 5, Nusseirat.
+August 02	26	Muhammad Hassan Qeshta	Muhammad	Qeshta	NA	Palestinian	M	175	0	0	1	Muhammad Hassan Qeshta, Rafah.
+August 02	26	Ahmed Shtewi Qeshta	Ahmed	Qeshta	NA	Palestinian	M	175	0	0	1	Ahmed Shtewi Qeshta, Rafah.
+August 02	26	Yahya al-Nems	Yahya	al-Nems	NA	Palestinian	M	145	0	0	1	Yahya al-Nems, Rafah.
+August 02	26	Hazem al-Nems	Hazem	al-Nems	NA	Palestinian	M	145	0	0	1	Hazem al-Nems , Rafah.
+August 02	26	Mohammad al-Nems	Mohammad	al-Nems	NA	Palestinian	M	145	0	0	1	Mohammad al-Nems, Rafah.
+August 02	26	Osama Abu Nakirah	Osama	Nakirah	NA	Palestinian	M	141	0	0	1	Osama Abu Nakirah, Rafah.
+August 02	26	Mousa Mohammad Ahmad Abu Rajila	Mousa	Rajila	25	Palestinian	M	181	3	0	0	Mousa Mohammad Ahmad Abu Rajila, 25, Rafah.
+August 02	26	Salma Suleiman Mohammad Radwan	Salma	Radwan	86	Palestinian	F	181	4	0	0	Salma Suleiman Mohammad Radwan, 86, Rafah.
+August 02	26	Ibrahim Abdel-Hakim Daoud al-Zaqzouq	Ibrahim	al-Zaqzouq	22	Palestinian	M	261	2	0	0	Ibrahim Abdel-Hakim Daoud al-Zaqzouq, 22, Rafah.
+August 02	26	Mohammad Foaz Ibrahim Abu Rajilah	Mohammad	Rajilah	26	Palestinian	M	181	3	0	0	Mohammad Foaz Ibrahim Abu Rajilah, 26, Rafah.
+August 02	26	Hazim Khaled Abdel-Maadi Awda'	Hazim	Awda'	NA	Palestinian	M	33	0	0	1	Hazim Khaled Abdel-Maadi Awda', Rafah.
+August 02	26	Hathifa Abu Teir	Hathifa	Teir	NA	Palestinian	M	205	0	0	1	Hathifa Abu Teir, Gaza City.
+August 02	26	Nabil al-Najjar	Nabil	al-Najjar	NA	Palestinian	M	141	0	0	1	Nabil al-Najjar, Gaza City.
+August 02	26	Kamal Abu Teir	Kamal	Teir	NA	Palestinian	M	205	0	0	1	Kamal Abu Teir, Gaza City.
+August 02	26	Ahmad Abu Teir	Ahmad	Teir	NA	Palestinian	M	205	0	0	1	Ahmad Abu Teir, Gaza City.
+August 02	26	Yahya Jamal Musa Shabat	Yahya	Shabat	29	Palestinian	M	198	3	0	0	Yahya Jamal Musa Shabat, 29, Gaza City.
+August 01	25	Abdul-Malek Abdul-Salam al-Farra	Abdul-Malek	al-Farra	58	Palestinian	M	61	4	0	0	Abdul-Malek Abdul-Salam al-Farra, 58, Khan Younis.
+August 01	25	Osama Abdul-Malek al-Farra	Osama	al-Farra	34	Palestinian	M	61	3	0	0	Osama Abdul-Malek al-Farra, 34, Khan Younis.
+August 01	25	Emad Abdul-Hafeth al-Farra	Emad	al-Farra	28	Palestinian	M	61	3	0	0	Emad Abdul-Hafeth al-Farra, 28, Khan Younis.
+August 01	25	Awatef Ezzeddin al-Farra	Awatef	al-Farra	29	Palestinian	F	61	3	0	0	Awatef Ezzeddin al-Farra, 29, Khan Younis.
+August 01	25	Mohammad Mahmoud al-Farra	Mohammad	al-Farra	12	Palestinian	M	61	1	0	0	Mohammad Mahmoud al-Farra, 12, Khan Younis.
+August 01	25	Lojein Bassem al-Farra	Lojein	al-Farra	4	Palestinian	M	61	1	0	0	Lojein Bassem al-Farra, 4, Khan Younis.
+August 01	25	Yara Abdul-Salam al-Farra	Yara	al-Farra	8	Palestinian	F	61	1	0	0	Yara Abdul-Salam al-Farra, 8, Khan Younis.
+August 01	25	Nadine Mahmoud al-Farra	Nadine	al-Farra	NA	Palestinian	F	61	0	0	1	Nadine Mahmoud al-Farra, Khan Younis.
+August 01	25	Abdullah Awad al-Breem	Abdullah	al-Breem	NA	Palestinian	M	38	0	0	1	Abdullah Awad al-Breem, Khan Younis.
+August 01	25	Mohammad Suleiman al-Breem	Mohammad	al-Breem	NA	Palestinian	M	38	0	0	1	Mohammad Suleiman al-Breem, Khan Younis.
+August 01	25	Maisoun Ra'fat al-Breem	Maisoun	al-Breem	NA	Palestinian	M	38	0	0	1	Maisoun Ra'fat al-Breem, Khan Younis.
+August 01	25	Raed Abdul-Latif al-Qarra	Raed	al-Qarra	NA	Palestinian	M	171	0	0	1	Raed Abdul-Latif al-Qarra, Khan Younis.
+August 01	25	Sami Suleiman al-Madani	Sami	al-Madani	NA	Palestinian	M	131	0	0	1	Sami Suleiman al-Madani, Khan Younis.
+August 01	25	Husam Suleiman al-Madani	Husam	al-Madani	NA	Palestinian	M	131	0	0	1	Husam Suleiman al-Madani, Khan Younis.
+August 01	25	Ahmad Salim Abdin	Ahmad	Abdin	NA	Palestinian	M	12	0	0	1	Ahmad Salim Abdin, Khan Younis.
+August 01	25	Mohammad Ahmad Hamad	Mohammad	Hamad	NA	Palestinian	M	81	0	0	1	Mohammad Ahmad Hamad, Khan Younis.
+August 01	25	Mousa Hamad Abu 'Amran	Mousa	'Amran	NA	Palestinian	M	23	0	0	1	Mousa Hamad Abu 'Amran, Khan Younis.
+August 01	25	Hilal Eid Abu 'Amran	Hilal	'Amran	NA	Palestinian	M	23	0	0	1	Hilal Eid Abu 'Amran, Khan Younis.
+August 01	25	Ismael Zuheir Mohammadein	Ismael	Mohammadein	26	Palestinian	M	145	3	0	0	Ismael Zuheir Mohammadein, 26, Khan Younis.
+August 01	25	Maher Ja'far Hajjaj	Maher	Hajjaj	54	Palestinian	M	81	3	0	0	Maher Ja'far Hajjaj, 54, Khan Younis.
+August 01	25	Ahmad Mohammad Hassanein	Ahmad	Hassanein	NA	Palestinian	M	81	0	0	1	Ahmad Mohammad Hassanein, Gaza.
+August 01	25	Basil Diab al-Basyouni.	Basil	al-Basyouni.	NA	Palestinian	M	21	0	0	1	Basil Diab al-Basyouni.
+August 01	25	Shadi Mohammad Jom'a Abu Daher	Shadi	Daher	29	Palestinian	M	41	3	0	0	Shadi Mohammad Jom'a Abu Daher, 29, Khan Younis.
+August 01	25	Hasan Abdul-Majid al-Bayyoumi	Hasan	al-Bayyoumi	NA	Palestinian	M	21	0	0	1	Hasan Abdul-Majid al-Bayyoumi, Deir al-Balah.
+August 01	25	Mohammad Reziq Hassanein	Mohammad	Hassanein	20	Palestinian	M	81	2	0	0	Mohammad Reziq Hassanein, 20, Shuja'eyya, Gaza.
+August 01	25	Ibrahim Sulayman Al-Masri	Ibrahim	Al-Masri	50	Palestinian	M	131	3	0	0	Ibrahim Sulayman Al-Masri, 50 yrs, Rafah.
+August 01	25	Nadia Yousef Al-Masri	Nadia	Al-Masri	45	Palestinian	F	131	3	0	0	Nadia Yousef Al-Masri, 45 years, Rafah.
+August 01	25	Ibrahim Al-Masri	Ibrahim	Al-Masri	6	Palestinian	M	131	1	0	0	Ibrahim Al-Masri, 6 years, Rafah.
+August 01	25	Mohamed Anas Arafat	Mohamed	Arafat	0.333333333333	Palestinian	M	28	1	0	0	Mohamed Anas Arafat, 4 months, Rafah.
+August 01	25	Anas Ibrahim Hamad	Anas	Hamad	5	Palestinian	M	81	1	0	0	Anas Ibrahim Hamad, 5 years, Rafah.
+August 01	25	Sabri Shaykh Al-Eid	Sabri	Al-Eid	35	Palestinian	M	59	3	0	0	Sabri Shaykh Al-Eid, 35 years, Rafah.
+August 01	25	Mohammed Khalid Al-Aloul	Mohammed	Al-Aloul	30	Palestinian	M	22	3	0	0	Mohammed Khalid Al-Aloul, 30 years, Rafah.
+August 01	25	Ibrahim Mostafa Ghaneem	Ibrahim	Ghaneem	NA	Palestinian	M	78	0	0	1	Ibrahim Mostafa Ghaneem, Rafah.
+August 01	25	Amna Azamaly	Amna	Azamaly	NA	Palestinian	F	36	0	0	1	Amna Azamaly, Rafah.
+August 01	25	Yahya Abd Al-Karim Lafi	Yahya	Lafi	NA	Palestinian	M	121	0	0	1	Yahya Abd Al-Karim Lafi, Rafah.
+August 01	25	Musa Mohamed Abu Omran	Musa	Omran	NA	Palestinian	M	163	0	0	1	Musa Mohamed Abu Omran, Rafah.
+August 01	25	Hilal Eid Abu Omran	Hilal	Omran	NA	Palestinian	M	163	0	0	1	Hilal Eid Abu Omran, Rafah.
+August 01	25	Salama Mohamed Al-Zamaly	Salama	Al-Zamaly	NA	Palestinian	M	261	0	0	1	Salama Mohamed Al-Zamaly, Rafah.
+August 01	25	Nuha Jamal Abu Ziyada	Nuha	Ziyada	NA	Palestinian	F	269	0	0	1	Nuha Jamal Abu Ziyada, Rafah.
+August 01	25	Taiseer Ali Moamir'	Taiseer	Moamir'	NA	Palestinian	M	145	0	0	1	Taiseer Ali Moamir' , Rafah.
+August 01	25	Hussein Salaam Al-Jaafari	Hussein	Al-Jaafari	NA	Palestinian	M	101	0	0	1	Hussein Salaam Al-Jaafari, Rafah.
+August 01	25	Yousra Mohamed Abu Hazir	Yousra	Hazir	NA	Palestinian	F	81	0	0	1	Yousra Mohamed Abu Hazir, Rafah.
+August 01	25	Ataf Hamad Al-Mahmoum	Ataf	Al-Mahmoum	NA	Palestinian	F	131	0	0	1	Ataf Hamad Al-Mahmoum, Rafah.
+August 01	25	Mousa Ibrahim Abu Hazir	Mousa	Hazir	NA	Palestinian	M	81	0	0	1	Mousa Ibrahim Abu Hazir, Rafah.
+August 01	25	Ahmed Wisam Al-Abeed	Ahmed	Al-Abeed	4	Palestinian	M	12	1	0	0	Ahmed Wisam Al-Abeed, 4 years, Central Gaza.
+August 01	25	Souad Ali Al-Bahri	Souad	Al-Bahri	60	Palestinian	F	21	4	0	0	Souad Ali Al-Bahri, 60 years, Beit Lahia.
+August 01	25	Samal Nail Al-Barawi	Samal	Al-Barawi	0.666666666667	Palestinian	M	21	1	0	0	Samal Nail Al-Barawi, 8 months, Beit Lahia.
+August 01	25	Osama Abdul-Malik Abu Mualla	Osama	Mualla	37	Palestinian	M	151	3	0	0	Osama Abdul-Malik Abu Mualla, 37 years, Nuseirat
+August 01	25	Atif Sohail Kandil 24 years	Atif	years	24	Palestinian	M	255	2	0	0	Atif Sohail Kandil 24 years, Maghazi
+August 01	25	Nihad Mohammed Yasin 24 years	Nihad	years	24	Palestinian	M	255	2	0	0	Nihad Mohammed Yasin 24 years, Gaza City
+August 01	25	Faiz Tareq Yassin 16 years	Faiz	years	16	Palestinian	M	255	2	0	0	Faiz Tareq Yassin 16 years, Gaza City
+August 01	25	Hassan Ismail Yassin	Hassan	Yassin	32	Palestinian	M	251	3	0	0	Hassan Ismail Yassin, 32 years old, Gaza City.
+August 01	25	Atef Zamili	Atef	Zamili	NA	Palestinian	M	261	0	0	1	Atef Zamili, Rafah.
+August 01	25	Joseph Jameen Sheikh Eid	Joseph	Eid	NA	Palestinian	M	59	0	0	1	Joseph Jameen Sheikh Eid, Rafah.
+August 01	25	Yousef Jaber Drabiah	Yousef	Drabiah	NA	Palestinian	M	58	0	0	1	Yousef Jaber Drabiah, Rafah
+August 01	25	Wajih Sha'ath	Wajih	Sha'ath	NA	Palestinian	M	198	0	0	1	Wajih Sha'ath, Khan Younis.
+August 01	25	Fadi Al-Qawasmi	Fadi	Al-Qawasmi	NA	Palestinian	M	171	0	0	1	Fadi Al-Qawasmi , Khan Younis.
+August 01	25	Ali Barbakh	Ali	Barbakh	NA	Palestinian	M	21	0	0	1	Ali Barbakh , Khan Younis.
+August 01	25	Aseel Sha'ban Gheith	Aseel	Gheith	3	Palestinian	F	78	1	0	0	Aseel Sha'ban Gheith, 3, Rafah.
+August 01	25	Sufian Farouq Gheith	Sufian	Gheith	35	Palestinian	M	78	3	0	0	Sufian Farouq Gheith, 35, Rafah.
+August 01	25	Farouq Gheith	Farouq	Gheith	65	Palestinian	M	78	4	0	0	Farouq Gheith, 65, Rafah.
+August 01	25	Ahlam No'man Zo'rob	Ahlam	Zo'rob	18	Palestinian	F	275	2	0	0	Ahlam No'man Zo'rob, 18, Rafah.
+August 01	25	Sabiha Zo'rob	Sabiha	Zo'rob	55	Palestinian	F	275	4	0	0	Sabiha Zo'rob, 55, Rafah.
+August 01	25	Amir Ra'fat Zo'rob	Amir	Zo'rob	7	Palestinian	M	275	1	0	0	Amir Ra'fat Zo'rob, 7, Rafah.
+August 01	25	Odai Ra'fat Zo'rob	Odai	Zo'rob	7	Palestinian	M	275	1	0	0	Odai Ra'fat Zo'rob, 7, Rafah.
+August 01	25	Rawan Nath'at Siyam	Rawan	Siyam	12	Palestinian	F	199	1	0	0	Rawan Nath'at Siyam, 12, Rafah.
+August 01	25	Su'ad No'man Zo'rob	Su'ad	Zo'rob	34	Palestinian	M	275	3	0	0	Su'ad No'man Zo'rob, 34, Rafat.
+August 01	25	Shahd Ra'fat Zo'rob	Shahd	Zo'rob	10	Palestinian	F	275	1	0	0	Shahd Ra'fat Zo'rob, 10, Rafah.
+August 01	25	Khaled Ra'fat Zo'rob	Khaled	Zo'rob	8	Palestinian	M	275	1	0	0	Khaled Ra'fat Zo'rob, 8, Rafah.
+July 31	24	Suleiman Baraka	Suleiman	Baraka	31	Palestinian	M	21	3	0	0	Suleiman Baraka, 31, Gaza.
+July 31	24	Aref Baraka	Aref	Baraka	58	Palestinian	M	21	4	0	0	Aref Baraka, 58, Gaza.
+July 31	24	Ahmed al-Loah	Ahmed	al-Loah	22	Palestinian	M	135	2	0	0	Ahmed al-Loah, 22, Gaza.
+July 31	24	Baraa' Yousef	Baraa'	Yousef	19	Palestinian	F	265	2	0	0	Baraa' Yousef, 19. Gaza.
+July 31	24	Maha Abdul-Nabi Salim Abu Hilal	Maha	Hilal	NA	Palestinian	F	89	0	0	1	Maha Abdul-Nabi Salim Abu Hilal, Rafah.
+July 31	24	Majdi Mohammad Ahmad Fseifis	Majdi	Fseifis	34	Palestinian	M	79	3	0	0	Majdi Mohammad Ahmad Fseifis, 34, Khan Younis.
+July 31	24	Mohammad Juma' an-Najjar	Mohammad	an-Najjar	32	Palestinian	M	141	3	0	0	Mohammad Juma' an-Najjar, 32, Khan Younis.
+July 31	24	Hani Abdullah Abu Mustafa	Hani	Mustafa	NA	Palestinian	M	151	0	0	1	Hani Abdullah Abu Mustafa, Khan Younis.
+July 31	24	Hanan Yusef Abu T'aima	Hanan	T'aima	NA	Palestinian	F	201	0	0	1	Hanan Yusef Abu T'aima, Khan Younis.
+July 31	24	Mahar an-Najjar	Mahar	an-Najjar	NA	Palestinian	M	141	0	0	1	Mahar an-Najjar, Khan Younis.
+July 31	24	Mahmoud Fouad an-Najjar	Mahmoud	an-Najjar	NA	Palestinian	M	141	0	0	1	Mahmoud Fouad an-Najjar, Khan Younis.
+July 31	24	Mohammad Daher	Mohammad	Daher	NA	Palestinian	M	41	0	0	1	Mohammad Daher, Gaza.
+July 31	24	Fadel Nader Almeghari	Fadel	Almeghari	27	Palestinian	M	22	3	0	0	Fadel Nader Almeghari, 27, Rafah.
+July 31	24	Mahdiyya Suleiman Omar Abu Louly	Mahdiyya	Louly	58	Palestinian	M	135	4	0	0	Mahdiyya Suleiman Omar Abu Louly, 58, Khan Younis.
+July 31	24	Tha'er Naji al-Amour	Tha'er	al-Amour	22	Palestinian	M	23	2	0	0	Tha'er Naji al-Amour, 22, Khan Younis.
+July 31	24	Mohammed Yousef Al-Abadla	Mohammed	Al-Abadla	21	Palestinian	M	12	2	0	0	Mohammed Yousef Al-Abadla, 21, Khan Younis.
+July 31	24	Abdullah abu Shabab 20	Abdullah	abu	20	Palestinian	M	12	2	0	0	Abdullah abu Shabab 20, Khan Younis.
+July 31	24	Alaa' 'Alweh 22	Alaa'	'Alweh	22	Palestinian	M	22	2	0	0	Alaa' 'Alweh 22, Khan Younis.
+July 31	24	Ahmed Salim Abdin	Ahmed	Abdin	NA	Palestinian	M	12	0	0	1	Ahmed Salim Abdin , Khan Younis.
+July 31	24	Mohamed Ahmed Hamad	Mohamed	Hamad	NA	Palestinian	M	81	0	0	1	Mohamed Ahmed Hamad, Khan Younis.
+July 31	24	Atiyyeh Salameh al-Hashash	Atiyyeh	al-Hashash	68	Palestinian	M	81	4	0	0	Atiyyeh Salameh al-Hashash, 68, Rafah.
+July 31	24	Hamza Fa'ek Ahmad al-Haddad	Hamza	al-Haddad	20	Palestinian	M	81	2	0	0	Hamza Fa'ek Ahmad al-Haddad, 20, , eastern Gaza City.
+July 31	24	Ibrahim Asa'ad Ahmad al-Haddad	Ibrahim	al-Haddad	21	Palestinian	M	81	2	0	0	Ibrahim Asa'ad Ahmad al-Haddad, 21, eastern Gaza City.
+July 31	24	Mohammad Ammar Sharaf	Mohammad	Sharaf	10	Palestinian	M	198	1	0	0	Mohammad Ammar Sharaf, 10, Gaza City.
+July 31	24	Mohammed Ra'fat Na'eem	Mohammed	Na'eem	NA	Palestinian	M	141	0	0	1	Mohammed Ra'fat Na'eem, Gaza Old City.
+July 31	24	Husam Ra'fat Na'eem	Husam	Na'eem	NA	Palestinian	M	141	0	0	1	Husam Ra'fat Na'eem, Gaza Old City.
+July 31	24	Kamal Abdul-karim al-Louh	Kamal	al-Louh	32	Palestinian	M	135	3	0	0	Kamal Abdul-karim al-Louh, 32, Deir al-Bala.
+July 31	24	Ibrahim Abdul-karim al-Louh	Ibrahim	al-Louh	29	Palestinian	M	135	3	0	0	Ibrahim Abdul-karim al-Louh, 29, Deir al-Bala.
+July 31	24	Khaled Nasr al-Louh	Khaled	al-Louh	46	Palestinian	M	135	3	0	0	Khaled Nasr al-Louh, 46, Deir al-Bala.
+July 31	24	Amaal Abdul-karim al-Masri	Amaal	al-Masri	48	Palestinian	F	131	3	0	0	Amaal Abdul-karim al-Masri, 48, Deir al-Bala.
+July 31	24	Ilham Yahya al-Louh	Ilham	al-Louh	27	Palestinian	M	135	3	0	0	Ilham Yahya al-Louh, 27, Deir al-Bala.
+July 31	24	Samih Kamal Abu al-Kheir	Samih	al-Kheir	63	Palestinian	M	118	4	0	0	Samih Kamal Abu al-Kheir, 63, Khan Younis.
+July 31	24	Othman Fawzi 'Abdeen	Othman	'Abdeen	17	Palestinian	M	12	2	0	0	Othman Fawzi 'Abdeen, 17, Khan Younis.
+July 31	24	Siham al-Ham	Siham	al-Ham	NA	Palestinian	F	81	0	0	1	Siham al-Ham, Khan Younis, Nusseirat.
+July 31	24	Mohammad Adel Ashour	Mohammad	Ashour	NA	Palestinian	M	29	0	0	1	Mohammad Adel Ashour, Nusseirat.
+July 31	24	Renad Ashraf Ashour	Renad	Ashour	NA	Palestinian	F	29	0	0	1	Renad Ashraf Ashour, Nusseirat.
+July 31	24	Abeer Nahed al-'Ata	Abeer	al-'Ata	NA	Palestinian	F	30	0	0	1	Abeer Nahed al-'Ata, Nusseirat.
+July 31	24	Naima Darwish Abu Shouq	Naima	Shouq	NA	Palestinian	F	198	0	0	1	Naima Darwish Abu Shouq, Nusseirat.
+July 31	24	Zaher Tawfiq Abu Maktoum	Zaher	Maktoum	NA	Palestinian	M	131	0	0	1	Zaher Tawfiq Abu Maktoum, Nusseirat.
+July 31	24	Ama' Rafat al-'Asa	Ama'	al-'Asa	NA	Palestinian	F	29	0	0	1	Ama' Rafat al-'Asa, Nusseirat.
+July 31	24	Hasan Nassr Zaqqout	Hasan	Zaqqout	NA	Palestinian	M	261	0	0	1	Hasan Nassr Zaqqout, Nusseirat.
+July 31	24	Labibeh Abu Shouqa	Labibeh	Shouqa	23	Palestinian	M	198	2	0	0	Labibeh Abu Shouqa, 23, Nusseirat.
+July 30	23	Ahmad Mohammad Yassin al-Majayda	Ahmad	al-Majayda	NA	Palestinian	M	131	0	0	1	Ahmad Mohammad Yassin al-Majayda, Khan Younis.
+July 30	23	Ali Mahmoud al-Astal	Ali	al-Astal	23	Palestinian	M	29	2	0	0	Ali Mahmoud al-Astal, 23, Khan Younis.
+July 30	23	Khaled Salim al-Astal	Khaled	al-Astal	26	Palestinian	M	29	3	0	0	Khaled Salim al-Astal, 26, Khan Younis.
+July 30	23	Mohammad Salim al-Astal	Mohammad	al-Astal	26	Palestinian	M	29	3	0	0	Mohammad Salim al-Astal, 26, Khan Younis.
+July 30	23	Ramzi Ibrahim al-Astal	Ramzi	al-Astal	21	Palestinian	M	29	2	0	0	Ramzi Ibrahim al-Astal, 21, Khan Younis.
+July 30	23	Odah Ahmad al-Astal	Odah	al-Astal	25	Palestinian	F	29	3	0	0	Odah Ahmad al-Astal, 25, Khan Younis.
+July 30	23	Ahmad Mahmoud Suleiman al-Astal	Ahmad	al-Astal	26	Palestinian	M	29	3	0	0	Ahmad Mahmoud Suleiman al-Astal, 26, Khan Younis.
+July 30	23	Ahmad Ibrahim Ali al-Astal	Ahmad	al-Astal	NA	Palestinian	M	29	0	0	1	Ahmad Ibrahim Ali al-Astal, Khan Younis.
+July 30	23	Khalil Ibrahim Ali al-Astal	Khalil	al-Astal	NA	Palestinian	M	29	0	0	1	Khalil Ibrahim Ali al-Astal, Khan Younis.
+July 30	23	Ezzedddin Jabr Mohammad al-Astal	Ezzedddin	al-Astal	NA	Palestinian	M	29	0	0	1	Ezzedddin Jabr Mohammad al-Astal, Khan Younis.
+July 30	23	Mohammad Mahmoud al-Astal	Mohammad	al-Astal	NA	Palestinian	M	29	0	0	1	Mohammad Mahmoud al-Astal, Khan Younis
+July 30	23	Mohammad Abdul-Sattar al-Abadla	Mohammad	al-Abadla	21	Palestinian	M	12	2	0	0	Mohammad Abdul-Sattar al-Abadla, 21, Khan Younis.
+July 30	23	Fahd Mahmoud Jaber al-Agha	Fahd	al-Agha	23	Palestinian	M	17	2	0	0	Fahd Mahmoud Jaber al-Agha, 23, Khan Younis.
+July 30	23	Asma' Abu al-Kaas	Asma'	al-Kaas	16	Palestinian	F	111	2	0	0	Asma' Abu al-Kaas, 16, al-Boreij, Central Gaza.
+July 30	23	Walid Shihda Marzouq Moammar	Walid	Moammar	51	Palestinian	M	145	3	0	0	Walid Shihda Marzouq Moammar, 51, Rafah.
+July 30	23	Sojoud Abdul-Hakim Oleyyan	Sojoud	Oleyyan	11	Palestinian	M	162	1	0	0	Sojoud Abdul-Hakim Oleyyan, 11, Gaza.
+July 30	23	Issam Jaber al-Khatib	Issam	al-Khatib	NA	Palestinian	M	118	0	0	1	Issam Jaber al-Khatib, Jabalia.
+July 30	23	Sa'id Abu Jalala	Sa'id	Jalala	NA	Palestinian	F	101	0	0	1	Sa'id Abu Jalala, Jabalia.
+July 30	23	Taiseer Hammad	Taiseer	Hammad	NA	Palestinian	M	81	0	0	1	Taiseer Hammad, Jabalia.
+July 30	23	Lu'ay al-Feery	Lu'ay	al-Feery	NA	Palestinian	M	65	0	0	1	Lu'ay al-Feery, Jabalia.
+July 30	23	Bassem Khaled Najjar	Bassem	Najjar	NA	Palestinian	M	141	0	0	1	Bassem Khaled Najjar, Jabalia.
+July 30	23	Tha'er Khaled Najjar	Tha'er	Najjar	NA	Palestinian	M	141	0	0	1	Tha'er Khaled Najjar, Jabalia.
+July 30	23	Osama Mohammad Sohweil	Osama	Sohweil	NA	Palestinian	M	205	0	0	1	Osama Mohammad Sohweil, Jabalia.
+July 30	23	Bilal Midhat al-'Amoudi	Bilal	al-'Amoudi	NA	Palestinian	M	23	0	0	1	Bilal Midhat al-'Amoudi, Jabalia.
+July 30	23	Abdullah Midhat al-'Amoudi	Abdullah	al-'Amoudi	NA	Palestinian	M	23	0	0	1	Abdullah Midhat al-'Amoudi, Jabalia.
+July 30	23	Mohammad Mousa Ghaban	Mohammad	Ghaban	NA	Palestinian	M	78	0	0	1	Mohammad Mousa Ghaban, Jabalia.
+July 30	23	Ramadan Khader Salman	Ramadan	Salman	NA	Palestinian	M	191	0	0	1	Ramadan Khader Salman, Jabalia.
+July 30	23	Alaa' Khader Salman	Alaa'	Salman	NA	Palestinian	M	191	0	0	1	Alaa' Khader Salman, Jabalia.
+July 30	23	Ali Ahmad Shaheen	Ali	Shaheen	NA	Palestinian	M	198	0	0	1	Ali Ahmad Shaheen, Jabalia.
+July 30	23	Rami Barakat	Rami	Barakat	NA	Palestinian	M	21	0	0	1	Rami Barakat, Jabalia.
+July 30	23	Adel Mohammad Abu Qamar Jabalia.	Adel	Jabalia.	NA	Palestinian	M	101	0	0	1	Adel Mohammad Abu Qamar Jabalia.
+July 30	23	Mohammad Ezzat Abu Sweireh	Mohammad	Sweireh	34	Palestinian	M	213	3	0	0	Mohammad Ezzat Abu Sweireh, 34, Central District.
+July 30	23	Hussein Mohammad Abu Rezeq	Hussein	Rezeq	36	Palestinian	M	185	3	0	0	Hussein Mohammad Abu Rezeq, 36, Rafah.
+July 30	23	'Aed Zaqqout	'Aed	Zaqqout	NA	Palestinian	F	261	0	0	1	'Aed Zaqqout, Gaza City, coach of Palestine National Football Team
+July 30	23	Abdul-Aziz Hosni Abu Hajras	Abdul-Aziz	Hajras	23	Palestinian	M	81	2	0	0	Abdul-Aziz Hosni Abu Hajras, 23, Khan Younis.
+July 30	23	Omar Awad al-Breem	Omar	al-Breem	NA	Palestinian	M	38	0	0	1	Omar Awad al-Breem, Khan Younis.
+July 30	23	Kamal Ahmad Al-Breem	Kamal	Al-Breem	57	Palestinian	M	38	4	0	0	Kamal Ahmad Al-Breem, 57, Khan Younis.
+July 30	23	Jihad Salah Mohammed al-Breem	Jihad	al-Breem	28	Palestinian	M	38	3	0	0	Jihad Salah Mohammed al-Breem, 28, Khan Younis.
+July 30	23	Mariam Ahmad Hejazi	Mariam	Hejazi	NA	Palestinian	F	85	0	0	1	Mariam Ahmad Hejazi, Khan Younis.
+July 30	23	Salah Hejazi	Salah	Hejazi	NA	Palestinian	M	85	0	0	1	Salah Hejazi, Khan Younis.
+July 30	23	Sabha Ibrahim Hejazi	Sabha	Hejazi	NA	Palestinian	M	85	0	0	1	Sabha Ibrahim Hejazi, Khan Younis.
+July 30	23	Ibrahim Mousa al-Ghalban	Ibrahim	al-Ghalban	NA	Palestinian	M	78	0	0	1	Ibrahim Mousa al-Ghalban, Khan Younis.
+July 30	23	Ismael Mahmoud al-Ghalban	Ismael	al-Ghalban	NA	Palestinian	M	78	0	0	1	Ismael Mahmoud al-Ghalban, Khan Younis.
+July 30	23	Ahmad Suleiman Abu Amer	Ahmad	Amer	NA	Palestinian	M	23	0	0	1	Ahmad Suleiman Abu Amer, Khan Younis.
+July 30	23	Mohammad Ahmad Abu Amer	Mohammad	Amer	NA	Palestinian	M	23	0	0	1	Mohammad Ahmad Abu Amer, Khan Younis.
+July 30	23	Marwa Ahmad Abu Amer	Marwa	Amer	NA	Palestinian	F	23	0	0	1	Marwa Ahmad Abu Amer, Khan Younis.
+July 30	23	Marah Ahmad Abu Amer	Marah	Amer	NA	Palestinian	F	23	0	0	1	Marah Ahmad Abu Amer, Khan Younis.
+July 30	23	Yasser Ahmad Abu Amer	Yasser	Amer	NA	Palestinian	M	23	0	0	1	Yasser Ahmad Abu Amer, Khan Younis.
+July 30	23	Suleiman Ahmad Abu Amer	Suleiman	Amer	NA	Palestinian	M	23	0	0	1	Suleiman Ahmad Abu Amer, Khan Younis.
+July 30	23	Mona Hajjaj Abu Amer	Mona	Amer	NA	Palestinian	F	23	0	0	1	Mona Hajjaj Abu Amer, Khan Younis.
+July 30	23	Jihad Salah Mohammad Al-Breem	Jihad	Al-Breem	25	Palestinian	M	38	3	0	0	Jihad Salah Mohammad Al-Breem, 25, Khan Younis.
+July 30	23	Zeinab Abu Jazar	Zeinab	Jazar	NA	Palestinian	F	101	0	0	1	Zeinab Abu Jazar, Khan Younis.
+July 30	23	Maisara Mohammad at-Ta'ban	Maisara	at-Ta'ban	35	Palestinian	F	201	3	0	0	Maisara Mohammad at-Ta'ban, 35, Deir al-Balah.
+July 30	23	Iftikhar Mohammad Shahin	Iftikhar	Shahin	50	Palestinian	M	198	3	0	0	Iftikhar Mohammad Shahin, Abu Zrei'ey 50.
+July 30	23	Odai Yahia Zaki Abu Jneid	Odai	Jneid	19	Palestinian	M	114	2	0	0	Odai Yahia Zaki Abu Jneid, 19, Beit Lahia.
+July 30	23	Abdul-Jalil Mohammad Kamel Abu Shodoq	Abdul-Jalil	Shodoq	35	Palestinian	M	198	3	0	0	Abdul-Jalil Mohammad Kamel Abu Shodoq, 35, Beit Lahia.
+July 30	23	Jamal Shihda Abu Shodoq	Jamal	Shodoq	40	Palestinian	M	198	3	0	0	Jamal Shihda Abu Shodoq, 40, Beit Lahia.
+July 30	23	Jamalat Mahmoud Dheir	Jamalat	Dheir	NA	Palestinian	M	48	0	0	1	Jamalat Mahmoud Dheir, Khan Younis.
+July 30	23	Salama Mahmoud Dheir	Salama	Dheir	NA	Palestinian	M	48	0	0	1	Salama Mahmoud Dheir, Khan Younis.
+July 30	23	Mahmoud Salama Mahmoud Dheir	Mahmoud	Dheir	NA	Palestinian	M	48	0	0	1	Mahmoud Salama Mahmoud Dheir, Khan Younis.
+July 30	23	Yamen Omar Salama Mahmoud Dheir	Yamen	Dheir	NA	Palestinian	M	48	0	0	1	Yamen Omar Salama Mahmoud Dheir, Khan Younis.
+July 30	23	Shorouq Mahmoud Dheir	Shorouq	Dheir	NA	Palestinian	M	48	0	0	1	Shorouq Mahmoud Dheir, Khan Younis.
+July 30	23	Arwa Mahmoud Dheir	Arwa	Dheir	NA	Palestinian	F	48	0	0	1	Arwa Mahmoud Dheir, Khan Younis.
+July 30	23	Ramadan Mohammad Abu Jazar	Ramadan	Jazar	NA	Palestinian	M	101	0	0	1	Ramadan Mohammad Abu Jazar, Khan Younis.
+July 30	23	Ali Ahmad Shahin	Ali	Shahin	NA	Palestinian	M	198	0	0	1	Ali Ahmad Shahin, Gaza.
+July 30	23	Taiseer Sababa	Taiseer	Sababa	22	Palestinian	M	191	2	0	0	Taiseer Sababa, 22, Beit Lahia.
+July 30	23	Ammar Suleiman Ali al-Masdar	Ammar	al-Masdar	31	Palestinian	M	131	3	0	0	Ammar Suleiman Ali al-Masdar, 31, Gaza.
+July 30	23	Hamza Yasser Mohammad Mheisin	Hamza	Mheisin	23	Palestinian	M	138	2	0	0	Hamza Yasser Mohammad Mheisin, 23, Gaza.
+July 30	23	Wisam Dardouna	Wisam	Dardouna	NA	Palestinian	M	41	0	0	1	Wisam Dardouna, Beit Lahia.
+July 30	23	Anwar 'Adel Abu Nasr	Anwar	Nasr	20	Palestinian	M	141	2	0	0	Anwar 'Adel Abu Nasr, 20, Khan Younis.
+July 30	23	Ismael Walid Abu Nasr	Ismael	Nasr	18	Palestinian	M	141	2	0	0	Ismael Walid Abu Nasr, 18. Khan Younis.
+July 30	23	Ahmad Khalil Abu 'Anza	Ahmad	'Anza	32	Palestinian	M	24	3	0	0	Ahmad Khalil Abu 'Anza, 32, Khan Younis.
+July 30	23	Shadi Abdullah Abu 'Anza	Shadi	'Anza	38	Palestinian	M	24	3	0	0	Shadi Abdullah Abu 'Anza, 38, Khan Younis.
+July 30	23	Ali Mahmoud Abu 'Anza	Ali	'Anza	27	Palestinian	M	24	3	0	0	Ali Mahmoud Abu 'Anza, 27, Khan Younis.
+July 30	23	Ahmad Abdullah Abu 'Anza	Ahmad	'Anza	NA	Palestinian	M	24	0	0	1	Ahmad Abdullah Abu 'Anza, Khan Younis.
+July 30	23	Mohammad Suleiman Baraka	Mohammad	Baraka	NA	Palestinian	M	21	0	0	1	Mohammad Suleiman Baraka, Khan Younis.
+July 30	23	Mustafa Ahmad Abu Jalala	Mustafa	Jalala	NA	Palestinian	M	101	0	0	1	Mustafa Ahmad Abu Jalala, Beit Lahia.
+July 30	23	Husam Mohammad an-Najjar	Husam	an-Najjar	NA	Palestinian	M	141	0	0	1	Husam Mohammad an-Najjar, northern Gaza
+July 30	23	Sha'aban Abdul-aziz al-Jamal	Sha'aban	al-Jamal	NA	Palestinian	M	101	0	0	1	Sha'aban Abdul-aziz al-Jamal, northern Gaza
+July 30	23	Alaa' Joudy Khader	Alaa'	Khader	NA	Palestinian	M	118	0	0	1	Alaa' Joudy Khader, northern Gaza
+July 30	23	Mohammed Mazen Moussa Foda	Mohammed	Foda	NA	Palestinian	M	75	0	0	1	Mohammed Mazen Moussa Foda, Sheja'eyya
+July 30	23	Ahmad Abdulkarim Hannoun	Ahmad	Hannoun	NA	Palestinian	M	81	0	0	1	Ahmad Abdulkarim Hannoun , Sheja'eyya
+July 30	23	Saadi Saadi Faraj	Saadi	Faraj	NA	Palestinian	M	61	0	0	1	Saadi Saadi Faraj , Sheja'eyya
+July 30	23	Hussein Saeed Kar're'ra	Hussein	Kar're'ra	NA	Palestinian	M	111	0	0	1	Hussein Saeed Kar're'ra , Sheja'eyya
+July 30	23	Hamdi Sadi Abu Zour	Hamdi	Zour	NA	Palestinian	M	275	0	0	1	Hamdi Sadi Abu Zour , Sheja'eyya
+July 30	23	Abdulkarim Hussein El-Selk	Abdulkarim	El-Selk	NA	Palestinian	M	195	0	0	1	Abdulkarim Hussein El-Selk , Sheja'eyya
+July 30	23	Aahed Ziad Al Gharabli	Aahed	Gharabli	NA	Palestinian	M	78	0	0	1	Aahed Ziad Al Gharabli , Sheja'eyya
+July 30	23	Abdulaziz Ibrahim El-Beltagy	Abdulaziz	El-Beltagy	NA	Palestinian	M	25	0	0	1	Abdulaziz Ibrahim El-Beltagy , Sheja'eyya
+July 30	23	Lena Ala'a El-Selk	Lena	El-Selk	NA	Palestinian	F	195	0	0	1	Lena Ala'a El-Selk , Sheja'eyya
+July 30	23	Abdulaziz Mohammed El-Selk	Abdulaziz	El-Selk	NA	Palestinian	M	195	0	0	1	Abdulaziz Mohammed El-Selk , Sheja'eyya
+July 30	23	Abdel Halim Mohammed El-Selk	Abdel	El-Selk	NA	Palestinian	M	195	0	0	1	Abdel Halim Mohammed El-Selk , Sheja'eyya
+July 30	23	Moataz Bassam Deeb	Moataz	Deeb	NA	Palestinian	M	45	0	0	1	Moataz Bassam Deeb , Sheja'eyya
+July 30	23	Mahmoud Mohamed Ragab	Mahmoud	Ragab	NA	Palestinian	M	181	0	0	1	Mahmoud Mohamed Ragab , Sheja'eyya
+July 30	23	Moaaz Khaled Tayeh	Moaaz	Tayeh	NA	Palestinian	M	201	0	0	1	Moaaz Khaled Tayeh , Sheja'eyya
+July 30	23	Malak Jalal El-Selk	Malak	El-Selk	NA	Palestinian	F	195	0	0	1	Malak Jalal El-Selk , Sheja'eyya
+July 30	23	Amina Mohammed El-Selk	Amina	El-Selk	NA	Palestinian	F	195	0	0	1	Amina Mohammed El-Selk , Sheja'eyya
+July 30	23	Layan Nael El-Selk	Layan	El-Selk	NA	Palestinian	F	195	0	0	1	Layan Nael El-Selk, Sheja'eyya
+July 30	23	Abdullah Fayez Fayad 23	Abdullah	Fayez	23	Palestinian	M	61	2	0	0	Abdullah Fayez Fayad 23, Gaza City
+July 30	23	Suhaib Salleh Salama 23	Suhaib	Salleh	23	Palestinian	M	191	2	0	0	Suhaib Salleh Salama 23, Gaza City
+July 30	23	Ibrahim Yusuf al-Astal 35	Ibrahim	Yusuf	35	Palestinian	M	271	3	0	0	Ibrahim Yusuf al-Astal 35, Gaza City
+July 30	23	Aassem Ahmed Baraka 25	Aassem	Ahmed	25	Palestinian	M	18	3	0	0	Aassem Ahmed Baraka 25, Khan Younis.
+July 30	23	Mayar Jamal Abu musbeh	Mayar	musbeh	9	Palestinian	M	151	1	0	0	Mayar Jamal Abu musbeh, 9 yrs, Deir al-Balah
+July 30	23	Mohammad Tayseer Abu Hazaa'	Mohammad	Hazaa'	25	Palestinian	M	81	3	0	0	Mohammad Tayseer Abu Hazaa', 25, Deir al-Balah
+July 29	22	Naji Ahmad al-Raqqab	Naji	al-Raqqab	19	Palestinian	M	181	2	0	0	Naji Ahmad al-Raqqab, 19, Khan Younis.
+July 29	22	Ramy Khaled al-Raqqab	Ramy	al-Raqqab	35	Palestinian	M	181	3	0	0	Ramy Khaled al-Raqqab, 35, Khan Younis.
+July 29	22	Mahmoud Osama al-Qosas	Mahmoud	al-Qosas	NA	Palestinian	M	185	0	0	1	Mahmoud Osama al-Qosas, Khan Younis.
+July 29	22	Shadi Abd al-Kareem Farwana	Shadi	Farwana	NA	Palestinian	M	61	0	0	1	Shadi Abd al-Kareem Farwana, Khan Younis.
+July 29	22	Mustafa Abd al-Samiee al-Ubadala	Mustafa	al-Ubadala	NA	Palestinian	M	212	0	0	1	Mustafa Abd al-Samiee al-Ubadala, Khan Younis.
+July 29	22	Yahiya Mohammad Abdullah al-Aqqad	Yahiya	al-Aqqad	49	Palestinian	M	27	3	0	0	Yahiya Mohammad Abdullah al-Aqqad, 49, Khan Younis.
+July 29	22	Yusef Emad Qaddoura	Yusef	Qaddoura	NA	Palestinian	M	171	0	0	1	Yusef Emad Qaddoura, child, Jabalia.
+July 29	22	Huna Emad Qaddoura	Huna	Qaddoura	NA	Palestinian	F	171	0	0	1	Huna Emad Qaddoura, child, Jabalia.
+July 29	22	Mohammad Musa Alwan	Mohammad	Alwan	NA	Palestinian	M	22	0	0	1	Mohammad Musa Alwan, child, Jabalia.
+July 29	22	Mariam Khalil Ruba	Mariam	Ruba	70	Palestinian	F	201	4	0	0	Mariam Khalil Ruba, 70, Jabalia.
+July 29	22	Hani Abu Khalifa	Hani	Khalifa	NA	Palestinian	M	118	0	0	1	Hani Abu Khalifa, Jabalia.
+July 29	22	Soheila al-'Ejel	Soheila	al-'Ejel	70	Palestinian	F	60	4	0	0	Soheila al-'Ejel, 70, Gaza City.
+July 29	22	Mo'nes Ahmad	Mo'nes	Ahmad	NA	Palestinian	F	18	0	0	1	Mo'nes Ahmad, Nusseirat, Central Gaza.
+July 29	22	Ezzat Dheir	Ezzat	Dheir	23	Palestinian	M	48	2	0	0	Ezzat Dheir, 23, Rafah.
+July 29	22	Turkeyya Dheir	Turkeyya	Dheir	80	Palestinian	NA	48	4	0	0	Turkeyya Dheir, 80, Rafah.
+July 29	22	Yasmeen Dheir	Yasmeen	Dheir	25	Palestinian	F	48	3	0	0	Yasmeen Dheir, 25, Rafah.
+July 29	22	Mary Dheir	Mary	Dheir	12	Palestinian	F	48	1	0	0	Mary Dheir, 12, Rafah.
+July 29	22	Tasneem Dheir	Tasneem	Dheir	8	Palestinian	F	48	1	0	0	Tasneem Dheir, 8, Rafah.
+July 29	22	Soheil Hasan Nassar	Soheil	Nassar	NA	Palestinian	M	141	0	0	1	Soheil Hasan Nassar, Beit Lahia.
+July 29	22	Anis Abu Shammala	Anis	Shammala	NA	Palestinian	M	198	0	0	1	Anis Abu Shammala, Al-Boreij, Mayor.
+July 29	22	Ayman Samir Qeshta	Ayman	Qeshta	30	Palestinian	M	175	3	0	0	Ayman Samir Qeshta, 30, Rafah.
+July 29	22	Ismael Shahin	Ismael	Shahin	27	Palestinian	M	198	3	0	0	Ismael Shahin, 27, Rafah.
+July 29	22	Baha' ed-Deen al-Gharib	Baha'	al-Gharib	NA	Palestinian	M	78	0	0	1	Baha' ed-Deen al-Gharib, Rafah.
+July 29	22	Ola Baha' ed-Deen al-Gharib	Ola	al-Gharib	NA	Palestinian	M	78	0	0	1	Ola Baha' ed-Deen al-Gharib, Rafah.
+July 29	22	Tahrir Nasr Jaber	Tahrir	Jaber	15	Palestinian	M	101	2	0	0	Tahrir Nasr Jaber, 15, Northern Gaza.
+July 29	22	Mohammad Ata Najjar	Mohammad	Najjar	2	Palestinian	M	141	1	0	0	Mohammad Ata Najjar, 2, Khan Younis.
+July 29	22	Rafif Ata Najjar	Rafif	Najjar	3	Palestinian	F	141	1	0	0	Rafif Ata Najjar, 3, Khan Younis.
+July 29	22	Baha' ed-Deen Khatib	Baha'	Khatib	NA	Palestinian	M	118	0	0	1	Baha' ed-Deen Khatib,, Journalist, Rafah.
+July 29	22	'Ola Baha' ed-Deen Khatib	'Ola	Khatib	NA	Palestinian	M	118	0	0	1	'Ola Baha' ed-Deen Khatib, Rafah.
+July 29	22	Waddah Abu Amer	Waddah	Amer	NA	Palestinian	M	23	0	0	1	Waddah Abu Amer, Khan Younis.
+July 29	22	Ahmad Suleiman Ahmad Abu Amer	Ahmad	Amer	NA	Palestinian	M	23	0	0	1	Ahmad Suleiman Ahmad Abu Amer, Khan Younis.
+July 29	22	Mohammed Ahmad Abu Amer	Mohammed	Amer	NA	Palestinian	M	23	0	0	1	Mohammed Ahmad Abu Amer, Khan Younis.
+July 29	22	Marwa Ahmad Abu Amer	Marwa	Amer	NA	Palestinian	F	23	0	0	1	Marwa Ahmad Abu Amer , Khan Younis.
+July 29	22	Marah Ahmad Abu Amer	Marah	Amer	NA	Palestinian	F	23	0	0	1	Marah Ahmad Abu Amer , Khan Younis.
+July 29	22	Yasser Ahmad Abu Amer	Yasser	Amer	NA	Palestinian	M	23	0	0	1	Yasser Ahmad Abu Amer , Khan Younis.
+July 29	22	Suleiman Ahmad Abu Amer	Suleiman	Amer	NA	Palestinian	M	23	0	0	1	Suleiman Ahmad Abu Amer, Khan Younis.
+July 29	22	Moha Hajjaj Abu Amer	Moha	Amer	NA	Palestinian	M	23	0	0	1	Moha Hajjaj Abu Amer , Khan Younis.
+July 29	22	Mos'ab Ahmad Sweih	Mos'ab	Sweih	17	Palestinian	M	213	2	0	0	Mos'ab Ahmad Sweih, 17, Gaza.
+July 29	22	Nariman Khalil al-Agha	Nariman	al-Agha	39	Palestinian	M	17	3	0	0	Nariman Khalil al-Agha, 39, Gaza.
+July 29	22	Ali Mohammad Abu Ma'rouf	Ali	Ma'rouf	23	Palestinian	M	131	2	0	0	Ali Mohammad Abu Ma'rouf, 23, Gaza.
+July 29	22	Dr. Bashir al-Hajjar	Bashir	al-Hajjar	NA	Palestinian	M	81	0	0	1	Dr. Bashir al-Hajjar, northern Gaza.
+July 29	22	Samir al-Hajjar	Samir	al-Hajjar	NA	Palestinian	M	81	0	0	1	Samir al-Hajjar, northern Gaza.
+July 29	22	Hana' Na'im Balata	Hana'	Balata	NA	Palestinian	F	21	0	0	1	Hana' Na'im Balata, Jabalia.
+July 29	22	Doa' Na'im Balata	Doa'	Balata	NA	Palestinian	M	21	0	0	1	Doa' Na'im Balata, Jabalia.
+July 29	22	Esra' Na'im Balata	Esra'	Balata	NA	Palestinian	M	21	0	0	1	Esra' Na'im Balata, Jabalia.
+July 29	22	Mariam Na'im Balata	Mariam	Balata	NA	Palestinian	F	21	0	0	1	Mariam Na'im Balata, Jabalia.
+July 29	22	Yahia Na'im Balata	Yahia	Balata	NA	Palestinian	M	21	0	0	1	Yahia Na'im Balata, Jabalia.
+July 29	22	Sahar Motawe' Balata	Sahar	Balata	NA	Palestinian	F	21	0	0	1	Sahar Motawe' Balata, Jabalia.
+July 29	22	Naim Nathmi	Naim	Nathmi	NA	Palestinian	M	141	0	0	1	Naim Nathmi, Jabalia.
+July 29	22	Zaher Ahmad Najjar	Zaher	Najjar	6	Palestinian	M	141	1	0	0	Zaher Ahmad Najjar, 6, Khan Younis
+July 29	22	Suleiman Mos'ad Barham al-Hishash	Suleiman	al-Hishash	30	Palestinian	M	89	3	0	0	Suleiman Mos'ad Barham al-Hishash, 30, Rafah.
+July 29	22	Jamal Ramadan Lafi	Jamal	Lafi	50	Palestinian	M	121	3	0	0	Jamal Ramadan Lafi, 50, Rafah.
+July 29	22	Karam Abu Zeid	Karam	Zeid	1	Palestinian	M	265	1	0	0	Karam Abu Zeid, 1.
+July 28	21	Samih Jebriel Jneid	Samih	Jneid	4	Palestinian	M	114	1	0	0	Samih Jebriel Jneid, 4, Jabalia.
+July 28	21	Mohammad Abu Louz	Mohammad	Louz	22	Palestinian	M	135	2	0	0	Mohammad Abu Louz, 22, Jabalia.
+July 28	21	Ahmad Abdullah Hasan Abu Zeid	Ahmad	Zeid	NA	Palestinian	M	265	0	0	1	Ahmad Abdullah Hasan Abu Zeid, Rafah.
+July 28	21	Widad Ahmad Salama Abu Zeid	Widad	Zeid	NA	Palestinian	F	265	0	0	1	Widad Ahmad Salama Abu Zeid, Rafah.
+July 28	21	Sham'a Wael Abu Zeid	Sham'a	Zeid	NA	Palestinian	F	265	0	0	1	Sham'a Wael Abu Zeid, Rafah.
+July 28	21	Mariam Marzouq Abu Zeid	Mariam	Zeid	NA	Palestinian	F	265	0	0	1	Mariam Marzouq Abu Zeid, Rafah.
+July 28	21	Falasteen Mohammad Abu Zeid	Falasteen	Zeid	NA	Palestinian	M	265	0	0	1	Falasteen Mohammad Abu Zeid, Rafah.
+July 28	21	Abdullah Nidal Abu Zeid	Abdullah	Zeid	NA	Palestinian	M	265	0	0	1	Abdullah Nidal Abu Zeid, child, Rafah.
+July 28	21	Bissan Eyad Abu Zeid	Bissan	Zeid	NA	Palestinian	F	265	0	0	1	Bissan Eyad Abu Zeid, Rafah.
+July 28	21	Abdul-Hadi Abu Zeid	Abdul-Hadi	Zeid	9	Palestinian	M	265	1	0	0	Abdul-Hadi Abu Zeid, Child9, Rafah.
+July 28	21	Seham Najjar	Seham	Najjar	42	Palestinian	F	141	3	0	0	Seham Najjar, 42, Khan Younis.
+July 28	21	Abdul-Samad Mahmoud Ahmad Ramadan	Abdul-Samad	Ramadan	16	Palestinian	M	181	2	0	0	Abdul-Samad Mahmoud Ahmad Ramadan, 16, Central District.
+July 28	21	Ayman Adnan Mousa Shaker	Ayman	Shaker	25	Palestinian	M	198	3	0	0	Ayman Adnan Mousa Shaker, 25, Central District.
+July 28	21	Issa Kamel Abdul-Rahman Mousa	Issa	Mousa	61	Palestinian	M	145	4	0	0	Issa Kamel Abdul-Rahman Mousa, 61, Central District.
+July 28	21	Salem Mousa Badawi al-Far	Salem	al-Far	59	Palestinian	M	61	4	0	0	Salem Mousa Badawi al-Far, 59, Central District.
+July 28	21	Ramzi Hussein Ahmad al-Far	Ramzi	al-Far	NA	Palestinian	M	61	0	0	1	Ramzi Hussein Ahmad al-Far, Central District.
+July 28	21	Salem Mohammad al-Far	Salem	al-Far	NA	Palestinian	M	61	0	0	1	Salem Mohammad al-Far, Central District.
+July 28	21	Azza Abdul-Karim Abdul-Rahman Al-Faleet	Azza	Al-Faleet	59	Palestinian	F	61	4	0	0	Azza Abdul-Karim Abdul-Rahman Al-Faleet, 59, Central District.
+July 28	21	Mohammad Jom'a Shaat	Mohammad	Shaat	30	Palestinian	M	198	3	0	0	Mohammad Jom'a Shaat, 30, Khan Younis.
+July 28	21	Mohammad Fadel al-'Agha	Mohammad	al-'Agha	30	Palestinian	M	17	3	0	0	Mohammad Fadel al-'Agha, 30, Khan Younis.
+July 28	21	Marwa Nader al-Agha	Marwa	al-Agha	NA	Palestinian	F	17	0	0	1	Marwa Nader al-Agha, Khan Younis.
+July 28	21	Ahmad Nader Al-Agha	Ahmad	Al-Agha	NA	Palestinian	M	17	0	0	1	Ahmad Nader Al-Agha, Khan Younis.
+July 28	21	Donia Nader al-Agha	Donia	al-Agha	13	Palestinian	F	17	1	0	0	Donia Nader al-Agha, 13, Khan Younis.
+July 27	20	Ikram ash-Shinbari	Ikram	ash-Shinbari	23	Palestinian	M	198	2	0	0	Ikram ash-Shinbari, 23, Gaza City, died of earlier injuries.
+July 27	20	Yusef Jamil Sobhi Hammouda	Yusef	Hammouda	16	Palestinian	M	81	2	0	0	Yusef Jamil Sobhi Hammouda, 16, Gaza City, died of earlier injuries.
+July 27	20	Ibrahim Khalil ad-Derawi	Ibrahim	ad-Derawi	27	Palestinian	M	45	3	0	0	Ibrahim Khalil ad-Derawi, 27, central District.
+July 27	20	Ala Nahedh Matar	Ala	Matar	26	Palestinian	F	131	3	0	0	Ala Nahedh Matar, 26, central District.
+July 27	20	Hazem Fayez Abu Shammala	Hazem	Shammala	33	Palestinian	M	198	3	0	0	Hazem Fayez Abu Shammala, 33, central District
+July 27	20	Issam Abdul-Karim Abu Sa'ada	Issam	Sa'ada	NA	Palestinian	M	191	0	0	1	Issam Abdul-Karim Abu Sa'ada, Khan Younis.
+July 27	20	Ahmad Abu Sweirej	Ahmad	Sweirej	23	Palestinian	M	213	2	0	0	Ahmad Abu Sweirej, 23, Nusseirat, Central Gaza.
+July 27	20	Mohammad Abu Haroun	Mohammad	Haroun	29	Palestinian	M	81	3	0	0	Mohammad Abu Haroun, 29, Nusseirat, Central Gaza.
+July 27	20	Fadi Baraka	Fadi	Baraka	NA	Palestinian	M	21	0	0	1	Fadi Baraka, Gaza, child, died of earlier injuries.
+July 27	20	Baha' ed-Deen Ahmad Sa'id	Baha'	Sa'id	NA	Palestinian	M	191	0	0	1	Baha' ed-Deen Ahmad Sa'id, al-Maghazi, died of earlier injuries.
+July 27	20	Yousef Abed Shehada al-Masri	Yousef	al-Masri	24	Palestinian	M	131	2	0	0	Yousef Abed Shehada al-Masri, 24, Shuja'eyya, Gaza.
+July 27	20	Khaled Abdul-Sattar Samhoud	Khaled	Samhoud	NA	Palestinian	M	191	0	0	1	Khaled Abdul-Sattar Samhoud, Khan Younis.
+July 27	20	Jalila Faraj Ayyad	Jalila	Ayyad	NA	Palestinian	F	35	0	0	1	Jalila Faraj Ayyad, Gaza City.
+July 27	20	Essam Ibrahim Abu Shab 42.	Essam	Ibrahim	42	Palestinian	F	92	3	0	0	Essam Ibrahim Abu Shab 42.
+July 27	20	Mohammad Siyam	Mohammad	Siyam	15	Palestinian	M	199	2	0	0	Mohammad Siyam, 15, Rafah.
+July 27	20	Hussein Hasan Abu an-Naja	Hussein	an-Naja	65	Palestinian	M	141	4	0	0	Hussein Hasan Abu an-Naja, 65, Khan Younis.
+July 27	20	Imad Jami al-Abed al-Bardaweel	Imad	al-Bardaweel	44	Palestinian	M	21	3	0	0	Imad Jami al-Abed al-Bardaweel, 44, Gaza.
+July 26	19	Husam Abdul-Ghani Yassin	Husam	Yassin	17	Palestinian	M	251	2	0	0	Husam Abdul-Ghani Yassin, 17, Gaza.
+July 26	19	Ismael Abdul-Qader al-Kojok	Ismael	al-Kojok	54	Palestinian	M	125	3	0	0	Ismael Abdul-Qader al-Kojok, 54, Gaza.
+July 26	19	Mohammad Said Hosni as-Saqqa	Mohammad	as-Saqqa	20	Palestinian	M	191	2	0	0	Mohammad Said Hosni as-Saqqa, 20, Gaza.
+July 26	19	Islam Ibrahim an-Naji	Islam	an-Naji	19	Palestinian	F	141	2	0	0	Islam Ibrahim an-Naji, 19. Gaza.
+July 26	19	Mohammad Ahmad Matar al-Abadla	Mohammad	al-Abadla	32	Palestinian	M	12	3	0	0	Mohammad Ahmad Matar al-Abadla, 32, Gaza.
+July 26	19	Yosra Salem Hasan al-Breem	Yosra	al-Breem	56	Palestinian	F	38	4	0	0	Yosra Salem Hasan al-Breem, 56, Gaza.
+July 26	19	Mohammad Khalil Mohammad al-Breem	Mohammad	al-Breem	NA	Palestinian	M	38	0	0	1	Mohammad Khalil Mohammad al-Breem, Gaza.
+July 26	19	Ibrahim Salman Qabalan	Ibrahim	Qabalan	34	Palestinian	M	171	3	0	0	Ibrahim Salman Qabalan, 34.
+July 26	19	Mohammad Ahmad Abu Wadia	Mohammad	Wadia	19	Palestinian	M	231	2	0	0	Mohammad Ahmad Abu Wadia, 19, Gaza.
+July 26	19	Abdullah 'Ayesh Salam Ermeilat	Abdullah	Ermeilat	39	Palestinian	M	68	3	0	0	Abdullah 'Ayesh Salam Ermeilat, 39, Deir al-Balah.
+July 26	19	Eman Hasan ar-Roqab	Eman	ar-Roqab	NA	Palestinian	M	195	0	0	1	Eman Hasan ar-Roqab, Khan Younis.
+July 26	19	Bara' Mahmoud ar-Roqab	Bara'	ar-Roqab	11	Palestinian	F	195	1	0	0	Bara' Mahmoud ar-Roqab, 11, Khan Younis.
+July 26	19	Khalil Mohammad an-Najjar	Khalil	an-Najjar	59	Palestinian	M	141	4	0	0	Khalil Mohammad an-Najjar, 59, Khan Younis.
+July 26	19	Jona an-Najjar	Jona	an-Najjar	NA	Palestinian	M	141	0	0	1	Jona an-Najjar, Khan Younis.
+July 26	19	Ekhlas Najjar	Ekhlas	Najjar	NA	Palestinian	NA	141	0	0	1	Ekhlas Najjar, Khan Younis.
+July 26	19	Amna an-Najjar	Amna	an-Najjar	NA	Palestinian	F	141	0	0	1	Amna an-Najjar, Khan Younis.
+July 26	19	Majed Sameer an-Najjar	Majed	an-Najjar	19	Palestinian	M	141	2	0	0	Majed Sameer an-Najjar, 19, Khan Younis.
+July 26	19	Ghalia Mohammed an-Najjar	Ghalia	an-Najjar	56	Palestinian	F	141	4	0	0	Ghalia Mohammed an-Najjar, 56, Khan Younis.
+July 26	19	Ahmad Khaled Mohammad an-Najjar	Ahmad	an-Najjar	14	Palestinian	M	141	1	0	0	Ahmad Khaled Mohammad an-Najjar,14, Khan Younis.
+July 26	19	Eman Salah Mahmoud an-Najjar	Eman	an-Najjar	23	Palestinian	M	141	2	0	0	Eman Salah Mahmoud an-Najjar, 23, Khan Younis.
+July 26	19	Sumayya Harb Yousef an-Najjar	Sumayya	an-Najjar	50	Palestinian	F	141	3	0	0	Sumayya Harb Yousef an-Najjar, 50, Khan Younis.
+July 26	19	Kifah Samir Hasan an-Najjar 23	Kifah	Samir	23	Palestinian	M	191	2	0	0	Kifah Samir Hasan an-Najjar 23, Khan Younis.
+July 26	19	Rawan Khaled Mohammad an-Najjar	Rawan	an-Najjar	17	Palestinian	F	141	2	0	0	Rawan Khaled Mohammad an-Najjar, 17, Khan Younis.
+July 26	19	Husam Hussein an-Najjar	Husam	an-Najjar	7	Palestinian	M	141	1	0	0	Husam Hussein an-Najjar, 7, Khan Younis.
+July 26	19	Samir Hussein an-Najjar	Samir	an-Najjar	2	Palestinian	M	141	1	0	0	Samir Hussein an-Najjar, 2, Khan Younis.
+July 26	19	Moa'taz Hussein Samir an-Najjar	Moa'taz	an-Najjar	6	Palestinian	M	141	1	0	0	Moa'taz Hussein Samir an-Najjar, 6, Khan Younis.
+July 26	19	Ulfat Hussein Samir an-Najjar	Ulfat	an-Najjar	4	Palestinian	M	141	1	0	0	Ulfat Hussein Samir an-Najjar, 4, Khan Younis., sister of Samir and Moa'taz
+July 26	19	Ikhlas Sameer Hussein Abu Shahla	Ikhlas	Shahla	30	Palestinian	M	198	3	0	0	Ikhlas Sameer Hussein Abu Shahla, 30, Khan Younis.
+July 26	19	Amir Hammoudeh Khaled Abu Shahla	Amir	Shahla	3	Palestinian	M	198	1	0	0	Amir Hammoudeh Khaled Abu Shahla, 3, Khan Younis.
+July 26	19	Amira Hammoudeh Khaled Abu Shahla	Amira	Shahla	1	Palestinian	F	198	1	0	0	Amira Hammoudeh Khaled Abu Shahla, 1, Khan Younis.
+July 26	19	Islam Hammoudeh Abu Shahla	Islam	Shahla	4	Palestinian	F	198	1	0	0	Islam Hammoudeh Abu Shahla, 4, Khan Younis.
+July 26	19	Bassam Khaled Abu Shahla	Bassam	Shahla	44	Palestinian	M	198	3	0	0	Bassam Khaled Abu Shahla, 44, Khan Younis.
+July 26	19	Riham Fayez al-Breem	Riham	al-Breem	19	Palestinian	F	38	2	0	0	Riham Fayez al-Breem, 19
+July 26	19	Fadel At-Tawaneh	Fadel	At-Tawaneh	NA	Palestinian	M	201	0	0	1	Fadel At-Tawaneh, Gaza City.
+July 26	19	Arafat Salem Abu Oweily	Arafat	Oweily	27	Palestinian	M	173	3	0	0	Arafat Salem Abu Oweily, 27, Central District.
+July 26	19	Abdul-Rahman Ouda at-Tilbani	Abdul-Rahman	at-Tilbani	NA	Palestinian	M	209	0	0	1	Abdul-Rahman Ouda at-Tilbani, Central District.
+July 26	19	Nidal Ahmad 'Issa Abu al-'Asal	Nidal	al-'Asal	27	Palestinian	M	29	3	0	0	Nidal Ahmad 'Issa Abu al-'Asal, 27, Rafah.
+July 26	19	Salim Salaam Abu ath-Thoum	Salim	ath-Thoum	87	Palestinian	M	208	4	0	0	Salim Salaam Abu ath-Thoum, 87, Rafah.
+July 26	19	Naim Abdul Aziz Abu Zaher	Naim	Zaher	36	Palestinian	M	261	3	0	0	Naim Abdul Aziz Abu Zaher, 36, Deir al-Balah
+July 26	19	Abdul-Hamid Mohammad Abdul-Hamid Al-Maghrabi	Abdul-Hamid	Al-Maghrabi	31	Palestinian	M	131	3	0	0	Abdul-Hamid Mohammad Abdul-Hamid Al-Maghrabi, 31.
+July 26	19	Abdul-Majeed Abdullah Abdul-Majeed al-A'ady	Abdul-Majeed	al-A'ady	36	Palestinian	M	11	3	0	0	Abdul-Majeed Abdullah Abdul-Majeed al-A'ady, 36.
+July 26	19	Hamad Mohammad Ala Sheikh Salim	Hamad	Salim	30	Palestinian	M	191	3	0	0	Hamad Mohammad Ala Sheikh Salim, 30.
+July 26	19	Mohammad Rafiq Said al-Ayeer	Mohammad	al-Ayeer	30	Palestinian	M	35	3	0	0	Mohammad Rafiq Said al-Ayeer, 30.
+July 26	19	'Amro Abdul-Hakim as-Sheikh Khalil	'Amro	Khalil	25	Palestinian	M	118	3	0	0	'Amro Abdul-Hakim as-Sheikh Khalil, 25.
+July 26	19	Shadi Kamal Ramadan Yassin	Shadi	Yassin	22	Palestinian	M	251	2	0	0	Shadi Kamal Ramadan Yassin, 22.
+July 26	19	Mohammad Issam Deeb Abu Dalfa	Mohammad	Dalfa	25	Palestinian	M	41	3	0	0	Mohammad Issam Deeb Abu Dalfa, 25.
+July 26	19	Walid Said Nassr al-Ijlah	Walid	al-Ijlah	7	Palestinian	M	100	1	0	0	Walid Said Nassr al-Ijlah, 7.
+July 26	19	Osama Issam Fawzi 'Azzam	Osama	'Azzam	23	Palestinian	M	36	2	0	0	Osama Issam Fawzi 'Azzam, 23.
+July 26	19	Abdullah Ibrahim Abdullah Abu Leila	Abdullah	Leila	51	Palestinian	M	125	3	0	0	Abdullah Ibrahim Abdullah Abu Leila, 51.
+July 26	19	Sami Fathi al-Ar-'Eir	Sami	al-Ar-'Eir	49	Palestinian	M	28	3	0	0	Sami Fathi al-Ar-'Eir, 49. .
+July 26	19	Fathi Sami Fathi al-Ar-'Eir	Fathi	al-Ar-'Eir	20	Palestinian	M	28	2	0	0	Fathi Sami Fathi al-Ar-'Eir, 20.
+July 26	19	Abdul-Karim Ali Abu Shanab	Abdul-Karim	Shanab	40	Palestinian	M	198	3	0	0	Abdul-Karim Ali Abu Shanab, 40, Deir al-Balah.
+July 26	19	Aziza 'Atiyeh Mohammad Abu Shanab	Aziza	Shanab	77	Palestinian	F	198	4	0	0	Aziza 'Atiyeh Mohammad Abu Shanab, 77, Deir al-Balah.
+July 26	19	Ahmad Walid Nasrallah Samour	Ahmad	Samour	NA	Palestinian	M	191	0	0	1	Ahmad Walid Nasrallah Samour, Khan Younis.
+July 26	19	Hasan Abdullah Mustafa al-Athanna	Hasan	al-Athanna	59	Palestinian	M	30	4	0	0	Hasan Abdullah Mustafa al-Athanna, 59.
+July 26	19	Hasan Zaki Hasan at-Tahrawy	Hasan	at-Tahrawy	23	Palestinian	M	201	2	0	0	Hasan Zaki Hasan at-Tahrawy, 23.
+July 26	19	Omar Ismail Ali Quz'aat	Omar	Quz'aat	18	Palestinian	M	191	2	0	0	Omar Ismail Ali Quz'aat, 18. .
+July 26	19	Rami Faisal Matar as-Shishi	Rami	as-Shishi	31	Palestinian	M	198	3	0	0	Rami Faisal Matar as-Shishi, 31. .
+July 26	19	Mohammad Abdul Hamid.	Mohammad	Hamid.	NA	Palestinian	M	81	0	0	1	Mohammad Abdul Hamid.
+July 26	19	Ghassan Yousef Salem Abu Dabakh	Ghassan	Dabakh	NA	Palestinian	M	41	0	0	1	Ghassan Yousef Salem Abu Dabakh, Central District .
+July 26	19	Khadra Ibrahim Salman Abu Bleimy	Khadra	Bleimy	55	Palestinian	M	32	4	0	0	Khadra Ibrahim Salman Abu Bleimy, 55 .
+July 26	19	Nour Mohammad Salameh Abu Dbagh	Nour	Dbagh	13	Palestinian	M	42	1	0	0	Nour Mohammad Salameh Abu Dbagh, 13.
+July 26	19	Ahmad Ramzi Mohammad Abu Qadoos	Ahmad	Qadoos	13	Palestinian	M	171	1	0	0	Ahmad Ramzi Mohammad Abu Qadoos, 13.
+July 26	19	Maisara Anwar Suleiman dar-Azzeen	Maisara	dar-Azzeen	6	Palestinian	F	36	1	0	0	Maisara Anwar Suleiman dar-Azzeen, 6.
+July 26	19	Mohammad Anwar Suleiman dar-Azzeen	Mohammad	dar-Azzeen	13	Palestinian	M	36	1	0	0	Mohammad Anwar Suleiman dar-Azzeen, 13.
+July 26	19	Mohammad Abdul-Hamid Mohammad Shaat	Mohammad	Shaat	29	Palestinian	M	198	3	0	0	Mohammad Abdul-Hamid Mohammad Shaat, 29.
+July 26	19	Raja' Hamad Mohammad ad-Daghme	Raja'	ad-Daghme	36	Palestinian	M	41	3	0	0	Raja' Hamad Mohammad ad-Daghme, 36.
+July 26	19	Sami Abdullah Ahmad Judeh	Sami	Judeh	18	Palestinian	M	121	2	0	0	Sami Abdullah Ahmad Judeh, 18.
+July 26	19	Husam Abdul-Atif Raady	Husam	Raady	42	Palestinian	M	181	3	0	0	Husam Abdul-Atif Raady, 42.
+July 26	19	Mohammad Ibrahim Sobhi al-Arheir	Mohammad	al-Arheir	30	Palestinian	M	28	3	0	0	Mohammad Ibrahim Sobhi al-Arheir, 30.
+July 26	19	Wala' Mohammad Ali al-Qayedh	Wala'	al-Qayedh	15	Palestinian	F	171	2	0	0	Wala' Mohammad Ali al-Qayedh, 15.
+July 26	19	Isam Mohammad Saleh Shamaly	Isam	Shamaly	29	Palestinian	M	198	3	0	0	Isam Mohammad Saleh Shamaly, 29.
+July 26	19	Mohammad Abdul-Nassar Ali Abu Zeina	Mohammad	Zeina	20	Palestinian	M	265	2	0	0	Mohammad Abdul-Nassar Ali Abu Zeina, 20.
+July 26	19	Mosab Salah al-Aab Abu al-A'ata	Mosab	al-A'ata	20	Palestinian	M	11	2	0	0	Mosab Salah al-Aab Abu al-A'ata, 20.
+July 26	19	Ibrahim Aish Abed Abu Ghneimah	Ibrahim	Ghneimah	27	Palestinian	M	78	3	0	0	Ibrahim Aish Abed Abu Ghneimah, 27.
+July 26	19	Ismail Aish Abed Abu Ghneimah	Ismail	Ghneimah	24	Palestinian	M	78	2	0	0	Ismail Aish Abed Abu Ghneimah, 24.
+July 26	19	Mohammad Ahmad Khaled Hassouneh	Mohammad	Hassouneh	NA	Palestinian	M	81	0	0	1	Mohammad Ahmad Khaled Hassouneh, Rafah.
+July 26	19	Mazin Adnan Salman Abdin	Mazin	Abdin	25	Palestinian	M	12	3	0	0	Mazin Adnan Salman Abdin, 25, Khan Younis.
+July 26	19	Salah Eshtewy Ibrahim Adbin	Salah	Adbin	42	Palestinian	M	14	3	0	0	Salah Eshtewy Ibrahim Adbin, 42, Khan Younis.
+July 26	19	Mohammed Salameh Mohammed Abu Khousa	Mohammed	Khousa	75	Palestinian	M	118	4	0	0	Mohammed Salameh Mohammed Abu Khousa, 75, northern Gaza, body pulled from rubble.
+July 26	19	Salman Mohammed Ahmed Sama'na	Salman	Sama'na	30	Palestinian	M	191	3	0	0	Salman Mohammed Ahmed Sama'na, 30, northern Gaza, body pulled from rubble.
+July 26	19	Do'a' Sani Ibrahim Sama'na	Do'a'	Sama'na	11	Palestinian	M	191	1	0	0	Do'a' Sani Ibrahim Sama'na, 11, northern Gaza, body pulled from rubble.
+July 26	19	Mohammed Sa'id Sha'ban Baba	Mohammed	Baba	40	Palestinian	M	21	3	0	0	Mohammed Sa'id Sha'ban Baba, 40, northern Gaza, body pulled from rubble.
+July 26	19	Ikram Ahmed Tawfiq al-Shanbari	Ikram	al-Shanbari	23	Palestinian	M	198	2	0	0	Ikram Ahmed Tawfiq al-Shanbari, 23, Beit Hanoun, body pulled from rubble.
+July 26	19	Sami Fathi Ahmed al-'Ar'ir	Sami	al-'Ar'ir	50	Palestinian	M	28	3	0	0	Sami Fathi Ahmed al-'Ar'ir, 50, Gaza City, body pulled from rubble.
+July 26	19	Mohammed Rafiq Sa'id al-'Ar'ir	Mohammed	al-'Ar'ir	30	Palestinian	M	28	3	0	0	Mohammed Rafiq Sa'id al-'Ar'ir, 30, Gaza City, body pulled from rubble.
+July 26	19	Hassan Fathi Ahmad al-'Ar'ir	Hassan	al-'Ar'ir	39	Palestinian	M	28	3	0	0	Hassan Fathi Ahmad al-'Ar'ir, 39, Gaza City, body pulled from rubble.
+July 26	19	'Abdul Karim Fathi Ahmed al-'Ar'ir	'Abdul	al-'Ar'ir	34	Palestinian	M	28	3	0	0	'Abdul Karim Fathi Ahmed al-'Ar'ir, 34, Gaza City, body pulled from rubble.
+July 26	19	Fathi Sami Fathi al-'Ar'ir	Fathi	al-'Ar'ir	20	Palestinian	M	28	2	0	0	Fathi Sami Fathi al-'Ar'ir, 20, Gaza City, body pulled from rubble.
+July 26	19	Khaled Yousef Mohammed Badwan	Khaled	Badwan	48	Palestinian	M	21	3	0	0	Khaled Yousef Mohammed Badwan, 48, Gaza City, body pulled from rubble.
+July 26	19	Azmi Khaled Yousef Badwan	Azmi	Badwan	16	Palestinian	M	21	2	0	0	Azmi Khaled Yousef Badwan, 16, Gaza City, body pulled from rubble.
+July 26	19	'Abdul Rahman Ziad Hassan Abu Hain	'Abdul	Hain	28	Palestinian	M	81	3	0	0	'Abdul Rahman Ziad Hassan Abu Hain, 28, Sheja'eyya, body pulled from rubble.
+July 26	19	Mohammed 'Essam Dib Abu Balta	Mohammed	Balta	28	Palestinian	M	21	3	0	0	Mohammed 'Essam Dib Abu Balta, 28, Sheja'eyya, body pulled from rubble.
+July 26	19	Mahmoud Ra'ed Mahmoud al-'Eish	Mahmoud	al-'Eish	23	Palestinian	M	59	2	0	0	Mahmoud Ra'ed Mahmoud al-'Eish, 23, Sheja'eyya, body pulled from rubble.
+July 26	19	Fadi 'Abdul Qader 'Abdul Malek Habib	Fadi	Habib	31	Palestinian	M	81	3	0	0	Fadi 'Abdul Qader 'Abdul Malek Habib, 31, Sheja'eyya, body pulled from rubble.
+July 26	19	Farid Abdul-Khader Abdul-Malik Habib	Farid	Habib	38	Palestinian	M	81	3	0	0	Farid Abdul-Khader Abdul-Malik Habib, 38, Sheja'eyya, body pulled from rubble.
+July 26	19	Adham Majed Yousef Dhaher	Adham	Dhaher	18	Palestinian	M	48	2	0	0	Adham Majed Yousef Dhaher, 18, Sheja'eyya, body pulled from rubble.
+July 26	19	Mohammad Mahmoud Rajab Hajjaj	Mohammad	Hajjaj	32	Palestinian	M	81	3	0	0	Mohammad Mahmoud Rajab Hajjaj, 32, Sheja'eyya, body pulled from rubble.
+July 26	19	Mohammad Ahmed Kamel Abu al-'Ata	Mohammad	al-'Ata	32	Palestinian	M	30	3	0	0	Mohammad Ahmed Kamel Abu al-'Ata, 32, Sheja'eyya, body pulled from rubble.
+July 26	19	Mohammad Mahmoud Sa'id Abu al-'Ata	Mohammad	al-'Ata	28	Palestinian	M	30	3	0	0	Mohammad Mahmoud Sa'id Abu al-'Ata, 28, Sheja'eyya, body pulled from rubble.
+July 26	19	Mohammed Riad Sha'ban Shabet	Mohammed	Shabet	25	Palestinian	M	198	3	0	0	Mohammed Riad Sha'ban Shabet, 25, at-Tuffah.
+July 26	19	Hisham Abdul-Karim Ahmad Abu Mour	Hisham	Mour	NA	Palestinian	M	145	0	0	1	Hisham Abdul-Karim Ahmad Abu Mour, Rafah.
+July 26	19	Mohammad Ibrahim Ahmad az-Zweidi	Mohammad	az-Zweidi	30	Palestinian	M	283	3	0	0	Mohammad Ibrahim Ahmad az-Zweidi, 30, Beit Lahia.
+July 26	19	Ala' Maher Juma' Tamtish	Ala'	Tamtish	19	Palestinian	F	201	2	0	0	Ala' Maher Juma' Tamtish, 19, Beit Lahia.
+July 26	19	Abdul-Jawad Ali Abul-Jawad Al-Houm.	Abdul-Jawad	Al-Houm.	NA	Palestinian	M	95	0	0	1	Abdul-Jawad Ali Abul-Jawad Al-Houm.
+July 26	19	Ehab Sa'dy Mohammad Nassr	Ehab	Nassr	22	Palestinian	M	141	2	0	0	Ehab Sa'dy Mohammad Nassr, 22.
+July 26	19	Mohammad Abdullah Hussein al-Jawajri.	Mohammad	al-Jawajri.	NA	Palestinian	M	101	0	0	1	Mohammad Abdullah Hussein al-Jawajri.
+July 26	19	Wisam Sofyan Omar al-Kilani	Wisam	al-Kilani	27	Palestinian	M	119	3	0	0	Wisam Sofyan Omar al-Kilani, 27.
+July 26	19	A'ed Mahmoud Ahmad al-Bura'i	A'ed	al-Bura'i	29	Palestinian	F	41	3	0	0	A'ed Mahmoud Ahmad al-Bura'i, 29, medic, Beit Hanoun.
+July 26	19	Munther Talal Abdul-Karim Nassar	Munther	Nassar	33	Palestinian	M	141	3	0	0	Munther Talal Abdul-Karim Nassar, 33, northern Gaza.
+July 26	19	Tamer Talal Abdul-Karim Nassar	Tamer	Nassar	24	Palestinian	M	141	2	0	0	Tamer Talal Abdul-Karim Nassar, 24.
+July 26	19	Ala' Abdul-Rahman Mohammad Nassar	Ala'	Nassar	25	Palestinian	F	141	3	0	0	Ala' Abdul-Rahman Mohammad Nassar, 25, northern Gaza.
+July 26	19	Taher Ismail Abdul-Rahman Nassar	Taher	Nassar	18	Palestinian	M	141	2	0	0	Taher Ismail Abdul-Rahman Nassar, 18, northern Gaza.
+July 26	19	Sharif Rafiq Mohammad al-Hamdin	Sharif	al-Hamdin	26	Palestinian	M	81	3	0	0	Sharif Rafiq Mohammad al-Hamdin, 26, Gaza City.
+July 26	19	Ala' Khaled Najib al-Yaziji	Ala'	al-Yaziji	21	Palestinian	F	251	2	0	0	Ala' Khaled Najib al-Yaziji, 21, Gaza City.
+July 26	19	Jihad Mahmoud Hamed al-Hilu	Jihad	al-Hilu	59	Palestinian	M	89	4	0	0	Jihad Mahmoud Hamed al-Hilu, 59, Sheja'eyya, body pulled from rubble.
+July 26	19	Siham 'Ata al-Hilu	Siham	al-Hilu	57	Palestinian	F	89	4	0	0	Siham 'Ata al-Hilu, 57, Sheja'eyya(body pulled from rubble.
+July 26	19	Mohammad Jihad Mahmoud al-Hilu	Mohammad	al-Hilu	29	Palestinian	M	89	3	0	0	Mohammad Jihad Mahmoud al-Hilu, 29, Sheja'eyya, body pulled from rubble.
+July 26	19	Tahreer Jihad Mahmoud al-Hilu	Tahreer	al-Hilu	20	Palestinian	M	89	2	0	0	Tahreer Jihad Mahmoud al-Hilu, 20, Sheja'eyya(body pulled from rubble.
+July 26	19	Najiya Jihad Mahmoud al-Hilu	Najiya	al-Hilu	15	Palestinian	F	89	2	0	0	Najiya Jihad Mahmoud al-Hilu, 15, Sheja'eyya, body pulled from rubble.
+July 26	19	Ahmad Jihad Mahmoud al-Hilu	Ahmad	al-Hilu	27	Palestinian	M	89	3	0	0	Ahmad Jihad Mahmoud al-Hilu, 27, Sheja'eyya, body pulled from rubble.
+July 26	19	Hidaya Talal al-Hilu	Hidaya	al-Hilu	25	Palestinian	M	89	3	0	0	Hidaya Talal al-Hilu, 25, Sheja'eyya, body pulled from rubble.
+July 26	19	Maram Ahmad Jihad al-Hilu	Maram	al-Hilu	2	Palestinian	M	89	1	0	0	Maram Ahmad Jihad al-Hilu, 2, Sheja'eyya, body pulled from rubble.
+July 26	19	Abdel-Kareem Ahmad Jihad al-Hilu	Abdel-Kareem	al-Hilu	0.0833333333333	Palestinian	M	89	1	0	0	Abdel-Kareem Ahmad Jihad al-Hilu, 1, Sheja'eyya, body pulled from rubble. Karam Ahmad Jihad al-Hilu, 5 months, twins, Sheja'eyya, body pulled from rubble.
+July 26	19	Ayman Anwar Salem Burai'em 39	Ayman	Anwar	39	Palestinian	M	24	3	0	0	Ayman Anwar Salem Burai'em 39, central Gaza, died of earlier wounds
+July 26	19	Suleiman Zaki 'Abdul Mawla al-Dardissi	Suleiman	al-Dardissi	27	Palestinian	M	41	3	0	0	Suleiman Zaki 'Abdul Mawla al-Dardissi, 27, Khan Younis.(body pulled from rubble.
+July 26	19	Ahmad Shawqi Mohammad Sa'ada	Ahmad	Sa'ada	37	Palestinian	M	191	3	0	0	Ahmad Shawqi Mohammad Sa'ada, 37, Khan Younis.(body pulled from rubble.
+July 26	19	Mohammed Ibrahim Hamdan Abu T'aima	Mohammed	T'aima	25	Palestinian	M	201	3	0	0	Mohammed Ibrahim Hamdan Abu T'aima, 25, Khan Younis.(body pulled from rubble.
+July 26	19	Ra'ed Khalil Hamdan Abu T'aima	Ra'ed	T'aima	33	Palestinian	M	201	3	0	0	Ra'ed Khalil Hamdan Abu T'aima, 33, Khan Younis.(body pulled from rubble.
+July 26	19	Mamdouh Mallahi Suleiman Abu Naja	Mamdouh	Naja	24	Palestinian	M	141	2	0	0	Mamdouh Mallahi Suleiman Abu Naja, 24, Khan Younis.(body pulled from rubble.
+July 26	19	Ayman Akram Ismail al-Ghalban	Ayman	al-Ghalban	22	Palestinian	M	78	2	0	0	Ayman Akram Ismail al-Ghalban, 22, Khan Younis.(body pulled from rubble.
+July 26	19	Jihad Naji Abu 'Aamer	Jihad	'Aamer	22	Palestinian	M	11	2	0	0	Jihad Naji Abu 'Aamer, 22, Khan Younis.(body pulled from rubble.
+July 26	19	Rabah Rashed Mosallam Fayad	Rabah	Fayad	40	Palestinian	M	61	3	0	0	Rabah Rashed Mosallam Fayad, 40, Khan Younis.(body pulled from rubble.
+July 26	19	Fadi Mahmoud Sa'd al-Masri	Fadi	al-Masri	22	Palestinian	M	131	2	0	0	Fadi Mahmoud Sa'd al-Masri, 22, Khan Younis.(body pulled from rubble.
+July 26	19	Eyad Yousef al-Sadi	Eyad	al-Sadi	24	Palestinian	M	191	2	0	0	Eyad Yousef al-Sadi, 24, Khan Younis.(body pulled from rubble.
+July 26	19	Salem Mustafa al-Hadhidi	Salem	al-Hadhidi	18	Palestinian	M	81	2	0	0	Salem Mustafa al-Hadhidi, 18, Khan Younis.(body pulled from rubble.
+July 26	19	Wassim Nasser 'Abdu Shurrab	Wassim	Shurrab	22	Palestinian	M	198	2	0	0	Wassim Nasser 'Abdu Shurrab, 22, Khan Younis.(body pulled from rubble.
+July 26	19	'Ali Mohammed 'Ali al-Astal	'Ali	al-Astal	32	Palestinian	M	29	3	0	0	'Ali Mohammed 'Ali al-Astal, 32, Khan Younis.(body pulled from rubble.
+July 26	19	Fawzi Ahmad Abu Amsha	Fawzi	Amsha	67	Palestinian	M	23	4	0	0	Fawzi Ahmad Abu Amsha, 67.
+July 26	19	Na'ma Mohammad Hussein Abu Amsha	Na'ma	Amsha	64	Palestinian	F	23	4	0	0	Na'ma Mohammad Hussein Abu Amsha, 64.
+July 26	19	Wassim Salah Abu Riziq Al-Masri.	Wassim	Al-Masri.	NA	Palestinian	M	131	0	0	1	Wassim Salah Abu Riziq Al-Masri.
+July 26	19	Saed Munir Shida Abu Khater	Saed	Khater	19	Palestinian	M	118	2	0	0	Saed Munir Shida Abu Khater, 19.
+July 26	19	Amar Mustafa Rashid Hamdouna	Amar	Hamdouna	22	Palestinian	M	81	2	0	0	Amar Mustafa Rashid Hamdouna, 22.
+July 26	19	Tariq Mohammad Moehsin al-Ajrami	Tariq	al-Ajrami	25	Palestinian	M	20	3	0	0	Tariq Mohammad Moehsin al-Ajrami, 25.
+July 26	19	Hamza Mazin Khalil Madhi	Hamza	Madhi	23	Palestinian	M	131	2	0	0	Hamza Mazin Khalil Madhi, 23.
+July 26	19	Ismail Younis Abdullah Khalla	Ismail	Khalla	21	Palestinian	M	118	2	0	0	Ismail Younis Abdullah Khalla, 21.
+July 26	19	Abdul-Rahman Yusef Ahmad Saadat	Abdul-Rahman	Saadat	24	Palestinian	M	191	2	0	0	Abdul-Rahman Yusef Ahmad Saadat, 24.
+July 26	19	Khaled Abdullah Mahmoud Adwan	Khaled	Adwan	30	Palestinian	M	14	3	0	0	Khaled Abdullah Mahmoud Adwan, 30.
+July 26	19	Osama Mohammad Nassr al-Kafarneh	Osama	al-Kafarneh	50	Palestinian	M	111	3	0	0	Osama Mohammad Nassr al-Kafarneh, 50.
+July 26	19	Khaled 'Ata Mohammad Abu Shehadeh	Khaled	Shehadeh	23	Palestinian	M	198	2	0	0	Khaled 'Ata Mohammad Abu Shehadeh, 23.
+July 26	19	Hani 'Adel Mohammad Abu Hashish	Hani	Hashish	23	Palestinian	M	81	2	0	0	Hani 'Adel Mohammad Abu Hashish, 23.
+July 26	19	Mohammad Ahmad Abu Dawabe'	Mohammad	Dawabe'	19	Palestinian	M	41	2	0	0	Mohammad Ahmad Abu Dawabe', 19.
+July 26	19	Mohammad Ali Khalil Saidam	Mohammad	Saidam	17	Palestinian	M	191	2	0	0	Mohammad Ali Khalil Saidam, 17.
+July 26	19	Ibrahim Mohammad Awad Barak	Ibrahim	Barak	19	Palestinian	M	21	2	0	0	Ibrahim Mohammad Awad Barak, 19.
+July 26	19	Bilal Bassam Salem al-Masri	Bilal	al-Masri	21	Palestinian	M	131	2	0	0	Bilal Bassam Salem al-Masri, 21.
+July 26	19	Anwar Abdul-Khader Hasan Younis	Anwar	Younis	2	Palestinian	M	265	1	0	0	Anwar Abdul-Khader Hasan Younis, 2.
+July 26	19	Arafat Salem Ahmad Abu Oweily	Arafat	Oweily	27	Palestinian	M	173	3	0	0	Arafat Salem Ahmad Abu Oweily, 27.
+July 26	19	Mohammad Fayez Sha'ban al-Sharif	Mohammad	al-Sharif	23	Palestinian	M	198	2	0	0	Mohammad Fayez Sha'ban al-Sharif, 23.
+July 26	19	Mahmoud al-Sharif	Mahmoud	al-Sharif	24	Palestinian	M	198	2	0	0	Mahmoud al-Sharif, 24, Central District
+July 26	19	Hossam Mohammad Suleiman Abu Ghneifi	Hossam	Ghneifi	18	Palestinian	M	78	2	0	0	Hossam Mohammad Suleiman Abu Ghneifi, 18.
+July 26	19	Ghassan Taher Suleiman Abu Kamil	Ghassan	Kamil	25	Palestinian	M	111	3	0	0	Ghassan Taher Suleiman Abu Kamil, 25.
+July 26	19	Ismail Abdul-Jawad Ismail Abu Sa'ada	Ismail	Sa'ada	26	Palestinian	M	191	3	0	0	Ismail Abdul-Jawad Ismail Abu Sa'ada, 26.
+July 26	19	Mahmoud Riyadh Abdul-Khader Miq'dad	Mahmoud	Miq'dad	22	Palestinian	M	139	2	0	0	Mahmoud Riyadh Abdul-Khader Miq'dad, 22.
+July 26	19	Mazin Yusef Suleiman Abu Joerban	Mazin	Joerban	31	Palestinian	M	115	3	0	0	Mazin Yusef Suleiman Abu Joerban, 31.
+July 26	19	Shaker Ahmad Shaker al-Jamal	Shaker	al-Jamal	46	Palestinian	F	101	3	0	0	Shaker Ahmad Shaker al-Jamal, 46.
+July 26	19	Faisal Fa'eq al-At-Toame	Faisal	al-At-Toame	31	Palestinian	M	30	3	0	0	Faisal Fa'eq al-At-Toame, 31.
+July 26	19	Hazem Yusef Abdul-Rahman al-Moebid	Hazem	al-Moebid	34	Palestinian	M	145	3	0	0	Hazem Yusef Abdul-Rahman al-Moebid, 34.
+July 26	19	Abdullah Nabil Abdul-Khader al-Batsh	Abdullah	al-Batsh	21	Palestinian	M	21	2	0	0	Abdullah Nabil Abdul-Khader al-Batsh, 21.
+July 26	19	Sharif Jalal Hasan al-Karshali	Sharif	al-Karshali	27	Palestinian	M	111	3	0	0	Sharif Jalal Hasan al-Karshali, 27.
+July 26	19	Mohammad Arafat Saleh Khalil al-Ghamare	Mohammad	al-Ghamare	33	Palestinian	M	78	3	0	0	Mohammad Arafat Saleh Khalil al-Ghamare, 33.
+July 26	19	Abdul-Raziq Shoeban Abed Ommar	Abdul-Raziq	Ommar	27	Palestinian	M	163	3	0	0	Abdul-Raziq Shoeban Abed Ommar, 27.
+July 26	19	Amjad Nahedh Ala' al-Sarefy	Amjad	al-Sarefy	22	Palestinian	M	191	2	0	0	Amjad Nahedh Ala' al-Sarefy, 22.
+July 26	19	Adham Majed Yousef Daher	Adham	Daher	18	Palestinian	M	41	2	0	0	Adham Majed Yousef Daher, 18.
+July 26	19	Hamza Hassan Mahmoud Halas	Hamza	Halas	25	Palestinian	M	81	3	0	0	Hamza Hassan Mahmoud Halas, 25.
+July 26	19	Ahmad Mousa Ahmad Ahl	Ahmad	Ahl	75	Palestinian	M	18	4	0	0	Ahmad Mousa Ahmad Ahl, 75.
+July 26	19	Mohammad Hussein Hasan al-Nasri.	Mohammad	al-Nasri.	NA	Palestinian	M	141	0	0	1	Mohammad Hussein Hasan al-Nasri.
+July 26	19	Mahmoud Husam Mohammad Mansour	Mahmoud	Mansour	22	Palestinian	M	131	2	0	0	Mahmoud Husam Mohammad Mansour, 22.
+July 26	19	Mosab Mustafa Rajeb Ali	Mosab	Ali	20	Palestinian	M	22	2	0	0	Mosab Mustafa Rajeb Ali, 20.
+July 26	19	Mo'amin Mustafa Mahmoud al-Kasha.	Mo'amin	al-Kasha.	NA	Palestinian	M	111	0	0	1	Mo'amin Mustafa Mahmoud al-Kasha.
+July 26	19	Eyas Ahmad Mohammad Abu Ouda	Eyas	Ouda	28	Palestinian	M	171	3	0	0	Eyas Ahmad Mohammad Abu Ouda, 28.
+July 26	19	Nidal Khaled Mohammad Khalil	Nidal	Khalil	20	Palestinian	M	118	2	0	0	Nidal Khaled Mohammad Khalil, 20.
+July 26	19	Nader Majdi Abdul-Rahman Qassim	Nader	Qassim	30	Palestinian	M	171	3	0	0	Nader Majdi Abdul-Rahman Qassim, 30.
+July 26	19	Eman Ibrahim Suleiman al-Ghandour.	Eman	al-Ghandour.	NA	Palestinian	M	78	0	0	1	Eman Ibrahim Suleiman al-Ghandour.
+July 26	19	Salmad Hamad Salmad al-Amour	Salmad	al-Amour	32	Palestinian	M	23	3	0	0	Salmad Hamad Salmad al-Amour, 32.
+July 26	19	Rifat Nabil Ramadan Oweida	Rifat	Oweida	27	Palestinian	M	173	3	0	0	Rifat Nabil Ramadan Oweida, 27.
+July 26	19	Ashraf Qassim Mansour Wafi	Ashraf	Wafi	25	Palestinian	M	231	3	0	0	Ashraf Qassim Mansour Wafi, 25.
+July 26	19	Baha Rafiq Oweida	Baha	Oweida	36	Palestinian	M	173	3	0	0	Baha Rafiq Oweida, 36.
+July 26	19	Ahmad Barham Oleiman Abu Daqqa	Ahmad	Daqqa	NA	Palestinian	M	41	0	0	1	Ahmad Barham Oleiman Abu Daqqa
+July 26	19	Taysir Mohammad Aish an-Najjar	Taysir	an-Najjar	NA	Palestinian	M	141	0	0	1	Taysir Mohammad Aish an-Najjar
+July 25	18	Maram Rajeh Fayyad	Maram	Fayyad	26	Palestinian	M	61	3	0	0	Maram Rajeh Fayyad, 26, Deir al-Balah
+July 25	18	Shaima' Hussein Abdul-Qadder Qannan	Shaima'	Qannan	23	Palestinian	F	171	2	0	0	Shaima' Hussein Abdul-Qadder Qannan, pregnant, 23, Gaza.
+July 25	18	Abdul-Hadi Salah Abu Hasanen	Abdul-Hadi	Hasanen	9	Palestinian	M	81	1	0	0	Abdul-Hadi Salah Abu Hasanen, 9, Rafah.
+July 25	18	Hadi Salah ed-Deen Abu Hassanen	Hadi	Hassanen	12	Palestinian	M	81	1	0	0	Hadi Salah ed-Deen Abu Hassanen, 12. Rafah.
+July 25	18	Salah Ahmad Hassanen	Salah	Hassanen	45	Palestinian	M	81	3	0	0	Salah Ahmad Hassanen, 45, Rafah.
+July 25	18	Abdul-Aziz Salah Ahmad Hassanen	Abdul-Aziz	Hassanen	15	Palestinian	M	81	2	0	0	Abdul-Aziz Salah Ahmad Hassanen, 15, Rafah.
+July 25	18	Abdul-Hadi Salam Ahmad Abu Hassanein	Abdul-Hadi	Hassanein	9	Palestinian	M	81	1	0	0	Abdul-Hadi Salam Ahmad Abu Hassanein, 9.Rafah.
+July 25	18	Mohammad Ibrahim al-Khatib	Mohammad	al-Khatib	27	Palestinian	M	118	3	0	0	Mohammad Ibrahim al-Khatib, 27, Khan Younis.
+July 25	18	Mohammad Samir Najjar	Mohammad	Najjar	25	Palestinian	M	141	3	0	0	Mohammad Samir Najjar, 25, Khan Younis.
+July 25	18	Rasmiyya Salama	Rasmiyya	Salama	24	Palestinian	NA	191	2	0	0	Rasmiyya Salama, 24, Khan Younis.
+July 25	18	Suleiman ash-Shawwaf	Suleiman	ash-Shawwaf	21	Palestinian	M	198	2	0	0	Suleiman ash-Shawwaf, 21, Khan Younis.
+July 25	18	Rasha Abed-Rabbo 'Affana	Rasha	'Affana	28	Palestinian	F	16	3	0	0	Rasha Abed-Rabbo 'Affana, 28, northern Gaza.
+July 25	18	Ali Mohammad Ali Asfour	Ali	Asfour	58	Palestinian	M	29	4	0	0	Ali Mohammad Ali Asfour, 58, Khan Younis.
+July 25	18	Eid Mohammad Abu Qteifan	Eid	Qteifan	23	Palestinian	M	190	2	0	0	Eid Mohammad Abu Qteifan, 23, Deir al-Balah.
+July 25	18	Eyad Nassr Sharab	Eyad	Sharab	24	Palestinian	M	198	2	0	0	Eyad Nassr Sharab, 24, Khan Younis.
+July 25	18	Najat Ibrahim Hamdan an-Najjar	Najat	an-Najjar	42	Palestinian	F	141	3	0	0	Najat Ibrahim Hamdan an-Najjar, 42, Khan Younis
+July 25	18	Sharif Mohammad Salim Abu Hasan	Sharif	Hasan	25	Palestinian	M	81	3	0	0	Sharif Mohammad Salim Abu Hasan, 25, Khan Younis
+July 25	18	Mohammad Khalil Hamad	Mohammad	Hamad	18	Palestinian	M	81	2	0	0	Mohammad Khalil Hamad, 18, Khan Younis.
+July 25	18	Mandouh Ibrahim ash-Shawaf	Mandouh	ash-Shawaf	25	Palestinian	M	198	3	0	0	Mandouh Ibrahim ash-Shawaf, 25, Khan Younis.
+July 25	18	Walid Sa'id al-Harazin	Walid	al-Harazin	5	Palestinian	M	81	1	0	0	Walid Sa'id al-Harazin, 5, Gaza
+July 25	18	Tareq Ismail Ahmad Zahd	Tareq	Zahd	22	Palestinian	M	261	2	0	0	Tareq Ismail Ahmad Zahd, 22, Meghraqa, Central District
+July 25	18	Salama Abu Kamil	Salama	Kamil	26	Palestinian	M	111	3	0	0	Salama Abu Kamil, 26. Meghraqa, Central District
+July 25	18	Ahmad Mahdi Abu Zour	Ahmad	Zour	25	Palestinian	M	275	3	0	0	Ahmad Mahdi Abu Zour, 25, Gaza
+July 25	18	Naji Bassem Abu Ammouna	Naji	Ammouna	25	Palestinian	M	23	3	0	0	Naji Bassem Abu Ammouna, 25, Gaza
+July 25	18	Imad Adnan Mohammad Abu Kamil	Imad	Kamil	20	Palestinian	M	111	2	0	0	Imad Adnan Mohammad Abu Kamil, 20, Al-Meghraqa
+July 25	18	Tamer Bassam Mohammad Abu Kamil	Tamer	Kamil	19	Palestinian	M	111	2	0	0	Tamer Bassam Mohammad Abu Kamil, 19, Al-Meghraqa.
+July 25	18	Mohammad Yassin Siyam	Mohammad	Siyam	29	Palestinian	M	199	3	0	0	Mohammad Yassin Siyam, 29, Zeitoun - Gaza
+July 25	18	Rami Mohammad Yassin	Rami	Yassin	24	Palestinian	M	251	2	0	0	Rami Mohammad Yassin, 24, Zeitoun, Gaza
+July 25	18	Osama Salim Shaheen	Osama	Shaheen	27	Palestinian	M	198	3	0	0	Osama Salim Shaheen, 27, Khan Younis.
+July 25	18	Hamada Suleiman Abu Younis	Hamada	Younis	25	Palestinian	M	265	3	0	0	Hamada Suleiman Abu Younis, 25.
+July 25	18	Mohammad Kamel an-Naqa	Mohammad	an-Naqa	34	Palestinian	M	141	3	0	0	Mohammad Kamel an-Naqa, 34, Khan Younis.
+July 25	18	Kamaal Kamel an-Naqa	Kamaal	an-Naqa	35	Palestinian	M	141	3	0	0	Kamaal Kamel an-Naqa, 35, Khan Younis.
+July 25	18	Yousef Kamal Mohammed al-Wasify	Yousef	al-Wasify	26	Palestinian	M	231	3	0	0	Yousef Kamal Mohammed al-Wasify, 26, Gaza City.
+July 25	18	Mazin Abdeen	Mazin	Abdeen	23	Palestinian	M	12	2	0	0	Mazin Abdeen, 23, Rafah.
+July 25	18	Adnan Shahid Ashteiwi Abdeen	Adnan	Abdeen	35	Palestinian	M	12	3	0	0	Adnan Shahid Ashteiwi Abdeen, 35, Rafah.
+July 25	18	Mohammad Abdel Nasser Abu Zina	Mohammad	Zina	24	Palestinian	M	269	2	0	0	Mohammad Abdel Nasser Abu Zina, 24, al-Zaitoun.
+July 25	18	Abdul Majeed al-Eidi	Abdul	al-Eidi	35	Palestinian	M	59	3	0	0	Abdul Majeed al-Eidi, 35, al-Zaitoun.
+July 25	18	Mohammad Ahmed Abu Wadiya	Mohammad	Wadiya	19	Palestinian	M	231	2	0	0	Mohammad Ahmed Abu Wadiya, 19, Gaza City.
+July 25	18	Hani 'Adel Abu Hassanein	Hani	Hassanein	24	Palestinian	M	81	2	0	0	Hani 'Adel Abu Hassanein, 24, Gaza City.
+July 25	18	Yassin Mustafa al-Astal	Yassin	al-Astal	38	Palestinian	M	29	3	0	0	Yassin Mustafa al-Astal, 38, Khan Younis.
+July 25	18	Yosra Salem Hasan al-Breem	Yosra	al-Breem	65	Palestinian	F	38	4	0	0	Yosra Salem Hasan al-Breem, 65, Khan Younis.
+July 25	18	Mohammad Issa Khaled Hajji	Mohammad	Hajji	24	Palestinian	M	81	2	0	0	Mohammad Issa Khaled Hajji, 24, Gaza City.
+July 25	18	Hasan Hussein al-Howwari	Hasan	al-Howwari	39	Palestinian	M	95	3	0	0	Hasan Hussein al-Howwari, 39, Gaza City.
+July 25	18	Hosam Rabhi	Hosam	Rabhi	NA	Palestinian	M	181	0	0	1	Hosam Rabhi, Gaza City.
+July 25	18	Hamed al-Bora'ey	Hamed	al-Bora'ey	NA	Palestinian	M	35	0	0	1	Hamed al-Bora'ey, a medic, Beit Hanoun.
+July 25	18	Mohammad Matar al-'Abadla	Mohammad	al-'Abadla	32	Palestinian	M	12	3	0	0	Mohammad Matar al-'Abadla, 32, medic, Khuza'a, Khan Younis.
+July 25	18	Husam Mohammad Najjar	Husam	Najjar	NA	Palestinian	M	141	0	0	1	Husam Mohammad Najjar, Beit Lahia.
+July 25	18	Sha'ban Abdul-Aziz al-Jamal	Sha'ban	al-Jamal	NA	Palestinian	F	101	0	0	1	Sha'ban Abdul-Aziz al-Jamal, Beit Lahia.
+July 25	18	Mohammad Wisam Dardouna	Mohammad	Dardouna	NA	Palestinian	M	41	0	0	1	Mohammad Wisam Dardouna, Beit Lahia.
+July 25	18	Ala' Joudy Khader	Ala'	Khader	NA	Palestinian	F	118	0	0	1	Ala' Joudy Khader, Beit Lahia.
+July 24	17	Ahmad Rif'at Ar-Roqab	Ahmad	Ar-Roqab	23	Palestinian	M	195	2	0	0	Ahmad Rif'at Ar-Roqab, 23, Khan Younis.
+July 24	17	Salman Salman al-Breem	Salman	al-Breem	27	Palestinian	M	38	3	0	0	Salman Salman al-Breem, 27, Khan Younis.
+July 24	17	Mohammad Hasan Abdul-Qader al-Astal	Mohammad	al-Astal	43	Palestinian	M	29	3	0	0	Mohammad Hasan Abdul-Qader al-Astal, 43, Khan Younis.
+July 24	17	Ismael Mohammad al-Astal	Ismael	al-Astal	48	Palestinian	M	29	3	0	0	Ismael Mohammad al-Astal, 48, Khan Younis.
+July 24	17	Ahmad Mohammad Ismael al-Astal	Ahmad	al-Astal	20	Palestinian	M	29	2	0	0	Ahmad Mohammad Ismael al-Astal, 20, Khan Younis.
+July 24	17	Mahmoud Mohammad Ismael al-Astal	Mahmoud	al-Astal	19	Palestinian	M	29	2	0	0	Mahmoud Mohammad Ismael al-Astal, 19.
+July 24	17	Mohammad Saleh Mohammad al-Astal	Mohammad	al-Astal	18	Palestinian	M	29	2	0	0	Mohammad Saleh Mohammad al-Astal, 18.
+July 24	17	Malak Amin Ahmad al-Astal	Malak	al-Astal	24	Palestinian	F	29	2	0	0	Malak Amin Ahmad al-Astal, 24, Khan Younis.
+July 24	17	Tha'er Omran Khamis al-Astal	Tha'er	al-Astal	30	Palestinian	M	29	3	0	0	Tha'er Omran Khamis al-Astal, 30.
+July 24	17	Milad Omran al-Astal	Milad	al-Astal	29	Palestinian	M	29	3	0	0	Milad Omran al-Astal, 29, Khan Younis.
+July 24	17	Mohammad Omran Khamis al-Astal	Mohammad	al-Astal	33	Palestinian	M	29	3	0	0	Mohammad Omran Khamis al-Astal, 33, Khan Younis.
+July 24	17	Ahmad Thaer Omran al-Astal	Ahmad	al-Astal	33	Palestinian	M	29	3	0	0	Ahmad Thaer Omran al-Astal, 33, Khan Younis.
+July 24	17	Amin Thaer Omran al-Astal	Amin	al-Astal	3	Palestinian	M	29	1	0	0	Amin Thaer Omran al-Astal, 3 Khan Younis.
+July 24	17	Nada Thaer Omran al-Astal	Nada	al-Astal	5	Palestinian	F	29	1	0	0	Nada Thaer Omran al-Astal, 5, Khan Younis.
+July 24	17	Yazid Sa'dy Mustafa al-Batsh	Yazid	al-Batsh	23	Palestinian	F	21	2	0	0	Yazid Sa'dy Mustafa al-Batsh, 23, Gaza.
+July 24	17	Ibrahim Abdullah Abu Aita	Ibrahim	Aita	67	Palestinian	M	19	4	0	0	Ibrahim Abdullah Abu Aita, 67, Jabalia.
+July 24	17	Ahmad Ibrahim Abdullah Abu Aita	Ahmad	Aita	30	Palestinian	M	19	3	0	0	Ahmad Ibrahim Abdullah Abu Aita, 30, Jabalia.
+July 24	17	Jamila Salim Abu Aita	Jamila	Aita	55	Palestinian	F	19	4	0	0	Jamila Salim Abu Aita, 55, Jabalia.
+July 24	17	Adham Ahmad Abu Aita	Adham	Aita	4	Palestinian	M	19	1	0	0	Adham Ahmad Abu Aita, 4, Jabalia.
+July 24	17	Mohammad Ibrahim Abu Aita	Mohammad	Aita	32	Palestinian	M	19	3	0	0	Mohammad Ibrahim Abu Aita, 32, Jabalia.
+July 24	17	Khalil Nasser Aita Wishah	Khalil	Wishah	21	Palestinian	M	239	2	0	0	Khalil Nasser Aita Wishah, 21, Central District.
+July 24	17	Ahmad Ibrahim Sa'ad al-Qar'an	Ahmad	al-Qar'an	26	Palestinian	M	171	3	0	0	Ahmad Ibrahim Sa'ad al-Qar'an, 26, Central District.
+July 24	17	Hadi Abdul-Hamid Abdul-Fatah Abdul Nabi	Hadi	Nabi	3	Palestinian	M	141	1	0	0	Hadi Abdul-Hamid Abdul-Fatah Abdul Nabi, 3, Jabalia
+July 24	17	Abdul-Hadi Abdul-Hamid Abdul Nabi	Abdul-Hadi	Nabi	2	Palestinian	M	141	1	0	0	Abdul-Hadi Abdul-Hamid Abdul Nabi, 2, Jabalia.
+July 24	17	Abdul-Rahman Mahmoud Abdul-Fatah Abdul Nabi	Abdul-Rahman	Nabi	1	Palestinian	M	141	1	0	0	Abdul-Rahman Mahmoud Abdul-Fatah Abdul Nabi, 1, Jabalia.
+July 24	17	Yahia Ibrahim Abu 'Arbaid	Yahia	'Arbaid	NA	Palestinian	M	28	0	0	1	Yahia Ibrahim Abu 'Arbaid, Beit Hanoun
+July 24	17	Mohammad Suleiman an-Najjar	Mohammad	an-Najjar	NA	Palestinian	M	141	0	0	1	Mohammad Suleiman an-Najjar, Khuza'a, Khan Younis.
+July 24	17	Bilal Zayad 'Alwan	Bilal	'Alwan	20	Palestinian	M	22	2	0	0	Bilal Zayad 'Alwan, 20, Jabalia
+July 24	17	Majed Mahmoud Mohammad Hamid	Majed	Hamid	28	Palestinian	M	81	3	0	0	Majed Mahmoud Mohammad Hamid, 28, Jabalia.
+July 24	17	Mohammed Ibrahim Abu Daqqa	Mohammed	Daqqa	42	Palestinian	M	41	3	0	0	Mohammed Ibrahim Abu Daqqa, 42, Khuza'a, Khan Younis
+July 24	17	Akram Ibrahim Abu Daqqa	Akram	Daqqa	50	Palestinian	M	41	3	0	0	Akram Ibrahim Abu Daqqa, 50, Khuza'a, Khan Younis.
+July 24	17	Salameh al-Rade'a	Salameh	al-Rade'a	NA	Palestinian	M	181	0	0	1	Salameh al-Rade'a, toddler, northern Gaza.
+July 24	17	Ismail Hassan Abu Rjeila	Ismail	Rjeila	75	Palestinian	M	190	4	0	0	Ismail Hassan Abu Rjeila, 75, Khan Younis.
+July 24	17	Nafeth Suleiman Qdeih	Nafeth	Qdeih	45	Palestinian	M	174	3	0	0	Nafeth Suleiman Qdeih, 45, Khan Younis.
+July 24	17	Nabil Shehda Qdeih	Nabil	Qdeih	45	Palestinian	M	174	3	0	0	Nabil Shehda Qdeih, 45, Khan Younis.
+July 24	17	Baker an-Najjar	Baker	an-Najjar	13	Palestinian	M	141	1	0	0	Baker an-Najjar, 13, Khan Younis.
+July 24	17	Shadi Yusef an-Najjar	Shadi	an-Najjar	NA	Palestinian	M	141	0	0	1	Shadi Yusef an-Najjar, Khan Younis.
+July 24	17	Mohammad Ahmad Najjar	Mohammad	Najjar	NA	Palestinian	M	141	0	0	1	Mohammad Ahmad Najjar, Khan Younis.
+July 24	17	Anwar Ahmad Najjar	Anwar	Najjar	NA	Palestinian	M	141	0	0	1	Anwar Ahmad Najjar, Khan Younis.
+July 24	17	Anwar Ahmad Abu Daqqa	Anwar	Daqqa	NA	Palestinian	M	41	0	0	1	Anwar Ahmad Abu Daqqa, Khan Younis.
+July 24	17	Sami Mousa Abu Daqqa	Sami	Daqqa	NA	Palestinian	M	41	0	0	1	Sami Mousa Abu Daqqa, Khan Younis.
+July 24	17	Adli Khalil Abu Daqqa	Adli	Daqqa	NA	Palestinian	F	41	0	0	1	Adli Khalil Abu Daqqa,Khan Younis.
+July 24	17	'Atef Kamal Mahmoud Abu Daqqa	'Atef	Daqqa	54	Palestinian	M	41	3	0	0	'Atef Kamal Mahmoud Abu Daqqa, 54, Khan Younis.
+July 24	17	Shoeban Moussa Abu Hiya	Shoeban	Hiya	64	Palestinian	M	89	4	0	0	Shoeban Moussa Abu Hiya, 64, Khan Younis.
+July 24	17	Ahmad Abdul-Karim Ahmad Hasan	Ahmad	Hasan	NA	Palestinian	M	81	0	0	1	Ahmad Abdul-Karim Ahmad Hasan, Khan Younis
+July 24	17	'Ola Abu Aida	'Ola	Aida	27	Palestinian	M	19	3	0	0	'Ola Abu Aida, 27, Zahra - Khan Younis.
+July 24	17	Mohammad Ismael Khader	Mohammad	Khader	NA	Palestinian	M	118	0	0	1	Mohammad Ismael Khader, Zahra – Khan Younis.
+July 24	17	Anas Akram Skafi	Anas	Skafi	18	Palestinian	M	201	2	0	0	Anas Akram Skafi, 18, Shujaeyya - Gaza.
+July 24	17	Sa'ad Akram Skafi	Sa'ad	Skafi	18	Palestinian	M	201	2	0	0	Sa'ad Akram Skafi, 18, twin brother Shujaeyya - Gaza.
+July 24	17	Mohammad Jihad Matar	Mohammad	Matar	NA	Palestinian	M	131	0	0	1	Mohammad Jihad Matar, Beit Hanoun
+July 24	17	Hanan Jihad Matar	Hanan	Matar	NA	Palestinian	F	131	0	0	1	Hanan Jihad Matar, Beit Hanoun.
+July 24	17	Tamam Mohammad Hamad	Tamam	Hamad	NA	Palestinian	M	81	0	0	1	Tamam Mohammad Hamad, Beit Hanoun
+July 24	17	Khader Khalil al-Louh	Khader	al-Louh	50	Palestinian	M	135	3	0	0	Khader Khalil al-Louh, 50, Atatra, Northern Gaza
+July 24	17	Rasmi Mousa Abu Reeda	Rasmi	Reeda	NA	Palestinian	M	185	0	0	1	Rasmi Mousa Abu Reeda, Khan Younis
+July 24	17	Mohammad Radi Mahmoud Abu Reeda	Mohammad	Reeda	22	Palestinian	M	185	2	0	0	Mohammad Radi Mahmoud Abu Reeda, 22, Khan Younis.
+July 24	17	Mohammad Abu Yousef	Mohammad	Yousef	NA	Palestinian	M	265	0	0	1	Mohammad Abu Yousef, Khan Younis
+July 24	17	Ahmad Qdeih	Ahmad	Qdeih	NA	Palestinian	M	174	0	0	1	Ahmad Qdeih, Khan Younis
+July 24	17	Rami Qdeih	Rami	Qdeih	NA	Palestinian	M	174	0	0	1	Rami Qdeih, Khan Younis
+July 24	17	Badr Hatem Qdeih	Badr	Qdeih	13	Palestinian	M	174	1	0	0	Badr Hatem Qdeih, 13, Khuza'a, Khan Younis.
+July 24	17	Anas Hatem Suleiman Qdeih	Anas	Qdeih	7	Palestinian	M	174	1	0	0	Anas Hatem Suleiman Qdeih, 7, Khuza'a, Khan Younis.
+July 24	17	Hanafi Mahmoud Abu Yousef	Hanafi	Yousef	42	Palestinian	M	265	3	0	0	Hanafi Mahmoud Abu Yousef, 42, Khuza'a, Khan Younis.
+July 24	17	Abdel Aziz Nour El Din Noor	Abdel	Noor	21	Palestinian	M	155	2	0	0	Abdel Aziz Nour El Din Noor, 21, Sheja'eyya.
+July 24	17	Amir Adel Khamis Siam 12	Amir	Adel	12	Palestinian	M	14	1	0	0	Amir Adel Khamis Siam 12, Rafah.
+July 24	17	Issam Faisal Siam	Issam	Siam	24	Palestinian	M	199	2	0	0	Issam Faisal Siam, 24, Rafah.
+July 24	17	Mahmoud Silmy Salim Abu Rowaished	Mahmoud	Rowaished	49	Palestinian	M	195	3	0	0	Mahmoud Silmy Salim Abu Rowaished, 49, Rafah.
+July 24	17	Ahmed Abu Jm'ean Hji'er 19	Ahmed	Abu	19	Palestinian	M	12	2	0	0	Ahmed Abu Jm'ean Hji'er 19, Al-Bureij.
+July 24	17	Amer Abdul-Raouf Mohamed El Azab	Amer	Azab	26	Palestinian	M	36	3	0	0	Amer Abdul-Raouf Mohamed El Azab, 26, Deir al-Balah.
+July 24	17	Thaer Ahed Owda Shamaly	Thaer	Shamaly	17	Palestinian	M	198	2	0	0	Thaer Ahed Owda Shamaly, 17, Sheja'eyya.
+July 24	17	Mohammed Yousef Mansoub Al-Qadi	Mohammed	Al-Qadi	19	Palestinian	M	171	2	0	0	Mohammed Yousef Mansoub Al-Qadi, 19., had been in Egyptian hospital
+July 24	17	Yasmin Ahmed Abu Moor	Yasmin	Moor	27	Palestinian	F	145	3	0	0	Yasmin Ahmed Abu Moor, 27(had been in Egyptian hospital
+July 24	17	Mohammad Suleiman Nimr 'Oqal	Mohammad	'Oqal	34	Palestinian	M	167	3	0	0	Mohammad Suleiman Nimr 'Oqal, 34
+July 24	17	Mohammed Rateb Abu Jazr	Mohammed	Jazr	25	Palestinian	M	101	3	0	0	Mohammed Rateb Abu Jazr, 25, Khan Younis.
+July 24	17	Hisham Mohammad Farhan Abu Jazr	Hisham	Jazr	23	Palestinian	M	101	2	0	0	Hisham Mohammad Farhan Abu Jazr, 23, Khan Younis.
+July 24	17	Mohammed Farhan Abu Jazr	Mohammed	Jazr	48	Palestinian	M	101	3	0	0	Mohammed Farhan Abu Jazr, 48, Khan Younis.
+July 24	17	Shadi Suleiman Kawar'e	Shadi	Kawar'e	31	Palestinian	M	111	3	0	0	Shadi Suleiman Kawar'e, 31, Khan Younis.
+July 24	17	Ra'ed Abu Owda 17	Ra'ed	Abu	17	Palestinian	M	12	2	0	0	Ra'ed Abu Owda 17, UN School, Beit Hanoun.
+July 24	17	Ashraf Ibrahim Hasan Najjar	Ashraf	Najjar	13	Palestinian	M	141	1	0	0	Ashraf Ibrahim Hasan Najjar, 13, Khan Younis
+July 24	17	Mahmoud Jihad Awad Abdin	Mahmoud	Abdin	12	Palestinian	M	12	1	0	0	Mahmoud Jihad Awad Abdin, 12, Khan Younis
+July 24	17	Ahmad Talal Najjar	Ahmad	Najjar	NA	Palestinian	M	141	0	0	1	Ahmad Talal Najjar, Khan Younis
+July 24	17	Mohammad Samir Abdul-Al an-Najjar	Mohammad	an-Najjar	25	Palestinian	M	141	3	0	0	Mohammad Samir Abdul-Al an-Najjar, 25, Khan Younis
+July 24	17	Mahmoud Abdo an-Najjar	Mahmoud	an-Najjar	NA	Palestinian	M	141	0	0	1	Mahmoud Abdo an-Najjar, Khan Younis.
+July 24	17	Sana' Hasan Ali al-Astal	Sana'	al-Astal	NA	Palestinian	F	29	0	0	1	Sana' Hasan Ali al-Astal, Khan Younis
+July 24	17	Nabil Mahmoud Mohammad al-Astal	Nabil	al-Astal	12	Palestinian	M	29	1	0	0	Nabil Mahmoud Mohammad al-Astal, 12, Khan Younis
+July 24	17	Ashraf Mahmoud Mohammad al-Astal	Ashraf	al-Astal	NA	Palestinian	M	29	0	0	1	Ashraf Mahmoud Mohammad al-Astal, Khan Younis
+July 24	17	Mahmoud Suleiman al-Astal	Mahmoud	al-Astal	17	Palestinian	M	29	2	0	0	Mahmoud Suleiman al-Astal, 17, Khan Younis
+July 24	17	Laila Ibrahim Zo'rob	Laila	Zo'rob	40	Palestinian	F	275	3	0	0	Laila Ibrahim Zo'rob, 40, Rafah
+July 24	17	Mahmoud As'ad Ghaban	Mahmoud	Ghaban	24	Palestinian	M	78	2	0	0	Mahmoud As'ad Ghaban, 24, Beit Lahia
+July 24	17	Ibrahim Jihad Abu Laban	Ibrahim	Laban	27	Palestinian	M	121	3	0	0	Ibrahim Jihad Abu Laban, 27, Zeitoun - Gaza
+July 24	17	Mahmoud Jihad Awad Abdin	Mahmoud	Abdin	12	Palestinian	M	12	1	0	0	Mahmoud Jihad Awad Abdin, 12, Khan Younis
+July 24	17	Ibrahim Sheikh Omar	Ibrahim	Omar	3.0	Palestinian	M	163	1	0	0	Ibrahim Sheikh Omar, 36 months, Gaza
+July 23	16	Hasan Abu Hayyin	Hasan	Hayyin	70	Palestinian	M	81	4	0	0	Hasan Abu Hayyin, 70, Shejaeyya, Gaza.
+July 23	16	Abdul-Rahman Abu Hayyin	Abdul-Rahman	Hayyin	26	Palestinian	M	81	3	0	0	Abdul-Rahman Abu Hayyin, 26, Sheja'eyya, Gaza.
+July 23	16	Osama Bahjat Rajab	Osama	Rajab	34	Palestinian	M	181	3	0	0	Osama Bahjat Rajab, 34, Beit Lahia.
+July 23	16	Mohammad Daoud Hammouda	Mohammad	Hammouda	33	Palestinian	M	81	3	0	0	Mohammad Daoud Hammouda, 33, Beit Lahia.
+July 23	16	Hamza Ziyada Abu 'Anza	Hamza	'Anza	18	Palestinian	M	24	2	0	0	Hamza Ziyada Abu 'Anza, 18, Khan Younis.
+July 23	16	Saddam Ibrahim Abu Assi	Saddam	Assi	23	Palestinian	M	29	2	0	0	Saddam Ibrahim Abu Assi, 23, Khan Younis, was seriously injured Tuesday, died Wednesday.
+July 23	16	Wisam 'Ala Najjar	Wisam	Najjar	17	Palestinian	M	141	2	0	0	Wisam 'Ala Najjar, 17, Khan Younis
+July 23	16	Mohammad Mansour al-Bashiti	Mohammad	al-Bashiti	8	Palestinian	M	21	1	0	0	Mohammad Mansour al-Bashiti, 8, Khan Younis.
+July 23	16	Ali Mansour Hamdi al-Bashiti	Ali	al-Bashiti	1	Palestinian	M	21	1	0	0	Ali Mansour Hamdi al-Bashiti, 1, Khan Younis.
+July 23	16	Mohammad Riyadh Sha'aban Shabt	Mohammad	Shabt	23	Palestinian	M	198	2	0	0	Mohammad Riyadh Sha'aban Shabt, 23.
+July 23	16	Mohammad Naim Salah Abu T'aima	Mohammad	T'aima	12	Palestinian	M	201	1	0	0	Mohammad Naim Salah Abu T'aima, 12, Khan Younis.
+July 23	16	Salem Abdullah Mousa Abu T'aima	Salem	T'aima	36	Palestinian	M	201	3	0	0	Salem Abdullah Mousa Abu T'aima, 36, Khan Younis.
+July 23	16	Ismail Abu Tharifa	Ismail	Tharifa	NA	Palestinian	M	208	0	0	1	Ismail Abu Tharifa, Khan Younis.
+July 23	16	Zeinab Abu Teir	Zeinab	Teir	NA	Palestinian	F	205	0	0	1	Zeinab Abu Teir, child, Khan Younis.
+July 23	16	Mohammad Radi Abu Redya	Mohammad	Redya	22	Palestinian	M	185	2	0	0	Mohammad Radi Abu Redya, 22, Khan Younis.
+July 23	16	Shama Shahin	Shama	Shahin	NA	Palestinian	F	198	0	0	1	Shama Shahin, Khan Younis, Mohammad's wife
+July 23	16	Mojahed Marwan Skafi	Mojahed	Skafi	20	Palestinian	M	201	2	0	0	Mojahed Marwan Skafi, 20, Sheja'eyya, Gaza.
+July 23	16	Adnan Ghazi Habib	Adnan	Habib	23	Palestinian	M	81	2	0	0	Adnan Ghazi Habib, 23, central Gaza.
+July 23	16	Ibrahim Ahmad Shbeir	Ibrahim	Shbeir	24	Palestinian	M	198	2	0	0	Ibrahim Ahmad Shbeir, 24, Khan Younis
+July 23	16	Mustafa Mohammad Mahmoud Fayyad	Mustafa	Fayyad	24	Palestinian	M	61	2	0	0	Mustafa Mohammad Mahmoud Fayyad, 24, northern Gaza.
+July 23	16	Nidal Hamdi Diab al-'Ejla	Nidal	al-'Ejla	31	Palestinian	M	60	3	0	0	Nidal Hamdi Diab al-'Ejla, 31, Gaza.
+July 23	16	Khalil Abu Jame'	Khalil	Jame'	NA	Palestinian	M	101	0	0	1	Khalil Abu Jame', Khan Younis.
+July 23	16	Husam al-Qarra	Husam	al-Qarra	NA	Palestinian	M	171	0	0	1	Husam al-Qarra, Khan Younis
+July 23	16	Rabea' Qassem	Rabea'	Qassem	12	Palestinian	F	171	1	0	0	Rabea' Qassem, 12, Northern Gaza
+July 23	16	Hasan Salah Abu Jamous	Hasan	Jamous	29	Palestinian	M	101	3	0	0	Hasan Salah Abu Jamous, 29, Khan Younis
+July 23	16	Mahmoud Yousef Khaled al-'Abadla	Mahmoud	al-'Abadla	22	Palestinian	M	12	2	0	0	Mahmoud Yousef Khaled al-'Abadla, 22, Khan Younis
+July 23	16	Nour Abdul-Rahim al-'Abadla	Nour	al-'Abadla	22	Palestinian	M	12	2	0	0	Nour Abdul-Rahim al-'Abadla, 22, Khan Younis
+July 23	16	Mohammad Farid al-Astal	Mohammad	al-Astal	NA	Palestinian	M	29	0	0	1	Mohammad Farid al-Astal, Khan Younis.
+July 23	16	Mohammad Abdul-Ra'ouf ad-Dadda	Mohammad	ad-Dadda	39	Palestinian	M	41	3	0	0	Mohammad Abdul-Ra'ouf ad-Dadda, 39, Gaza.
+July 23	16	Ahmad Mohammad Darwish Bolbol	Ahmad	Bolbol	20	Palestinian	M	35	2	0	0	Ahmad Mohammad Darwish Bolbol, 20, Gaza.
+July 23	16	Ahmad Nabil Ahmad Abu Morad	Ahmad	Morad	21	Palestinian	M	145	2	0	0	Ahmad Nabil Ahmad Abu Morad, 21, Gaza.
+July 23	16	Ibrahim Omar al-Hallaq	Ibrahim	al-Hallaq	40	Palestinian	M	81	3	0	0	Ibrahim Omar al-Hallaq, 40, Khan Younis
+July 23	16	Wael Maher Awwad	Wael	Awwad	23	Palestinian	M	33	2	0	0	Wael Maher Awwad, 23, Khan Younis
+July 23	16	Ahmad Mahmoud Sohweil	Ahmad	Sohweil	23	Palestinian	M	205	2	0	0	Ahmad Mahmoud Sohweil, 23, Khan Younis
+July 23	16	Issam Ismael Abu Shaqra	Issam	Shaqra	42	Palestinian	M	198	3	0	0	Issam Ismael Abu Shaqra, 42, Khan Younis
+July 23	16	Abdul-Rahman Ibrahim Abu Shaqra	Abdul-Rahman	Shaqra	17	Palestinian	M	198	2	0	0	Abdul-Rahman Ibrahim Abu Shaqra, 17, Khan Younis
+July 23	16	Mohammad Ahmad Akram Abu Shaqra	Mohammad	Shaqra	17	Palestinian	M	198	2	0	0	Mohammad Ahmad Akram Abu Shaqra, 17, Khan Younis
+July 23	16	Ahmad as-Saqqa	Ahmad	as-Saqqa	17	Palestinian	M	191	2	0	0	Ahmad as-Saqqa, 17, Khan Younis
+July 23	16	Nayef Fayez Nayef ath-Thatha	Nayef	ath-Thatha	19	Palestinian	M	208	2	0	0	Nayef Fayez Nayef ath-Thatha, 19, Zeitoun – Gaza
+July 23	16	Nayef Maher Nayef ath-Thatha	Nayef	ath-Thatha	24	Palestinian	M	208	2	0	0	Nayef Maher Nayef ath-Thatha, 24, Zeitoun – Gaza
+July 23	16	Nayef Maher Nayef ath-Thatha	Nayef	ath-Thatha	24	Palestinian	M	208	2	0	0	Nayef Maher Nayef ath-Thatha, 24, Gaza.
+July 23	16	Jihad Hussein Mahmoud Hamad	Jihad	Hamad	20	Palestinian	M	81	2	0	0	Jihad Hussein Mahmoud Hamad, 20
+July 23	16	'Ala Hamad Ali Khattab	'Ala	Khattab	26	Palestinian	F	118	3	0	0	'Ala Hamad Ali Khattab, 26, Deir al-Balah<--corrected -->
+July 23	16	Abdul-Qader Jamil al-Khalidi	Abdul-Qader	al-Khalidi	23	Palestinian	M	118	2	0	0	Abdul-Qader Jamil al-Khalidi, 23, al-Boreij
+July 23	16	Ayman Adham Yousef Ahmad	Ayman	Ahmad	16	Palestinian	M	18	2	0	0	Ayman Adham Yousef Ahmad, 16, Beit Lahia
+July 23	16	Bilal Ali Ahmad Abu 'Athra	Bilal	'Athra	25	Palestinian	M	30	3	0	0	Bilal Ali Ahmad Abu 'Athra, 25, Beit Lahia
+July 23	16	Abdul-Karim Nassar Saleh Abu Jarmi	Abdul-Karim	Jarmi	24	Palestinian	M	101	2	0	0	Abdul-Karim Nassar Saleh Abu Jarmi, 24, Beit Lahia
+July 23	16	Rawan Ayman Saoud Suweidan	Rawan	Suweidan	9	Palestinian	F	211	1	0	0	Rawan Ayman Saoud Suweidan, 9, central Gaza.
+July 23	16	Naim Juma'a Mohammad Abu Nizeid	Naim	Nizeid	NA	Palestinian	M	149	0	0	1	Naim Juma'a Mohammad Abu Nizeid
+July 23	16	Jani Rami Nassr al-Maqat'a	Jani	al-Maqat'a	27	Palestinian	M	131	3	0	0	Jani Rami Nassr al-Maqat'a, 27, central Gaza.
+July 23	16	Said Ahmad Tawfiq at-Tawil	Said	at-Tawil	22	Palestinian	F	201	2	0	0	Said Ahmad Tawfiq at-Tawil, 22, central Gaza.
+July 23	16	Ola Khalil Ali Abu Obada	Ola	Obada	24	Palestinian	M	152	2	0	0	Ola Khalil Ali Abu Obada, 24, central Gaza.
+July 23	16	Do'a Ra'ed Abu Ouda	Do'a	Ouda	17	Palestinian	M	171	2	0	0	Do'a Ra'ed Abu Ouda, 17, northern Gaza.
+July 23	16	Amer Abdul Raouf Abu Ozeb	Amer	Ozeb	26	Palestinian	M	176	3	0	0	Amer Abdul Raouf Abu Ozeb, 26, central Gaza.
+July 23	16	Awad Abu Ouda	Awad	Ouda	NA	Palestinian	M	171	0	0	1	Awad Abu Ouda, northern Gaza.
+July 23	16	Bilal ash-Shinbari	Bilal	ash-Shinbari	NA	Palestinian	M	198	0	0	1	Bilal ash-Shinbari, northern Gaza.
+July 23	16	Fatima ash-Shinbari	Fatima	ash-Shinbari	NA	Palestinian	F	198	0	0	1	Fatima ash-Shinbari, northern Gaza.
+July 23	16	Falasteen ash-Shinbari	Falasteen	ash-Shinbari	NA	Palestinian	NA	198	0	0	1	Falasteen ash-Shinbari, northern Gaza.
+July 23	16	Abed Rabo ash-Shinbari	Abed	ash-Shinbari	NA	Palestinian	M	198	0	0	1	Abed Rabo ash-Shinbari, northern Gaza.
+July 23	16	Ali Sha'boub ash-Shinbari	Ali	ash-Shinbari	NA	Palestinian	M	198	0	0	1	Ali Sha'boub ash-Shinbari, northern Gaza.
+July 23	16	Souha Musleh	Souha	Musleh	NA	Palestinian	F	151	0	0	1	Souha Musleh, northern Gaza.
+July 23	16	Mohammad al-Kafarna	Mohammad	al-Kafarna	NA	Palestinian	M	111	0	0	1	Mohammad al-Kafarna, Beit Hanoun.
+July 22	15	Naji Jamal al-Fajm	Naji	al-Fajm	26	Palestinian	M	61	3	0	0	Naji Jamal al-Fajm, 26, Khan Younis.
+July 22	15	Ebtehal Ibrahim ar-Remahi	Ebtehal	ar-Remahi	NA	Palestinian	M	185	0	0	1	Ebtehal Ibrahim ar-Remahi, Deir al-Balah.
+July 22	15	Yousef Ibrahim ar-Remahi	Yousef	ar-Remahi	NA	Palestinian	M	185	0	0	1	Yousef Ibrahim ar-Remahi, Deir al-Balah.
+July 22	15	Eman Ibrahim ar-Remahi	Eman	ar-Remahi	NA	Palestinian	M	185	0	0	1	Eman Ibrahim ar-Remahi, Deir al-Balah.
+July 22	15	Salwa Abu Mneifi	Salwa	Mneifi	NA	Palestinian	F	144	0	0	1	Salwa Abu Mneifi, Khan Younis.
+July 22	15	Abdullah Ismael al-Baheessy	Abdullah	al-Baheessy	27	Palestinian	M	21	3	0	0	Abdullah Ismael al-Baheessy, 27, Deir al-Balah.
+July 22	15	Mos'ab Saleh Salama	Mos'ab	Salama	19	Palestinian	M	191	2	0	0	Mos'ab Saleh Salama, 19, Khan Younis.
+July 22	15	Ibrahim Nasr Haroun	Ibrahim	Haroun	38	Palestinian	M	81	3	0	0	Ibrahim Nasr Haroun, 38, Nusseirat.
+July 22	15	Mahmoud Suleiman Abu Sabha	Mahmoud	Sabha	55	Palestinian	M	191	4	0	0	Mahmoud Suleiman Abu Sabha, 55, Khan Younis.
+July 22	15	Hasan Khader Baker	Hasan	Baker	60	Palestinian	M	21	4	0	0	Hasan Khader Baker, 60, Gaza City.
+July 22	15	Wa'el Jamal Harb	Wa'el	Harb	32	Palestinian	M	81	3	0	0	Wa'el Jamal Harb, 32, Rafah.
+July 22	15	Suleiman Abu Daher	Suleiman	Daher	21	Palestinian	M	41	2	0	0	Suleiman Abu Daher, 21, Khan Younis.
+July 22	15	Haitham Samir al-Agha	Haitham	al-Agha	26	Palestinian	M	17	3	0	0	Haitham Samir al-Agha, 26, Khan Younis.
+July 22	15	Fatima Hasan Azzam	Fatima	Azzam	70	Palestinian	F	36	4	0	0	Fatima Hasan Azzam, 70, Gaza.
+July 22	15	Mariam Hasan Azzam	Mariam	Azzam	50	Palestinian	F	36	3	0	0	Mariam Hasan Azzam, 50, Gaza.
+July 22	15	Yasmeen Ahmad Abu Mour	Yasmeen	Mour	2	Palestinian	F	145	1	0	0	Yasmeen Ahmad Abu Mour, 2, Rafah.
+July 22	15	Samer Zuheri Sawafiri	Samer	Sawafiri	29	Palestinian	M	191	3	0	0	Samer Zuheri Sawafiri, 29, Rafah.
+July 22	15	Mohammad Mousa Fayyad	Mohammad	Fayyad	36	Palestinian	M	61	3	0	0	Mohammad Mousa Fayyad, 36, Khan Younis
+July 22	15	Mona Rami al-Kharwat	Mona	al-Kharwat	4	Palestinian	F	118	1	0	0	Mona Rami al-Kharwat, 4, Gaza.
+July 22	15	Soha Na'im al-Kharwat	Soha	al-Kharwat	25	Palestinian	F	118	3	0	0	Soha Na'im al-Kharwat, 25, Gaza.
+July 22	15	Ahmad Salah Abu Siedo	Ahmad	Siedo	17	Palestinian	M	199	2	0	0	Ahmad Salah Abu Siedo, 17, Gaza.
+July 22	15	Mohammad Khalil Aref Ahl	Mohammad	Ahl	65	Palestinian	M	18	4	0	0	Mohammad Khalil Aref Ahl, 65, Gaza,, remains located Tuesday, killed during Sheja'eyya Massacre, Sunday.
+July 22	15	Mahmoud Salim Daraj	Mahmoud	Daraj	22	Palestinian	M	41	2	0	0	Mahmoud Salim Daraj, 22, Jabalia.
+July 22	15	Radhi Abu Hweishel	Radhi	Hweishel	40	Palestinian	M	103	3	0	0	Radhi Abu Hweishel, 40, Nusseirat.
+July 22	15	Obeida Abu Hweishel	Obeida	Hweishel	15	Palestinian	M	103	2	0	0	Obeida Abu Hweishel, 15, Nusseirat.
+July 22	15	Yousef Abu Mustafa	Yousef	Mustafa	27	Palestinian	M	151	3	0	0	Yousef Abu Mustafa, 27, Nusseirat.
+July 22	15	Nour al-Islam Abu Hweishel	Nour	Hweishel	12	Palestinian	M	103	1	0	0	Nour al-Islam Abu Hweishel, 12, Nusseirat.
+July 22	15	Yousef Fawza Abu Mustafa	Yousef	Mustafa	20	Palestinian	M	151	2	0	0	Yousef Fawza Abu Mustafa, 20, Nusseirat.
+July 22	15	Hani Awad Sammour	Hani	Sammour	27	Palestinian	M	191	3	0	0	Hani Awad Sammour, 27, Khan Younis.
+July 22	15	Ahmad Ibhrahim Shbeir	Ahmad	Shbeir	24	Palestinian	M	198	2	0	0	Ahmad Ibhrahim Shbeir, 24, Nusseirat.
+July 22	15	Mohammad Jalal al-Jarf	Mohammad	al-Jarf	24	Palestinian	M	101	2	0	0	Mohammad Jalal al-Jarf, 24, Khan Younis.
+July 22	15	Raed Salah	Raed	Salah	22	Palestinian	M	191	2	0	0	Raed Salah, 22, Al-Boreij.
+July 22	15	Ahmad Nassim Saleh	Ahmad	Saleh	23	Palestinian	M	191	2	0	0	Ahmad Nassim Saleh, 23, Al-Boreij.
+July 22	15	Mahmoud Ghanem	Mahmoud	Ghanem	22	Palestinian	M	78	2	0	0	Mahmoud Ghanem, 22 Al-Boreij.
+July 22	15	Mustafa Mohammad Mahmoud Fayyad	Mustafa	Fayyad	24	Palestinian	M	61	2	0	0	Mustafa Mohammad Mahmoud Fayyad, 24.
+July 22	15	Ahmad Issam Wishah	Ahmad	Wishah	29	Palestinian	M	239	3	0	0	Ahmad Issam Wishah, 29, Central District.
+July 22	15	Ahmad Kamel Abu Mgheiseb	Ahmad	Mgheiseb	35	Palestinian	M	137	3	0	0	Ahmad Kamel Abu Mgheiseb, 35, Central District.
+July 22	15	Raed Abdul-Rahman Abu Mgheiseb	Raed	Mgheiseb	35	Palestinian	M	137	3	0	0	Raed Abdul-Rahman Abu Mgheiseb, 35, Central District.
+July 22	15	Nader Abdul-Rahman Abu Mgheiseb	Nader	Mgheiseb	35	Palestinian	M	137	3	0	0	Nader Abdul-Rahman Abu Mgheiseb, 35, Central District.
+July 22	15	Ahmad Mohammad Ramadan	Ahmad	Ramadan	30	Palestinian	M	181	3	0	0	Ahmad Mohammad Ramadan, 30, Central District
+July 22	15	Khalaf Atiyya Abu Sneima	Khalaf	Sneima	18	Palestinian	M	204	2	0	0	Khalaf Atiyya Abu Sneima, 18, Rafah.
+July 22	15	Khalil Atiyya Abu Sneima	Khalil	Sneima	20	Palestinian	M	204	2	0	0	Khalil Atiyya Abu Sneima, 20, Rafah.
+July 22	15	Samih Abu Jalala	Samih	Jalala	64	Palestinian	M	101	4	0	0	Samih Abu Jalala, 64. Rafah.
+July 22	15	Hakima Nafe' Abu 'Adwan	Hakima	'Adwan	75	Palestinian	F	14	4	0	0	Hakima Nafe' Abu 'Adwan, 75, Rafah.
+July 22	15	Najah Nafe' Abu 'Adwan	Najah	'Adwan	85	Palestinian	F	14	4	0	0	Najah Nafe' Abu 'Adwan, 85 Rafah.
+July 22	15	Mohammad Shehada Hajjaj	Mohammad	Hajjaj	31	Palestinian	M	81	3	0	0	Mohammad Shehada Hajjaj, 31, Rafah.
+July 22	15	Fawza Saleh Abdul-Rahman Hajjaj	Fawza	Hajjaj	66	Palestinian	M	81	4	0	0	Fawza Saleh Abdul-Rahman Hajjaj, 66, Rafah.
+July 22	15	Rawan Ziad Jom'a Hajjaj	Rawan	Hajjaj	28	Palestinian	F	81	3	0	0	Rawan Ziad Jom'a Hajjaj, 28. Gaza City.
+July 22	15	Mos'ab Nafeth al-Ejla	Mos'ab	al-Ejla	30	Palestinian	M	60	3	0	0	Mos'ab Nafeth al-Ejla, 30. Sheja'eyya Gaza.
+July 22	15	Tareq Fayeq Hajjaj	Tareq	Hajjaj	22	Palestinian	M	81	2	0	0	Tareq Fayeq Hajjaj, 22, Gaza.
+July 22	15	Ahmad Ziad Hajjaj	Ahmad	Hajjaj	21	Palestinian	M	81	2	0	0	Ahmad Ziad Hajjaj, 21 Gaza.
+July 22	15	Hasan Sha'ban Khamisy	Hasan	Khamisy	28	Palestinian	M	118	3	0	0	Hasan Sha'ban Khamisy, 28 al-Maghazi, Gaza.
+July 22	15	Ahmad As'ad al-Boudi	Ahmad	al-Boudi	24	Palestinian	M	35	2	0	0	Ahmad As'ad al-Boudi, 24, Beit Lahia.
+July 22	15	Ahmad Salah Abu Seedo	Ahmad	Seedo	17	Palestinian	M	195	2	0	0	Ahmad Salah Abu Seedo, 17, Gaza.
+July 22	15	Salem Khalil Salem Shemaly	Salem	Shemaly	22	Palestinian	M	198	2	0	0	Salem Khalil Salem Shemaly, 22, Sheja'eyya - Gaza, Killed Sunday, Body Located Tuesday
+July 22	15	Ibrahim Sammour	Ibrahim	Sammour	38	Palestinian	M	191	3	0	0	Ibrahim Sammour, 38, Khan Younis.
+July 22	15	Atiyya Mohammad Hasan ad-Da'alsa	Atiyya	ad-Da'alsa	34	Palestinian	F	41	3	0	0	Atiyya Mohammad Hasan ad-Da'alsa, 34, Nusseirat.
+July 22	15	Atiyya Mohammad Abdul-Raziq	Atiyya	Abdul-Raziq	34	Palestinian	F	181	3	0	0	Atiyya Mohammad Abdul-Raziq, 34, central Gaza.
+July 22	15	Abdullah Awni al-Farra	Abdullah	al-Farra	25	Palestinian	M	61	3	0	0	Abdullah Awni al-Farra, 25, Khan Younis.
+July 22	15	Hamada 'Olewa	Hamada	'Olewa	NA	Palestinian	M	162	0	0	1	Hamada 'Olewa, Zaitoun., found under the rubble of his home
+July 22	15	Ibrahim Sobhi al-Fayre	Ibrahim	al-Fayre	NA	Palestinian	M	61	0	0	1	Ibrahim Sobhi al-Fayre, Jabalia
+July 22	15	Rafiq Mohammad Qlub	Rafiq	Qlub	NA	Palestinian	M	182	0	0	1	Rafiq Mohammad Qlub, Jabalia
+July 22	15	Ahmad Abu Salah	Ahmad	Salah	NA	Palestinian	M	191	0	0	1	Ahmad Abu Salah, Khan Younis.
+July 22	15	Mohammad Abdul-Karim Abu Jame'	Mohammad	Jame'	NA	Palestinian	M	101	0	0	1	Mohammad Abdul-Karim Abu Jame', Khan Younis.
+July 22	15	Amjad al-Hindi	Amjad	al-Hindi	NA	Palestinian	M	89	0	0	1	Amjad al-Hindi, Gaza City.
+July 21	14	Shahinaz Walid Mohammad Abu Hamad	Shahinaz	Hamad	1	Palestinian	M	81	1	0	0	Shahinaz Walid Mohammad Abu Hamad, 1, Khan Younis
+July 21	14	Husam Abu Qeinas	Husam	Qeinas	5	Palestinian	M	175	1	0	0	Husam Abu Qeinas, 5, Khan Younis
+July 21	14	Somoud Nassr Siyam	Somoud	Siyam	26	Palestinian	NA	199	3	0	0	Somoud Nassr Siyam, 26, Gaza City
+July 21	14	Bader Nabil Siyam	Bader	Siyam	25	Palestinian	M	199	3	0	0	Bader Nabil Siyam, 25, Gaza City
+July 21	14	Ahmad Ayman Mahrous Siyam	Ahmad	Siyam	17	Palestinian	M	199	2	0	0	Ahmad Ayman Mahrous Siyam, 17, Gaza City
+July 21	14	Mustafa Nabil Mahrous Siyam	Mustafa	Siyam	12	Palestinian	M	199	1	0	0	Mustafa Nabil Mahrous Siyam, 12, Gaza City
+July 21	14	Ghaida Nabil Mahrous Siyam	Ghaida	Siyam	8	Palestinian	F	199	1	0	0	Ghaida Nabil Mahrous Siyam, 8, Gaza City
+July 21	14	Dalal Nabil Mahrous Siyam	Dalal	Siyam	0.666666666667	Palestinian	F	199	1	0	0	Dalal Nabil Mahrous Siyam, 8 months, Gaza City
+July 21	14	Kamal Mahrous Salama Siyam	Kamal	Siyam	27	Palestinian	M	199	3	0	0	Kamal Mahrous Salama Siyam, 27, Gaza City
+July 21	14	Mohammad Mahrous Salaam Siyam	Mohammad	Siyam	25	Palestinian	M	199	3	0	0	Mohammad Mahrous Salaam Siyam, 25, Gaza City
+July 21	14	Shireen Mahmoud Salaam Siyam	Shireen	Siyam	32	Palestinian	F	199	3	0	0	Shireen Mahmoud Salaam Siyam, 32, Gaza City
+July 21	14	Ahmad Suleiman Abu Saoud	Ahmad	Saoud	34	Palestinian	M	191	3	0	0	Ahmad Suleiman Abu Saoud, 34, Khan Younis
+July 21	14	Manwa Abdul-Baset as-Sabe	Manwa	as-Sabe	37	Palestinian	M	191	3	0	0	Manwa Abdul-Baset as-Sabe, 37, Beit Hanoun
+July 21	14	Kamal Balal al-Masri	Kamal	al-Masri	22	Palestinian	M	131	2	0	0	Kamal Balal al-Masri, 22, Beit Hanoun
+July 21	14	Bilal Jabr Mohammad al-Ashab	Bilal	al-Ashab	22	Palestinian	M	29	2	0	0	Bilal Jabr Mohammad al-Ashab, 22, Gaza City
+July 21	14	Raed Ismail al-Bardawil	Raed	al-Bardawil	26	Palestinian	M	21	3	0	0	Raed Ismail al-Bardawil, 26, Rafah
+July 21	14	Zakariya Masoud al-Ashqar	Zakariya	al-Ashqar	24	Palestinian	M	29	2	0	0	Zakariya Masoud al-Ashqar, 24, central Gaza
+July 21	14	Abdullah Matroud Abu Hjeir	Abdullah	Hjeir	16	Palestinian	M	90	2	0	0	Abdullah Matroud Abu Hjeir, 16, central Gaza
+July 21	14	Ahmad Sofyan Abu Hjeir	Ahmad	Hjeir	23	Palestinian	M	90	2	0	0	Ahmad Sofyan Abu Hjeir, 23, central Gaza.
+July 21	14	Abdul-Karim Hamad Abdul-Karim Hjeir	Abdul-Karim	Hjeir	33	Palestinian	M	90	3	0	0	Abdul-Karim Hamad Abdul-Karim Hjeir, 33, central Gaza.
+July 21	14	Ahmad Salhoub	Ahmad	Salhoub	34	Palestinian	M	191	3	0	0	Ahmad Salhoub, 34, central Gaza
+July 21	14	Raed Issam Daoud	Raed	Daoud	30	Palestinian	M	41	3	0	0	Raed Issam Daoud, 30, Gaza City
+July 21	14	Younis Ahmad Younis Sheikh al-Eid	Younis	al-Eid	23	Palestinian	M	59	2	0	0	Younis Ahmad Younis Sheikh al-Eid, 23, Rafah
+July 21	14	Rajae Hammad Mohammad	Rajae	Mohammad	38	Palestinian	F	145	3	0	0	Rajae Hammad Mohammad, 38, Gaza
+July 21	14	Ahmad Khale Daghmash	Ahmad	Daghmash	21	Palestinian	M	41	2	0	0	Ahmad Khale Daghmash, 21, Gaza
+July 21	14	Mahmoud Hasan an-Nakhala	Mahmoud	an-Nakhala	NA	Palestinian	M	141	0	0	1	Mahmoud Hasan an-Nakhala, Gaza
+July 21	14	Saleh Badawi	Saleh	Badawi	31	Palestinian	M	21	3	0	0	Saleh Badawi, 31, Gaza
+July 21	14	Kamal Mas'oud	Kamal	Mas'oud	21	Palestinian	M	131	2	0	0	Kamal Mas'oud, 21, Gaza
+July 21	14	Mohammad Samih al-Ghalban	Mohammad	al-Ghalban	NA	Palestinian	M	78	0	0	1	Mohammad Samih al-Ghalban, Gaza
+July 21	14	Majdi Mahmoud al-Yazeji	Majdi	al-Yazeji	56	Palestinian	M	251	4	0	0	Majdi Mahmoud al-Yazeji, 56, al-Karama, Gaza
+July 21	14	Mayar al- Yazeji	Mayar	Yazeji	2	Palestinian	M	251	1	0	0	Mayar al- Yazeji, 2, al-Karama, Gaza
+July 21	14	Anas al- Yazeji	Anas	Yazeji	5	Palestinian	M	251	1	0	0	Anas al- Yazeji, 5, al-Karama, Gaza
+July 21	14	Yasmin Naif al-Yazeji	Yasmin	al-Yazeji	NA	Palestinian	F	251	0	0	1	Yasmin Naif al-Yazeji, al-Karama, Gaza
+July 21	14	Safinaz al-Yazeji	Safinaz	al-Yazeji	NA	Palestinian	F	251	0	0	1	Safinaz al-Yazeji, al-Karama, Gaza
+July 21	14	Tamer Nayef Jundiyya	Tamer	Jundiyya	30	Palestinian	M	121	3	0	0	Tamer Nayef Jundiyya, 30, Gaza
+July 21	14	Kamel Jundiyya	Kamel	Jundiyya	32	Palestinian	M	121	3	0	0	Kamel Jundiyya, 32, Gaza
+July 21	14	Rahma Ahmad Jundiyya	Rahma	Jundiyya	50	Palestinian	F	121	3	0	0	Rahma Ahmad Jundiyya, 50
+July 21	14	Ahed Kamal Mohammad Jundiyya	Ahed	Jundiyya	31	Palestinian	M	121	3	0	0	Ahed Kamal Mohammad Jundiyya, 31.
+July 21	14	Mohammad Mahmoud al-Maghrebi	Mohammad	al-Maghrebi	24	Palestinian	M	131	2	0	0	Mohammad Mahmoud al-Maghrebi, 24
+July 21	14	Ibrahim Shaban Bakron	Ibrahim	Bakron	37	Palestinian	M	21	3	0	0	Ibrahim Shaban Bakron, 37
+July 21	14	Yousef Ghazi Hamdiyya	Yousef	Hamdiyya	25	Palestinian	M	81	3	0	0	Yousef Ghazi Hamdiyya, 25, Gaza
+July 21	14	Motaz Jamal Hamdiyya	Motaz	Hamdiyya	18	Palestinian	M	81	2	0	0	Motaz Jamal Hamdiyya, 18, Gaza
+July 21	14	Aaed Jamal Hamdiyya	Aaed	Hamdiyya	21	Palestinian	M	81	2	0	0	Aaed Jamal Hamdiyya, 21. Gaza
+July 21	14	Yasmin al-Qisas	Yasmin	al-Qisas	NA	Palestinian	F	179	0	0	1	Yasmin al-Qisas, Gaza City
+July 21	14	Lamia Eyad al-Qisas	Lamia	al-Qisas	NA	Palestinian	F	179	0	0	1	Lamia Eyad al-Qisas, Gaza City
+July 21	14	Nismaa Eyad al-Qisas	Nismaa	al-Qisas	NA	Palestinian	M	179	0	0	1	Nismaa Eyad al-Qisas, Gaza City
+July 21	14	Arwa al-Qisas	Arwa	al-Qisas	NA	Palestinian	F	179	0	0	1	Arwa al-Qisas, Gaza City
+July 21	14	Aya Yassr al-Qisas	Aya	al-Qisas	NA	Palestinian	F	179	0	0	1	Aya Yassr al-Qisas, Gaza City
+July 21	14	Aisha Yassr al-Qisas	Aisha	al-Qisas	NA	Palestinian	F	179	0	0	1	Aisha Yassr al-Qisas, Gaza City
+July 21	14	Aliya Siyam	Aliya	Siyam	NA	Palestinian	F	199	0	0	1	Aliya Siyam, Gaza City
+July 21	14	Fayza Sabr Siyam	Fayza	Siyam	NA	Palestinian	F	199	0	0	1	Fayza Sabr Siyam, Gaza City
+July 21	14	Samia Siyam	Samia	Siyam	NA	Palestinian	F	199	0	0	1	Samia Siyam, Gaza City
+July 21	14	Fadi Azmi Buryam	Fadi	Buryam	NA	Palestinian	M	41	0	0	1	Fadi Azmi Buryam, Deir al-Balah
+July 21	14	Ayman Salaam Buryam	Ayman	Buryam	NA	Palestinian	M	41	0	0	1	Ayman Salaam Buryam, Deir al-Balah
+July 21	14	Salaam Abdul-Majeed Buryam	Salaam	Buryam	NA	Palestinian	M	41	0	0	1	Salaam Abdul-Majeed Buryam, Deir al-Balah
+July 21	14	Karim Ibrahim Atiya Barham	Karim	Barham	25	Palestinian	M	21	3	0	0	Karim Ibrahim Atiya Barham, 25, Khan Younis
+July 21	14	Nidal Ali Daka	Nidal	Daka	26	Palestinian	M	41	3	0	0	Nidal Ali Daka, 26, Khan Younis
+July 21	14	Nidal Jamaa Abu Asy	Nidal	Asy	43	Palestinian	M	29	3	0	0	Nidal Jamaa Abu Asy, 43, Khan Younis
+July 21	14	Fatima Ahmad al-Arja	Fatima	al-Arja	NA	Palestinian	F	28	0	0	1	Fatima Ahmad al-Arja, Rafah
+July 21	14	Atiya Yusef Dardouna	Atiya	Dardouna	26	Palestinian	F	41	3	0	0	Atiya Yusef Dardouna, 26, Jabalia
+July 21	14	Ibrahim Deib Ahmad al-Kilani	Ibrahim	al-Kilani	53	Palestinian	M	119	3	0	0	Ibrahim Deib Ahmad al-Kilani, 53, father of Yassr, Elias, Susan, Reem & Yasmeen , Gaza City
+July 21	14	Yassr Ibrahim Deib al-Kilani	Yassr	al-Kilani	8	Palestinian	M	119	1	0	0	Yassr Ibrahim Deib al-Kilani, 8, Gaza City
+July 21	14	Elias Ibrahim Deib al-Kilani	Elias	al-Kilani	4	Palestinian	M	119	1	0	0	Elias Ibrahim Deib al-Kilani, 4, Gaza City
+July 21	14	Susan Ibrahim Deib al-Kilani	Susan	al-Kilani	11	Palestinian	F	119	1	0	0	Susan Ibrahim Deib al-Kilani, 11, Gaza City
+July 21	14	Reem Ibrahim Deib al-Kilani	Reem	al-Kilani	12	Palestinian	F	119	1	0	0	Reem Ibrahim Deib al-Kilani, 12, Gaza City
+July 21	14	Yasmeen Ibrahim Deeb al-Kilani	Yasmeen	al-Kilani	9	Palestinian	F	119	1	0	0	Yasmeen Ibrahim Deeb al-Kilani, 9, Gaza City
+July 21	14	Taghrid Shoeban Mohammad al-Kilani	Taghrid	al-Kilani	45	Palestinian	F	119	3	0	0	Taghrid Shoeban Mohammad al-Kilani, 45, Gaza City
+July 21	14	Aida Shoeban Mohammad Derbas	Aida	Derbas	47	Palestinian	F	45	3	0	0	Aida Shoeban Mohammad Derbas, 47, Gaza City
+July 21	14	Mahmoud Shoeban Mohammad Derbas	Mahmoud	Derbas	37	Palestinian	M	45	3	0	0	Mahmoud Shoeban Mohammad Derbas, 37, Gaza City
+July 21	14	Sura Shoeban Mohammad Derbas	Sura	Derbas	41	Palestinian	M	45	3	0	0	Sura Shoeban Mohammad Derbas, 41, Gaza City
+July 21	14	Aynas Shoeban Mohammad Derbas	Aynas	Derbas	30	Palestinian	M	45	3	0	0	Aynas Shoeban Mohammad Derbas, 30, Gaza City
+July 21	14	Fadi Bashir al-Ablala	Fadi	al-Ablala	22	Palestinian	M	12	2	0	0	Fadi Bashir al-Ablala, 22, Khan Younis
+July 20	13	Salem Ali Abu Saada	Salem	Saada	NA	Palestinian	M	191	0	0	1	Salem Ali Abu Saada, Khan Younis
+July 20	13	Mohammad Yusef Moammer	Mohammad	Moammer	30	Palestinian	M	145	3	0	0	Mohammad Yusef Moammer, 30, Rafah.
+July 20	13	Hamza Yousef Moammer	Hamza	Moammer	26	Palestinian	M	145	3	0	0	Hamza Yousef Moammer, 26, Rafah.
+July 20	13	Anas Yousef Moammar	Anas	Moammar	16	Palestinian	M	145	2	0	0	Anas Yousef Moammar, 16, Rafah.
+July 20	13	Fathiyeh Nadi Marzouq Abu Moammer	Fathiyeh	Moammer	72	Palestinian	M	145	4	0	0	Fathiyeh Nadi Marzouq Abu Moammer, 72, Rafah.
+July 20	13	Hosni Mahmoud al-Absi	Hosni	al-Absi	56	Palestinian	M	12	4	0	0	Hosni Mahmoud al-Absi, 56, Rafah
+July 20	13	Suheib Ali Joma Abu Qoura	Suheib	Qoura	21	Palestinian	M	185	2	0	0	Suheib Ali Joma Abu Qoura, 21, Rafah
+July 20	13	Ahmad Tawfiq Mohammad Zanoun	Ahmad	Zanoun	26	Palestinian	M	261	3	0	0	Ahmad Tawfiq Mohammad Zanoun, 26, Rafah
+July 20	13	Hamid Soboh Mohammad Fojo	Hamid	Fojo	22	Palestinian	M	75	2	0	0	Hamid Soboh Mohammad Fojo, 22, Rafah
+July 20	13	Najah Saad al-Deen Daraji	Najah	Daraji	65	Palestinian	F	41	4	0	0	Najah Saad al-Deen Daraji, 65, Rafah
+July 20	13	Abdullah Yusef Daraji	Abdullah	Daraji	3	Palestinian	M	41	1	0	0	Abdullah Yusef Daraji, 3, Rafah
+July 20	13	Mohammed Rajaa Handam 15	Mohammed	Rajaa	15	Palestinian	M	181	2	0	0	Mohammed Rajaa Handam 15, Rafah
+July 20	13	Yusef Shaaban Ziada	Yusef	Ziada	44	Palestinian	M	269	3	0	0	Yusef Shaaban Ziada, 44, Al Bureij
+July 20	13	Jamil Shaaban Ziada	Jamil	Ziada	53	Palestinian	M	269	3	0	0	Jamil Shaaban Ziada, 53, Al Bureij
+July 20	13	Shoeban Jamil Ziada	Shoeban	Ziada	12	Palestinian	M	269	1	0	0	Shoeban Jamil Ziada, 12, Al Bureij, son of Jamil
+July 20	13	Soheiib Abu Ziada	Soheiib	Ziada	NA	Palestinian	M	269	0	0	1	Soheiib Abu Ziada, Al Bureij
+July 20	13	Mohammad Mahmoud al-Moqaddma	Mohammad	al-Moqaddma	30	Palestinian	M	145	3	0	0	Mohammad Mahmoud al-Moqaddma, 30, Al Bureij
+July 20	13	Raed Mansour Nayfa	Raed	Nayfa	NA	Palestinian	M	141	0	0	1	Raed Mansour Nayfa, Shujaeyya, Gaza City
+July 20	13	Fuad Jaber	Fuad	Jaber	NA	Palestinian	M	101	0	0	1	Fuad Jaber, Medic, Shujaeyya, Gaza City
+July 20	13	Mohammad Hani Mohammad al-Hallaq	Mohammad	al-Hallaq	2	Palestinian	M	81	1	0	0	Mohammad Hani Mohammad al-Hallaq, 2, al-Rimal, Gaza City
+July 20	13	Kenan Hasan Akram al-Hallaq	Kenan	al-Hallaq	6	Palestinian	M	81	1	0	0	Kenan Hasan Akram al-Hallaq, 6, al-Rimal - Gaza
+July 20	13	Hani Mohammad al-Hallaq	Hani	al-Hallaq	29	Palestinian	M	81	3	0	0	Hani Mohammad al-Hallaq, 29, al-Rimal, Gaza City
+July 20	13	Suad Mohammad al-Hallaq	Suad	al-Hallaq	62	Palestinian	M	81	4	0	0	Suad Mohammad al-Hallaq, 62, al-Rimal, Gaza City
+July 20	13	Saje Hasan Akram al-Hallaq	Saje	al-Hallaq	4	Palestinian	F	81	1	0	0	Saje Hasan Akram al-Hallaq, 4, al-Rimal, Gaza City
+July 20	13	Hala Akram Hasan al-Hallaq	Hala	al-Hallaq	27	Palestinian	F	81	3	0	0	Hala Akram Hasan al-Hallaq, 27, al-Rimal, Gaza City
+July 20	13	Samar Osama al-Hallaq	Samar	al-Hallaq	29	Palestinian	F	81	3	0	0	Samar Osama al-Hallaq, 29, al-Rimal, Gaza City
+July 20	13	Ahmad Yassin	Ahmad	Yassin	NA	Palestinian	M	251	0	0	1	Ahmad Yassin, al-Rimal, Gaza City
+July 20	13	Ismael Yassin	Ismael	Yassin	NA	Palestinian	M	251	0	0	1	Ismael Yassin, al-Rimal, Gaza City
+July 20	13	Aya Bahjat Abu Sultan	Aya	Sultan	15	Palestinian	F	211	2	0	0	Aya Bahjat Abu Sultan, 15, Beit Lahia
+July 20	13	Ibrahim Salem Joma as-Sahbani	Ibrahim	as-Sahbani	20	Palestinian	M	191	2	0	0	Ibrahim Salem Joma as-Sahbani, 20, Shujaeyya - Gaza
+July 20	13	Aref Ibrahim al-Ghalyeeni	Aref	al-Ghalyeeni	26	Palestinian	M	78	3	0	0	Aref Ibrahim al-Ghalyeeni, 26, Shujaeyya - Gaza
+July 20	13	Osama Khalil Ismael al-Hayya	Osama	al-Hayya	30	Palestinian	M	81	3	0	0	Osama Khalil Ismael al-Hayya, 30, Shujaeyya - Gaza, father of Umama and Khalil
+July 20	13	Hallah Saqer Hasan al-Hayya	Hallah	al-Hayya	29	Palestinian	F	81	3	0	0	Hallah Saqer Hasan al-Hayya, 29, Shujaeyya - Gaza, mother of Umama and Khalil
+July 20	13	Umama Osama Khalil al-Hayya	Umama	al-Hayya	9	Palestinian	F	81	1	0	0	Umama Osama Khalil al-Hayya, 9, Shujaeyya - Gaza
+July 20	13	Khalil Osama Khalil al-Hayya	Khalil	al-Hayya	7	Palestinian	M	81	1	0	0	Khalil Osama Khalil al-Hayya, 7, Shujaeyya - Gaza
+July 20	13	Rebhi Shehta Ayyad	Rebhi	Ayyad	31	Palestinian	M	35	3	0	0	Rebhi Shehta Ayyad, 31, Shujaeyya - Gaza
+July 20	13	Yasser Ateyya Hamdiyya	Yasser	Hamdiyya	28	Palestinian	M	81	3	0	0	Yasser Ateyya Hamdiyya, 28, Shujaeyya - Gaza
+July 20	13	Esra Ateyya Hamdiyya	Esra	Hamdiyya	28	Palestinian	M	81	3	0	0	Esra Ateyya Hamdiyya, 28, Shujaeyya - Gaza
+July 20	13	Akram Mohammad Shkafy	Akram	Shkafy	63	Palestinian	M	198	4	0	0	Akram Mohammad Shkafy, 63, Shujaeyya - Gaza
+July 20	13	Eman Khalil Abed Ammar	Eman	Ammar	9	Palestinian	M	23	1	0	0	Eman Khalil Abed Ammar, 9, Shujaeyya - Gaza
+July 20	13	Ibrahim Khalil Abed Ammar	Ibrahim	Ammar	13	Palestinian	M	23	1	0	0	Ibrahim Khalil Abed Ammar, 13, Shujaeyya - Gaza*
+July 20	13	Asem Khalil Abed Ammar	Asem	Ammar	4	Palestinian	F	23	1	0	0	Asem Khalil Abed Ammar, 4, Shujaeyya - Gaza
+July 20	13	Eman Mohammad Ibrahim Hamada	Eman	Hamada	40	Palestinian	M	81	3	0	0	Eman Mohammad Ibrahim Hamada, 40, Shujaeyya - Gaza
+July 20	13	Ahmad Ishaq Yousef Ramlawy	Ahmad	Ramlawy	33	Palestinian	M	181	3	0	0	Ahmad Ishaq Yousef Ramlawy, 33, Shujaeyya - Gaza
+July 20	13	Ahmad Sami Diab Ayyad	Ahmad	Ayyad	27	Palestinian	M	35	3	0	0	Ahmad Sami Diab Ayyad, 27, Shujaeyya - Gaza
+July 20	13	Fida Rafiq Diab Ayyad	Fida	Ayyad	24	Palestinian	M	35	2	0	0	Fida Rafiq Diab Ayyad, 24, Shujaeyya - Gaza
+July 20	13	Narmin Rafiw Diab Ayyad	Narmin	Ayyad	20	Palestinian	NA	35	2	0	0	Narmin Rafiw Diab Ayyad, 20, Shujaeyya - Gaza
+July 20	13	Husam Ayman Mohareb Ayyad	Husam	Ayyad	23	Palestinian	M	35	2	0	0	Husam Ayman Mohareb Ayyad, 23, Sheja'eyya, Gaza.
+July 20	13	Ahmad Mohammad Ahmad Abu Zanouna	Ahmad	Zanouna	28	Palestinian	M	261	3	0	0	Ahmad Mohammad Ahmad Abu Zanouna, 28
+July 20	13	Tala Akram Ahmad al-Atawy	Tala	al-Atawy	7	Palestinian	F	30	1	0	0	Tala Akram Ahmad al-Atawy, 7, Shujaeyya - Gaza
+July 20	13	Tawfiq Barawi Salem Marshoud	Tawfiq	Marshoud	52	Palestinian	M	131	3	0	0	Tawfiq Barawi Salem Marshoud, 52, Shujaeyya - Gaza
+July 20	13	Hatem Ziad Ali Zabout	Hatem	Zabout	24	Palestinian	M	261	2	0	0	Hatem Ziad Ali Zabout, 24, Shujaeyya - Gaza
+July 20	13	Khaled Riyadh Mohammad Hamad	Khaled	Hamad	25	Palestinian	M	81	3	0	0	Khaled Riyadh Mohammad Hamad, 25, Shujaeyya - Gaza, Journalist
+July 20	13	Khadija Ali Mousa Shihada	Khadija	Shihada	62	Palestinian	F	198	4	0	0	Khadija Ali Mousa Shihada, 62, Shujaeyya - Gaza
+July 20	13	Khalil Salem Ibrahim Mosbeh	Khalil	Mosbeh	53	Palestinian	M	145	3	0	0	Khalil Salem Ibrahim Mosbeh, 53, Shujaeyya - Gaza
+July 20	13	Adel Abdullah Eslayyem	Adel	Eslayyem	2	Palestinian	M	69	1	0	0	Adel Abdullah Eslayyem, 2, Shujaeyya - Gaza
+July 20	13	Dina Roshdi Abdullah Eslayyem	Dina	Eslayyem	2	Palestinian	F	69	1	0	0	Dina Roshdi Abdullah Eslayyem, 2, Shujaeyya - Gaza
+July 20	13	Rahaf Akram Ismael Abu Joma	Rahaf	Joma	4	Palestinian	F	115	1	0	0	Rahaf Akram Ismael Abu Joma, 4, Shujaeyya - Gaza
+July 20	13	Shadi Ziad Hasan Eslayyem	Shadi	Eslayyem	15	Palestinian	M	69	2	0	0	Shadi Ziad Hasan Eslayyem, 15, Shujaeyya - Gaza
+July 20	13	Ala Ziad Hasan Eslayyem	Ala	Eslayyem	11	Palestinian	F	69	1	0	0	Ala Ziad Hasan Eslayyem, 11, Shujaeyya - Gaza
+July 20	13	Sherin Fathi Othman Ayyad	Sherin	Ayyad	18	Palestinian	M	35	2	0	0	Sherin Fathi Othman Ayyad, 18, Shujaeyya - Gaza
+July 20	13	Adel Abdullah Salem Eslayyem	Adel	Eslayyem	29	Palestinian	M	69	3	0	0	Adel Abdullah Salem Eslayyem, 29, Shujaeyya - Gaza
+July 20	13	Fadi Ziad Hasan Eslayyem	Fadi	Eslayyem	10	Palestinian	M	69	1	0	0	Fadi Ziad Hasan Eslayyem, 10, Shujaeyya - Gaza
+July 20	13	Ahed Saad Mousa Sarsak	Ahed	Sarsak	30	Palestinian	M	191	3	0	0	Ahed Saad Mousa Sarsak, 30, Shujaeyya - Gaza
+July 20	13	Aisha Ali Mahmoud Zayed	Aisha	Zayed	54	Palestinian	F	261	3	0	0	Aisha Ali Mahmoud Zayed, 54, Shujaeyya - Gaza
+July 20	13	Abed-Rabbo Ahmad Zayed	Abed-Rabbo	Zayed	58	Palestinian	M	261	4	0	0	Abed-Rabbo Ahmad Zayed, 58, Shujaeyya - Gaza
+July 20	13	Abdul-Rahman Akram Sheikh Khalil	Abdul-Rahman	Khalil	24	Palestinian	M	118	2	0	0	Abdul-Rahman Akram Sheikh Khalil, 24, Shujaeyya - Gaza
+July 20	13	Mona Suleiman Ahmad Sheikh Khalil	Mona	Khalil	49	Palestinian	F	118	3	0	0	Mona Suleiman Ahmad Sheikh Khalil, 49
+July 20	13	Heba Hamed Mohammad Sheikh Khalil	Heba	Khalil	13	Palestinian	F	118	1	0	0	Heba Hamed Mohammad Sheikh Khalil, 13, Shujaeyya - Gaza
+July 20	13	Abdullah Mansour Radwan Amara	Abdullah	Amara	23	Palestinian	M	23	2	0	0	Abdullah Mansour Radwan Amara, 23, Shujaeyya - Gaza
+July 20	13	Issam Atiyya Said Skafy	Issam	Skafy	26	Palestinian	M	201	3	0	0	Issam Atiyya Said Skafy, 26, Shujaeyya - Gaza
+July 20	13	Ali Mohammad Hasan Skafy	Ali	Skafy	27	Palestinian	M	201	3	0	0	Ali Mohammad Hasan Skafy, 27, Shujaeyya - Gaza
+July 20	13	Mohammad Hasan Skafy	Mohammad	Skafy	53	Palestinian	M	201	3	0	0	Mohammad Hasan Skafy, 53, Shujaeyya - Gaza
+July 20	13	Ala Jamal ed-Deen Barda	Ala	Barda	35	Palestinian	F	21	3	0	0	Ala Jamal ed-Deen Barda, 35, Shujaeyya - Gaza
+July 20	13	Omar Jamil Sobhi Hammouda	Omar	Hammouda	10	Palestinian	M	81	1	0	0	Omar Jamil Sobhi Hammouda, 10, Shujaeyya - Gaza
+July 20	13	Ghada Jamil Sobhi Hammouda	Ghada	Hammouda	10	Palestinian	F	81	1	0	0	Ghada Jamil Sobhi Hammouda, 10, Shujaeyya - Gaza
+July 20	13	Ghada Ibrahim Suleiman Adwan	Ghada	Adwan	39	Palestinian	F	14	3	0	0	Ghada Ibrahim Suleiman Adwan, 39, Shujaeyya - Gaza
+July 20	13	Fatima Abdul-Rahim Abu Ammouna	Fatima	Ammouna	55	Palestinian	F	23	4	0	0	Fatima Abdul-Rahim Abu Ammouna, 55, Shujaeyya - Gaza
+July 20	13	Fahmi Abdul-Aziz Abu Said	Fahmi	Said	29	Palestinian	M	191	3	0	0	Fahmi Abdul-Aziz Abu Said, 29, Shujaeyya - Gaza
+July 20	13	Ghada Sobhi Saadi Ayyad	Ghada	Ayyad	9	Palestinian	F	35	1	0	0	Ghada Sobhi Saadi Ayyad, 9, Shujaeyya - Gaza
+July 20	13	Mohammad Ashraf Rafiq Ayyad	Mohammad	Ayyad	6	Palestinian	M	35	1	0	0	Mohammad Ashraf Rafiq Ayyad, 6, Shujaeyya - Gaza
+July 20	13	Mohammad Raed Ehsan Ayyad	Mohammad	Ayyad	6	Palestinian	M	35	1	0	0	Mohammad Raed Ehsan Ayyad, 6, Shujaeyya - Gaza
+July 20	13	Mohammad Rami Fathi Ayyad	Mohammad	Ayyad	2	Palestinian	M	35	1	0	0	Mohammad Rami Fathi Ayyad, 2, Shujaeyya - Gaza
+July 20	13	Mohammad Raed Ehsan Akeela	Mohammad	Akeela	19	Palestinian	M	21	2	0	0	Mohammad Raed Ehsan Akeela, 19, Shujaeyya - Gaza
+July 20	13	Mohammad Ziad Ali Zabout	Mohammad	Zabout	23	Palestinian	M	261	2	0	0	Mohammad Ziad Ali Zabout, 23, Shujaeyya - Gaza
+July 20	13	Mohammad Ali Mohared Jundiyya	Mohammad	Jundiyya	38	Palestinian	M	121	3	0	0	Mohammad Ali Mohared Jundiyya, 38, Shujaeyya - Gaza
+July 20	13	Marah Shaker Ahmad al-Jammal	Marah	al-Jammal	2	Palestinian	F	101	1	0	0	Marah Shaker Ahmad al-Jammal, 2, Shujaeyya - Gaza
+July 20	13	Marwan Monir Saleh Qonfid	Marwan	Qonfid	23	Palestinian	M	185	2	0	0	Marwan Monir Saleh Qonfid, 23, Shujaeyya - Gaza
+July 20	13	Maisa Abdul-Rahman Sarsawy	Maisa	Sarsawy	37	Palestinian	F	191	3	0	0	Maisa Abdul-Rahman Sarsawy, 37, Shujaeyya - Gaza
+July 20	13	Marwa Salman Ahmad Sarsawy	Marwa	Sarsawy	13	Palestinian	F	191	1	0	0	Marwa Salman Ahmad Sarsawy, 13, Shujaeyya - Gaza
+July 20	13	Mos'ab el-Kheir Salah ed-Din Skafi	Mos'ab	Skafi	27	Palestinian	M	201	3	0	0	Mos'ab el-Kheir Salah ed-Din Skafi, 27, Shujaeyya - Gaza
+July 20	13	Mona Abdul-Rahman Ayyad	Mona	Ayyad	42	Palestinian	F	35	3	0	0	Mona Abdul-Rahman Ayyad, 42, Shujaeyya - Gaza
+July 20	13	Halla Sobhi Sa'dy Ayyad	Halla	Ayyad	25	Palestinian	M	35	3	0	0	Halla Sobhi Sa'dy Ayyad, 25, Shujaeyya - Gaza
+July 20	13	Younis Ahmad Younis Mustafa	Younis	Mustafa	62	Palestinian	M	151	4	0	0	Younis Ahmad Younis Mustafa, 62, Shujaeyya - Gaza
+July 20	13	Yousef Salem Hatmo Habib	Yousef	Habib	62	Palestinian	M	81	4	0	0	Yousef Salem Hatmo Habib, 62, Shujaeyya - Gaza
+July 20	13	Fatima Abu Ammouna	Fatima	Ammouna	55	Palestinian	F	23	4	0	0	Fatima Abu Ammouna, 55, Shujaeyya - Gaza
+July 20	13	Ahmad Mohammad Azzam	Ahmad	Azzam	19	Palestinian	M	36	2	0	0	Ahmad Mohammad Azzam, 19, Shujaeyya - Gaza
+July 20	13	Ismael al-Kordi	Ismael	al-Kordi	NA	Palestinian	M	125	0	0	1	Ismael al-Kordi, Shujaeyya - Gaza
+July 20	13	Fatima Ahmad Abu Jame'	Fatima	Jame'	60	Palestinian	F	101	4	0	0	Fatima Ahmad Abu Jame', 60, the family matriarch, Khan Younis.
+July 20	13	Sabah Abu Jame'	Sabah	Jame'	35	Palestinian	F	101	3	0	0	Sabah Abu Jame', 35, Her daughter-in-law and her family:
+July 20	13	Razan Tawfiq Ahmad Abu Jame'	Razan	Jame'	14	Palestinian	F	101	1	0	0	Razan Tawfiq Ahmad Abu Jame', 14, Khan Younis.
+July 20	13	Jawdat Tawfiq Ahmad Abu Jame'	Jawdat	Jame'	13	Palestinian	M	101	1	0	0	Jawdat Tawfiq Ahmad Abu Jame', 13, Khan Younis.
+July 20	13	Aya Tawfiq Ahmad Abu Jame'	Aya	Jame'	12	Palestinian	F	101	1	0	0	Aya Tawfiq Ahmad Abu Jame', 12, Khan Younis.
+July 20	13	Haifaa Tawfiq Ahmad Abu Jame'	Haifaa	Jame'	9	Palestinian	F	101	1	0	0	Haifaa Tawfiq Ahmad Abu Jame', 9, Khan Younis.
+July 20	13	Ahmad Tawfiq Ahmad Abu Jame'	Ahmad	Jame'	8	Palestinian	M	101	1	0	0	Ahmad Tawfiq Ahmad Abu Jame', 8, Khan Younis.
+July 20	13	Maysaa Tawfiq Ahmad Abu Jame'	Maysaa	Jame'	7	Palestinian	F	101	1	0	0	Maysaa Tawfiq Ahmad Abu Jame', 7, Khan Younis.
+July 20	13	Tawfiq Tawfiq Ahmad Abu Jame'	Tawfiq	Jame'	4	Palestinian	M	101	1	0	0	Tawfiq Tawfiq Ahmad Abu Jame', 4, Khan Younis.
+July 20	13	Shahinaz Walid Muhammad Abu Jame'	Shahinaz	Jame'	29	Palestinian	M	101	3	0	0	Shahinaz Walid Muhammad Abu Jame', 29, pregnant., Fatima's daughter-in-law, and her family
+July 20	13	Fatmeh Taysir Ahmad Abu Jame'	Fatmeh	Jame'	12	Palestinian	F	101	1	0	0	Fatmeh Taysir Ahmad Abu Jame', 12, Khan Younis.
+July 20	13	Ayub Taysir Ahmad Abu Jame'	Ayub	Jame'	10	Palestinian	M	101	1	0	0	Ayub Taysir Ahmad Abu Jame', 10, Khan Younis.
+July 20	13	Rayan Taysir Ahmad Abu Jame'	Rayan	Jame'	5	Palestinian	M	101	1	0	0	Rayan Taysir Ahmad Abu Jame', 5, Khan Younis.
+July 20	13	Rinat Taysir Ahmad Abu Jame'	Rinat	Jame'	2	Palestinian	M	101	1	0	0	Rinat Taysir Ahmad Abu Jame', 2, Khan Younis.
+July 20	13	Nujud Taysir Ahmad Abu Jame'	Nujud	Jame'	0.333333333333	Palestinian	M	101	1	0	0	Nujud Taysir Ahmad Abu Jame', 4 months, Khan Younis.
+July 20	13	Yasmin Ahmad Salameh Abu Jame'	Yasmin	Jame'	25	Palestinian	F	101	3	0	0	Yasmin Ahmad Salameh Abu Jame', 25, pregnant, another of Fatima's daughter-in-laws, and her family:
+July 20	13	Batul Bassam Ahmad Abu Jame'	Batul	Jame'	4	Palestinian	F	101	1	0	0	Batul Bassam Ahmad Abu Jame', 4 , Khan Younis.
+July 20	13	Soheila Bassam Ahmad Abu Jame'	Soheila	Jame'	3	Palestinian	F	101	1	0	0	Soheila Bassam Ahmad Abu Jame', 3 , Khan Younis.
+July 20	13	Bisan Bassam Ahmad Abu Jame'	Bisan	Jame'	0.5	Palestinian	M	101	1	0	0	Bisan Bassam Ahmad Abu Jame', 6 months , Khan Younis.
+July 20	13	Yasser Ahmad Muhammad Abu Jame'	Yasser	Jame'	27	Palestinian	M	101	3	0	0	Yasser Ahmad Muhammad Abu Jame', 27 – Fatima's son
+July 20	13	Fatima Riad Abu Jame'	Fatima	Jame'	26	Palestinian	F	101	3	0	0	Fatima Riad Abu Jame', 26, pregnant, Yasser's wife and Fatima's daughter in law
+July 20	13	Sajedah Yasser Ahmad Abu Jame'	Sajedah	Jame'	7	Palestinian	M	101	1	0	0	Sajedah Yasser Ahmad Abu Jame', 7, Khan Younis.
+July 20	13	Siraj Yasser Ahmad Abu Jame'	Siraj	Jame'	4	Palestinian	M	101	1	0	0	Siraj Yasser Ahmad Abu Jame', 4, Khan Younis.
+July 20	13	Noor Yasser Ahmad Abu Jame'	Noor	Jame'	2	Palestinian	M	101	1	0	0	Noor Yasser Ahmad Abu Jame', 2, Khan Younis.
+July 20	13	Husam Husam Abu Qeinas	Husam	Qeinas	7	Palestinian	M	175	1	0	0	Husam Husam Abu Qeinas, 7, another of Fatima's grandsons
+July 20	13	Tariq Farouq Mahmoud Tafesh	Tariq	Tafesh	37	Palestinian	M	201	3	0	0	Tariq Farouq Mahmoud Tafesh, 37, Gaza.
+July 20	13	Hazem Naim Mohammad Aqel	Hazem	Aqel	14	Palestinian	M	27	1	0	0	Hazem Naim Mohammad Aqel, 14, Gaza.
+July 20	13	Mohammad Nassr Atiyya Ayyad	Mohammad	Ayyad	25	Palestinian	M	35	3	0	0	Mohammad Nassr Atiyya Ayyad, 25, Gaza.
+July 20	13	Omar Zaher Saleh Abu Hussein	Omar	Hussein	19	Palestinian	M	101	2	0	0	Omar Zaher Saleh Abu Hussein, 19, Gaza.
+July 20	13	Ziad Ghaleb Rajab ar-Redya	Ziad	ar-Redya	23	Palestinian	M	185	2	0	0	Ziad Ghaleb Rajab ar-Redya, 23, northern Gaza.
+July 20	13	Wael Bashir Yahia Assaf	Wael	Assaf	24	Palestinian	M	29	2	0	0	Wael Bashir Yahia Assaf, 24, northern Gaza.
+July 19	12	Yahia Bassam as-Serry	Yahia	as-Serry	20	Palestinian	M	195	2	0	0	Yahia Bassam as-Serry, 20, Khan Younis
+July 19	12	Mohammad Bassam as-Serry	Mohammad	as-Serry	17	Palestinian	M	195	2	0	0	Mohammad Bassam as-Serry, 17, Khan Younis
+July 19	12	Mahmoud Rida Salhiyya	Mahmoud	Salhiyya	56	Palestinian	M	191	4	0	0	Mahmoud Rida Salhiyya, 56, Khan Younis
+July 19	12	Mustafa Rida Salhiyya	Mustafa	Salhiyya	21	Palestinian	M	191	2	0	0	Mustafa Rida Salhiyya, 21, Khan Younis
+July 19	12	Mohammad Mustafa Salhiyya	Mohammad	Salhiyya	22	Palestinian	M	191	2	0	0	Mohammad Mustafa Salhiyya, 22, Khan Younis
+July 19	12	Waseem Rida Salhiyya	Waseem	Salhiyya	15	Palestinian	M	191	2	0	0	Waseem Rida Salhiyya, 15, Khan Younis
+July 19	12	Ibrahim Jamal Kamal Nassr	Ibrahim	Nassr	13	Palestinian	M	141	1	0	0	Ibrahim Jamal Kamal Nassr, 13, Khan Younis
+July 19	12	Rushdi Khaled Nassr	Rushdi	Nassr	24	Palestinian	M	141	2	0	0	Rushdi Khaled Nassr, 24, Khan Younis
+July 19	12	Mohammad Awad Faris Nassr	Mohammad	Nassr	25	Palestinian	M	141	3	0	0	Mohammad Awad Faris Nassr, 25, Khan Younis
+July 19	12	Ahmad Mahmoud Hasan Aziz	Ahmad	Aziz	34	Palestinian	M	36	3	0	0	Ahmad Mahmoud Hasan Aziz, 34, Beit Hanoun
+July 19	12	Said Ali Issa	Said	Issa	30	Palestinian	F	109	3	0	0	Said Ali Issa, 30, Juhr ed-Deek, Central Gaza
+July 19	12	Raed Walid Laqan	Raed	Laqan	27	Palestinian	M	121	3	0	0	Raed Walid Laqan, 27, Khan Younis
+July 19	12	Mohammad Jihad al-Qara	Mohammad	al-Qara	29	Palestinian	M	171	3	0	0	Mohammad Jihad al-Qara, 29, Khan Younis
+July 19	12	Rafat Ali Bahloul	Rafat	Bahloul	36	Palestinian	M	21	3	0	0	Rafat Ali Bahloul, 36, Khan Younis
+July 19	12	Bilal Ismail Abu Daqqa	Bilal	Daqqa	33	Palestinian	M	41	3	0	0	Bilal Ismail Abu Daqqa, 33, Khan Younis
+July 19	12	Mohammad Ismail Sammour	Mohammad	Sammour	21	Palestinian	M	191	2	0	0	Mohammad Ismail Sammour, 21, Khan Younis
+July 19	12	Eyad Ismael ar-Raqab	Eyad	ar-Raqab	26	Palestinian	M	181	3	0	0	Eyad Ismael ar-Raqab, 26, Khan Younis
+July 19	12	Mohammad Atallah Odah Saadat	Mohammad	Saadat	25	Palestinian	M	191	3	0	0	Mohammad Atallah Odah Saadat, 25, Beit Hanoun
+July 19	12	Mohammad Rafiq ar-Rohhal	Mohammad	ar-Rohhal	22	Palestinian	M	195	2	0	0	Mohammad Rafiq ar-Rohhal, 22, Beit Lahia
+July 19	12	Mohammad Ziad ar-Rohhal	Mohammad	ar-Rohhal	6	Palestinian	M	195	1	0	0	Mohammad Ziad ar-Rohhal, 6, Beit Lahia
+July 19	12	Mohammad Ahmad Abu Zanouna	Mohammad	Zanouna	37	Palestinian	M	261	3	0	0	Mohammad Ahmad Abu Zanouna, 37, Gaza City
+July 19	12	Mahmoud Abdul-Hamid al-Zweidi	Mahmoud	al-Zweidi	23	Palestinian	M	283	2	0	0	Mahmoud Abdul-Hamid al-Zweidi, 23, Beit Lahia
+July 19	12	Dalia Abdel-Hamid al-Zweidi	Dalia	al-Zweidi	37	Palestinian	F	283	3	0	0	Dalia Abdel-Hamid al-Zweidi, 37, Beit Lahia
+July 19	12	Rowiya Mahmoud al-Zweidi	Rowiya	al-Zweidi	6	Palestinian	M	283	1	0	0	Rowiya Mahmoud al-Zweidi, 6, Beit Lahia
+July 19	12	Naghm Mahmoud al-Zweidi	Naghm	al-Zweidi	2	Palestinian	F	283	1	0	0	Naghm Mahmoud al-Zweidi, 2, Beit Lahia
+July 19	12	Mohammad Khaled Jamil al-Zweidi	Mohammad	al-Zweidi	20	Palestinian	M	283	2	0	0	Mohammad Khaled Jamil al-Zweidi, 20, Beit Lahia
+July 19	12	Amr Hamouda	Amr	Hamouda	7	Palestinian	M	81	1	0	0	Amr Hamouda, 7, Beit Lahia
+July 19	12	Mohammad Riziq Mohammad Hamouda	Mohammad	Hamouda	18	Palestinian	M	81	2	0	0	Mohammad Riziq Mohammad Hamouda, 18, Beit Lahia
+July 19	12	Yousef Kamal Qabdurra Hamouda	Yousef	Hamouda	29	Palestinian	M	81	3	0	0	Yousef Kamal Qabdurra Hamouda, 29, Beit Lahia.
+July 19	12	Momen Taysir al-Abed Abu Dan	Momen	Dan	24	Palestinian	M	41	2	0	0	Momen Taysir al-Abed Abu Dan, 24, Central District
+July 19	12	Abdul-Aziz Samir Abu Zaitar	Abdul-Aziz	Zaitar	31	Palestinian	M	261	3	0	0	Abdul-Aziz Samir Abu Zaitar, 31, Central District
+July 19	12	Mohammad Ziad Zabout	Mohammad	Zabout	24	Palestinian	M	261	2	0	0	Mohammad Ziad Zabout, 24, Gaza City
+July 19	12	Hatem Ziad Zabout	Hatem	Zabout	22	Palestinian	M	261	2	0	0	Hatem Ziad Zabout, 22, Gaza City
+July 19	12	Fadal Mohammad al-Bana	Fadal	al-Bana	29	Palestinian	M	21	3	0	0	Fadal Mohammad al-Bana, 29, was killed in Jabalia
+July 19	12	Mohammad Abdul-Rahman Abu Hamad	Mohammad	Hamad	25	Palestinian	M	81	3	0	0	Mohammad Abdul-Rahman Abu Hamad, 25, Beit Lahia
+July 19	12	Maali Abdul-Rahman Suleiman Abu Zeid	Maali	Zeid	24	Palestinian	M	265	2	0	0	Maali Abdul-Rahman Suleiman Abu Zeid, 24, Central District
+July 19	12	Mohammad Ahmad as-Saidi	Mohammad	as-Saidi	18	Palestinian	M	191	2	0	0	Mohammad Ahmad as-Saidi, 18, Khan Younis
+July 19	12	Abdul-Rahman Mohammad Odah	Abdul-Rahman	Odah	23	Palestinian	M	154	2	0	0	Abdul-Rahman Mohammad Odah, 23, Central District
+July 19	12	Tariq Samir Khalil al-Hatou	Tariq	al-Hatou	26	Palestinian	M	81	3	0	0	Tariq Samir Khalil al-Hatou, 26, Central District
+July 19	12	Mohammad Fathi al-Ghalban	Mohammad	al-Ghalban	23	Palestinian	M	78	2	0	0	Mohammad Fathi al-Ghalban, 23, Khan Younis
+July 19	12	Mahmoud Anwar Abu Shabab	Mahmoud	Shabab	16	Palestinian	M	198	2	0	0	Mahmoud Anwar Abu Shabab, 16, Rafah
+July 19	12	Ahmad Abu Thurayya	Ahmad	Thurayya	25	Palestinian	M	208	3	0	0	Ahmad Abu Thurayya, 25, Central District
+July 19	12	Abdullah Ghazi al-Masri	Abdullah	al-Masri	30	Palestinian	M	131	3	0	0	Abdullah Ghazi al-Masri, 30, Central District
+July 19	12	Ayman Nasri an-Na'ouq	Ayman	an-Na'ouq	23	Palestinian	M	141	2	0	0	Ayman Nasri an-Na'ouq, 23, Central District
+July 19	12	Aqram Mahmoud al-Matouq	Aqram	al-Matouq	37	Palestinian	M	131	3	0	0	Aqram Mahmoud al-Matouq, 37, Jabalia
+July 18	11	Majdi Suleiman Jabara	Majdi	Jabara	22	Palestinian	M	101	2	0	0	Majdi Suleiman Jabara, 22, Rafah
+July 18	11	Faris Juma al-Mahmoum	Faris	al-Mahmoum	0.416666666667	Palestinian	M	131	1	0	0	Faris Juma al-Mahmoum, 5 months, Rafah related article
+July 18	11	Omar Eid al-Mahmoum	Omar	al-Mahmoum	18	Palestinian	M	131	2	0	0	Omar Eid al-Mahmoum, 18, Rafah
+July 18	11	Nassim Mahmoud Nassier	Nassim	Nassier	22	Palestinian	M	141	2	0	0	Nassim Mahmoud Nassier, 22. Beit Hanoun
+July 18	11	Karam Mahmoud Nassier	Karam	Nassier	20	Palestinian	M	141	2	0	0	Karam Mahmoud Nassier, 20, Beit Hanoun
+July 18	11	Salmiyya Suleiman Ghayyadh	Salmiyya	Ghayyadh	70	Palestinian	M	78	4	0	0	Salmiyya Suleiman Ghayyadh, 70, Rafah
+July 18	11	Rani Saqer Abu Tawila	Rani	Tawila	30	Palestinian	F	201	3	0	0	Rani Saqer Abu Tawila, 30, Gaza City
+July 18	11	Hammad Abdul-Karim Abu Lehya	Hammad	Lehya	23	Palestinian	M	125	2	0	0	Hammad Abdul-Karim Abu Lehya, 23, Khan Younis
+July 18	11	Mohammad Abdul-Fattah Rashad Fayyad	Mohammad	Fayyad	26	Palestinian	M	61	3	0	0	Mohammad Abdul-Fattah Rashad Fayyad, 26, Khan Younis
+July 18	11	Mahmoud Mohammad Fayyad	Mahmoud	Fayyad	25	Palestinian	M	61	3	0	0	Mahmoud Mohammad Fayyad, 25, Khan Younis
+July 18	11	Amal Khader Ibrahim Dabbour	Amal	Dabbour	40	Palestinian	F	41	3	0	0	Amal Khader Ibrahim Dabbour, 40, Beit Hanoun
+July 18	11	Ismail Yousef Taha Qassim	Ismail	Qassim	59	Palestinian	M	171	4	0	0	Ismail Yousef Taha Qassim, 59, Beit Hanoun
+July 18	11	Ahmad Fawzi Radwan	Ahmad	Radwan	23	Palestinian	M	181	2	0	0	Ahmad Fawzi Radwan, 23, Khan Younis
+July 18	11	Mahmoud Fawzi Radwan	Mahmoud	Radwan	24	Palestinian	M	181	2	0	0	Mahmoud Fawzi Radwan, 24, Khan Younis
+July 18	11	Bilal Mahmoud Radwan	Bilal	Radwan	23	Palestinian	M	181	2	0	0	Bilal Mahmoud Radwan, 23, Khan Younis
+July 18	11	Monther Radwan	Monther	Radwan	22	Palestinian	M	181	2	0	0	Monther Radwan, 22, Khan Younis
+July 18	11	Hasan Majdi Mahmoud Radwan	Hasan	Radwan	19	Palestinian	M	181	2	0	0	Hasan Majdi Mahmoud Radwan, 19, Khan Younis.
+July 18	11	Mohammad Sami as-Said Omran	Mohammad	Omran	26	Palestinian	M	163	3	0	0	Mohammad Sami as-Said Omran, 26, Khan Younis.
+July 18	11	Hani As'ad Abdul-Karim Shami	Hani	Shami	35	Palestinian	M	198	3	0	0	Hani As'ad Abdul-Karim Shami, 35, Khan Younis
+July 18	11	Mohammad Hamdan Abdul-Karim Shami	Mohammad	Shami	35	Palestinian	M	198	3	0	0	Mohammad Hamdan Abdul-Karim Shami, 35, Khan Younis
+July 18	11	Husam Musallam Abu Issa	Husam	Issa	26	Palestinian	M	109	3	0	0	Husam Musallam Abu Issa, 26. Gaza
+July 18	11	Ahmad Ismael Abu Musallam	Ahmad	Musallam	14	Palestinian	M	151	1	0	0	Ahmad Ismael Abu Musallam, 14, Gaza City
+July 18	11	Mohammad Ismael Abu Musallam	Mohammad	Musallam	15	Palestinian	M	151	2	0	0	Mohammad Ismael Abu Musallam, 15, Gaza City
+July 18	11	Wala Ismael Abu Musallam	Wala	Musallam	13	Palestinian	F	151	1	0	0	Wala Ismael Abu Musallam, 13, Gaza City
+July 18	11	Naim Mousa Abu Jarad	Naim	Jarad	23	Palestinian	M	101	2	0	0	Naim Mousa Abu Jarad, 23, Beit Hanoun
+July 18	11	Abed Mousa Abu Jarad	Abed	Jarad	30	Palestinian	M	101	3	0	0	Abed Mousa Abu Jarad, 30, Beit Hanoun
+July 18	11	Siham Mousa Abu Jarad	Siham	Jarad	26	Palestinian	F	101	3	0	0	Siham Mousa Abu Jarad, 26, Beit Hanoun
+July 18	11	Raja Oliyyan Abu Jarad	Raja	Jarad	31	Palestinian	M	101	3	0	0	Raja Oliyyan Abu Jarad, 31, Beit Hanoun
+July 18	11	Haniyya Abdul-Rahman Abu Jarad	Haniyya	Jarad	3	Palestinian	F	101	1	0	0	Haniyya Abdul-Rahman Abu Jarad, 3, Beit Hanoun
+July 18	11	Samih Naim Abu Jarad	Samih	Jarad	1	Palestinian	M	101	1	0	0	Samih Naim Abu Jarad, 1, Beit Hanoun
+July 18	11	Mousa Abul-Rahman Abu Jarad	Mousa	Jarad	0.5	Palestinian	M	101	1	0	0	Mousa Abul-Rahman Abu Jarad, 6 months, Beit Hanoun
+July 18	11	Ahlam Mousa Abu Jarad	Ahlam	Jarad	13	Palestinian	F	101	1	0	0	Ahlam Mousa Abu Jarad, 13, Beit Hanoun
+July 18	11	Husam Musallam Abu Aisha	Husam	Aisha	26	Palestinian	M	19	3	0	0	Husam Musallam Abu Aisha, 26, Jahr al-Deek
+July 18	11	. Mohammad Saad Mahmoud Abu Sa'da	.	Sa'da	NA	Palestinian	M	191	0	0	1	. Mohammad Saad Mahmoud Abu Sa'da , Khan Younis
+July 18	11	Ra'fat Mohammad al-Bahloul	Ra'fat	al-Bahloul	35	Palestinian	M	21	3	0	0	Ra'fat Mohammad al-Bahloul, 35, Khan Younis
+July 18	11	Wala al-Qarra	Wala	al-Qarra	20	Palestinian	F	171	2	0	0	Wala al-Qarra, 20, Khan Younis
+July 18	11	Abdullah Jamal as-Smeiri	Abdullah	as-Smeiri	17	Palestinian	M	203	2	0	0	Abdullah Jamal as-Smeiri, 17, Khan Younis
+July 18	11	Ahmad Hasan Saleh al-Ghalban	Ahmad	al-Ghalban	23	Palestinian	M	78	2	0	0	Ahmad Hasan Saleh al-Ghalban, 23, Khan Younis
+July 18	11	Hamada Abdullah Mohammad al-Bashiti	Hamada	al-Bashiti	21	Palestinian	M	21	2	0	0	Hamada Abdullah Mohammad al-Bashiti, 21, Khan Younis
+July 18	11	Hamza Mohammad Abu Hussein	Hamza	Hussein	27	Palestinian	M	101	3	0	0	Hamza Mohammad Abu Hussein, 27, Rafah
+July 18	11	Ala Abu Shabab	Ala	Shabab	23	Palestinian	F	198	2	0	0	Ala Abu Shabab, 23, Rafah
+July 18	11	Mohammad Awad Matar	Mohammad	Matar	37	Palestinian	M	131	3	0	0	Mohammad Awad Matar, 37, Rafah
+July 18	11	Bassem Mohammad Mahmoud Madhi	Bassem	Madhi	22	Palestinian	M	131	2	0	0	Bassem Mohammad Mahmoud Madhi, 22, Rafah
+July 18	11	Ahmad Abdullah al-Bahnasawi	Ahmad	al-Bahnasawi	25	Palestinian	M	21	3	0	0	Ahmad Abdullah al-Bahnasawi, 25. Um An-Nasr
+July 18	11	Saleh Zgheidy	Saleh	Zgheidy	20	Palestinian	M	267	2	0	0	Saleh Zgheidy, 20, Rafah
+July 18	11	Mahmoud Ali Darwish	Mahmoud	Darwish	40	Palestinian	M	41	3	0	0	Mahmoud Ali Darwish, 40, Nusseirat, Central Gaza
+July 18	11	Yousef Ibrahim al-Astal	Yousef	al-Astal	23	Palestinian	M	29	2	0	0	Yousef Ibrahim al-Astal, 23,Khan Younis
+July 18	11	Imad Hamed E'lawwan	Imad	E'lawwan	7	Palestinian	M	62	1	0	0	Imad Hamed E'lawwan, 7, Gaza
+July 18	11	Qassem Hamed E'lawwan	Qassem	E'lawwan	4	Palestinian	M	62	1	0	0	Qassem Hamed E'lawwan, 4, Gaza, brother of Imad
+July 18	11	Sarah Mohammad Bustan	Sarah	Bustan	13	Palestinian	F	41	1	0	0	Sarah Mohammad Bustan, 13, Gaza
+July 18	11	Rezeq Ahmad al-Hayek	Rezeq	al-Hayek	2	Palestinian	M	81	1	0	0	Rezeq Ahmad al-Hayek, 2, Gaza
+July 18	11	Mustafa Faisal Abu Sneina	Mustafa	Sneina	32	Palestinian	M	204	3	0	0	Mustafa Faisal Abu Sneina, 32, Rafah
+July 18	11	Imad Faisal Abu Sneina	Imad	Sneina	18	Palestinian	M	204	2	0	0	Imad Faisal Abu Sneina, 18, Rafah
+July 18	11	Nizar Fayez Abu Sneina	Nizar	Sneina	38	Palestinian	M	204	3	0	0	Nizar Fayez Abu Sneina, 38, Rafah
+July 18	11	Ismail Ramadan al-Loulahi	Ismail	al-Loulahi	21	Palestinian	M	135	2	0	0	Ismail Ramadan al-Loulahi, 21, Khan Younis
+July 18	11	Ghassan Salem Mousa Abu Azab	Ghassan	Azab	28	Palestinian	M	36	3	0	0	Ghassan Salem Mousa Abu Azab, 28, Khan Younis
+July 18	11	Ahmad Salem Shaat	Ahmad	Shaat	22	Palestinian	M	198	2	0	0	Ahmad Salem Shaat, 22, Khan Younis
+July 18	11	Mohammad Salem Shaat	Mohammad	Shaat	20	Palestinian	M	198	2	0	0	Mohammad Salem Shaat, 20, Khan Younis
+July 18	11	Amjad Salem Shaat	Amjad	Shaat	15	Palestinian	M	198	2	0	0	Amjad Salem Shaat, 15, Khan Younis
+July 18	11	Mohammad Talal as-Sane	Mohammad	as-Sane	20	Palestinian	M	191	2	0	0	Mohammad Talal as-Sane, 20, Rafah
+July 17	10	Mohammad Mahmoud Al-Qadim	Mohammad	Al-Qadim	22	Palestinian	M	171	2	0	0	Mohammad Mahmoud Al-Qadim, 22, Deir al-Balah
+July 17	10	Mohammad Abdul-Rahman Hassouna	Mohammad	Hassouna	67	Palestinian	M	81	4	0	0	Mohammad Abdul-Rahman Hassouna, 67, Rafah
+July 17	10	Zeinab Mohammad Said al-Abadla	Zeinab	al-Abadla	71	Palestinian	F	12	4	0	0	Zeinab Mohammad Said al-Abadla, 71, Khan Younis
+July 17	10	Ahmad Reehan	Ahmad	Reehan	23	Palestinian	M	185	2	0	0	Ahmad Reehan, 23, Beit Lahia
+July 17	10	Salem Saleh Fayyad	Salem	Fayyad	25	Palestinian	M	61	3	0	0	Salem Saleh Fayyad, 25, Gaza City
+July 17	10	Abdullah Salem al-Atras	Abdullah	al-Atras	27	Palestinian	M	30	3	0	0	Abdullah Salem al-Atras, 27, Rafah
+July 17	10	Bashir Mohammad Abdul-Al	Bashir	Abdul-Al	20	Palestinian	M	22	2	0	0	Bashir Mohammad Abdul-Al, 20, Rafah
+July 17	10	Mohammad Ziyad Ghanem	Mohammad	Ghanem	25	Palestinian	M	78	3	0	0	Mohammad Ziyad Ghanem, 25, Rafah
+July 17	10	Mohammad Ahmad al-Hout	Mohammad	al-Hout	41	Palestinian	M	95	3	0	0	Mohammad Ahmad al-Hout, 41, Rafah
+July 17	10	Fulla Tariq Shuhaibar	Fulla	Shuhaibar	8	Palestinian	F	198	1	0	0	Fulla Tariq Shuhaibar, 8, Gaza City related article
+July 17	10	Jihad Issam Shuhaibar	Jihad	Shuhaibar	10	Palestinian	M	198	1	0	0	Jihad Issam Shuhaibar, 10, Gaza Cityrelated article
+July 17	10	Wasim Issam Shuhaibar	Wasim	Shuhaibar	9	Palestinian	M	198	1	0	0	Wasim Issam Shuhaibar, 9, Gaza Cityrelated article
+July 17	10	Rahaf Khalil al-Jbour	Rahaf	al-Jbour	4	Palestinian	F	102	1	0	0	Rahaf Khalil al-Jbour, 4, Khan Younis related article
+July 17	10	Yassin al-Humaidi	Yassin	al-Humaidi	4	Palestinian	M	101	1	0	0	Yassin al-Humaidi, 4, Gaza City, died of earlier wounds. related article
+July 17	10	Ismail Youssef al-Kafarna	Ismail	al-Kafarna	NA	Palestinian	M	111	0	0	1	Ismail Youssef al-Kafarna, Beit Hanoun
+July 17	10	Hamza Hussein al-Abadala	Hamza	al-Abadala	29	Palestinian	M	12	3	0	0	Hamza Hussein al-Abadala, 29, Khan Younis
+July 17	10	Abed Ali Ntheir	Abed	Ntheir	26	Palestinian	M	160	3	0	0	Abed Ali Ntheir, 26, Gaza City
+July 17	10	Mohammad Shadi Ntheir	Mohammad	Ntheir	15	Palestinian	M	160	2	0	0	Mohammad Shadi Ntheir, 15, Gaza City related article
+July 17	10	Mohammad Salem Ntheir	Mohammad	Ntheir	4	Palestinian	M	160	1	0	0	Mohammad Salem Ntheir, 4, Gaza City related article
+July 17	10	Salah Saleh ash-Shafe'ey	Salah	ash-Shafe'ey	NA	Palestinian	M	198	0	0	1	Salah Saleh ash-Shafe'ey, Khan Younis
+July 16	9	Mohammad Ismael Abu Odah	Mohammad	Odah	27	Palestinian	M	154	3	0	0	Mohammad Ismael Abu Odah, 27, Rafah
+July 16	9	Mohammad Abdullah Zahouq	Mohammad	Zahouq	23	Palestinian	M	261	2	0	0	Mohammad Abdullah Zahouq, 23, Rafah
+July 16	9	Ahmed Adel Nawajha	Ahmed	Nawajha	23	Palestinian	M	141	2	0	0	Ahmed Adel Nawajha, 23, Rafah
+July 16	9	Mohammad Taisir Abu Sharab	Mohammad	Sharab	23	Palestinian	M	198	2	0	0	Mohammad Taisir Abu Sharab, 23, Khan Younis
+July 16	9	Mohammad Sabri ad-Debari	Mohammad	ad-Debari	NA	Palestinian	M	45	0	0	1	Mohammad Sabri ad-Debari, Rafah
+July 16	9	Farid Mahmoud Abu-Daqqa	Farid	Abu-Daqqa	33	Palestinian	M	41	3	0	0	Farid Mahmoud Abu-Daqqa, 33, Khan Younis
+July 16	9	Ashraf Khalil Abu Shanab	Ashraf	Shanab	33	Palestinian	M	198	3	0	0	Ashraf Khalil Abu Shanab, 33, Rafah
+July 16	9	Khadra Al-Abed Salama Abu Daqqa	Khadra	Daqqa	65	Palestinian	M	41	4	0	0	Khadra Al-Abed Salama Abu Daqqa, 65, Khan Younisrelated article
+July 16	9	Omar Ramadan Abu Daqqa	Omar	Daqqa	24	Palestinian	M	41	2	0	0	Omar Ramadan Abu Daqqa, 24, Khan Younisrelated article
+July 16	9	Ibrahim Ramadan Abu Daqqa	Ibrahim	Daqqa	10	Palestinian	M	41	1	0	0	Ibrahim Ramadan Abu Daqqa, 10, Khan Younisrelated article
+July 16	9	Ahed Atef Bakr	Ahed	Bakr	10	Palestinian	M	21	1	0	0	Ahed Atef Bakr, 10, Gaza beach.related article
+July 16	9	Zakariya Ahed Bakr	Zakariya	Bakr	10	Palestinian	M	21	1	0	0	Zakariya Ahed Bakr, 10, Gaza beach.related article
+July 16	9	Mohammad Ramiz Bakr	Mohammad	Bakr	11	Palestinian	M	21	1	0	0	Mohammad Ramiz Bakr, 11, Gaza beach.related article
+July 16	9	Ismail Mahmoud Bakr	Ismail	Bakr	9	Palestinian	M	21	1	0	0	Ismail Mahmoud Bakr, 9, Gaza beach. related article
+July 16	9	Mohammad Kamel Abdul-Rahman	Mohammad	Abdul-Rahman	30	Palestinian	M	181	3	0	0	Mohammad Kamel Abdul-Rahman, 30, Sheikh Ejleen, Gaza City
+July 16	9	Husam Shamlakh	Husam	Shamlakh	23	Palestinian	M	198	2	0	0	Husam Shamlakh, 23, Sheikh Ejleen, Gaza City
+July 16	9	Usama Mahmoud Al-Astal	Usama	Al-Astal	6	Palestinian	M	29	1	0	0	Usama Mahmoud Al-Astal, 6, Khan Younis, died of wounds sustained earlier in attack on mosque
+July 16	9	Hussein Abdul-Nasser al-Astal	Hussein	al-Astal	23	Palestinian	M	29	2	0	0	Hussein Abdul-Nasser al-Astal, 23, Khan Younis
+July 16	9	Kawthar al-Astal	Kawthar	al-Astal	70	Palestinian	F	29	4	0	0	Kawthar al-Astal, 70, Khan Younis
+July 16	9	Yasmin al-Astal	Yasmin	al-Astal	4	Palestinian	F	29	1	0	0	Yasmin al-Astal, 4, Khan Younis
+July 16	9	Kamal Mohammad Abu Amer	Kamal	Amer	38	Palestinian	M	23	3	0	0	Kamal Mohammad Abu Amer, 38, Khan Younis
+July 16	9	Akram Mohammad Abu Amer	Akram	Amer	34	Palestinian	M	23	3	0	0	Akram Mohammad Abu Amer, 34, Khan Younis, brother of Kamal, injured in same incident, then later same day died of his injuries
+July 16	9	Hamza Raed Thary	Hamza	Thary	6	Palestinian	M	208	1	0	0	Hamza Raed Thary, 6, Jabalia, was injured a few days ago in the incident in which many, including children, were killed while playing in the sand at the beach in Jabalia
+July 16	9	Abdul-Rahman Ibrahim Khalil as-Sarhi	Abdul-Rahman	as-Sarhi	37	Palestinian	M	191	3	0	0	Abdul-Rahman Ibrahim Khalil as-Sarhi, 37, Gaza City
+July 15	8	Abdullah Mohammad al-Arjani	Abdullah	al-Arjani	19	Palestinian	M	28	2	0	0	Abdullah Mohammad al-Arjani, 19, Khan Younis
+July 15	8	Suleiman Abu Louly	Suleiman	Louly	33	Palestinian	M	135	3	0	0	Suleiman Abu Louly, 33, Rafah
+July 15	8	Saleh Said Dahleez	Saleh	Dahleez	20	Palestinian	M	41	2	0	0	Saleh Said Dahleez, 20, Rafah
+July 15	8	Yasser Eid al-Mahmoum	Yasser	al-Mahmoum	18	Palestinian	M	131	2	0	0	Yasser Eid al-Mahmoum, 18, Rafah
+July 15	8	Ismael Fattouh Ismael	Ismael	Ismael	24	Palestinian	M	109	2	0	0	Ismael Fattouh Ismael, 24, Gaza City
+July 15	8	Khalil Sh'aafy	Khalil	Sh'aafy	NA	Palestinian	M	198	0	0	1	Khalil Sh'aafy, Juhr Ed-Deek - Gaza
+July 15	8	Sobhi Abdul-hamid Mousa	Sobhi	Mousa	77	Palestinian	M	145	4	0	0	Sobhi Abdul-hamid Mousa, 77, Khan Younis
+July 14	7	Adham Abdul-Fattah Abdul-Aal	Adham	Abdul-Aal	27	Palestinian	M	11	3	0	0	Adham Abdul-Fattah Abdul-Aal, 27
+July 14	7	Hamid Suleiman Abu al-Araj	Hamid	al-Araj	60	Palestinian	M	28	4	0	0	Hamid Suleiman Abu al-Araj, 60, Deir al-Balah
+July 14	7	Abdullah Mahmoud Baraka	Abdullah	Baraka	24	Palestinian	M	21	2	0	0	Abdullah Mahmoud Baraka, 24, Khan Younis
+July 14	7	Tamer Salem Qdeih	Tamer	Qdeih	37	Palestinian	M	174	3	0	0	Tamer Salem Qdeih, 37, Khan Younis
+July 14	7	Ziad Maher an-Najjar	Ziad	an-Najjar	17	Palestinian	M	141	2	0	0	Ziad Maher an-Najjar, 17, Khan Younis
+July 14	7	Ziad Salem ash-Shawy	Ziad	ash-Shawy	25	Palestinian	M	198	3	0	0	Ziad Salem ash-Shawy, 25, Rafah
+July 14	7	Mohammad Yasser Hamdan	Mohammad	Hamdan	24	Palestinian	M	81	2	0	0	Mohammad Yasser Hamdan, 24, Gaza
+July 14	7	Mohammad Shakib al-Agha	Mohammad	al-Agha	22	Palestinian	M	17	2	0	0	Mohammad Shakib al-Agha, 22, Khan Younis
+July 14	7	Ahmed Younis Abu Yousef	Ahmed	Yousef	22	Palestinian	M	265	2	0	0	Ahmed Younis Abu Yousef, 22, Khan Younis
+July 14	7	Sara Omar Sheikh al-Eid	Sara	al-Eid	4	Palestinian	F	59	1	0	0	Sara Omar Sheikh al-Eid, 4, Rafah
+July 14	7	Omar Ahmad Sheikh al-Eid	Omar	al-Eid	24	Palestinian	M	59	2	0	0	Omar Ahmad Sheikh al-Eid, 24, Rafah
+July 14	7	Jihad Ahmad Sheikh al-Eid	Jihad	al-Eid	48	Palestinian	M	59	3	0	0	Jihad Ahmad Sheikh al-Eid, 48, Rafah
+July 14	7	Kamal Atef Yousef Abu Taha	Kamal	Taha	16	Palestinian	M	201	2	0	0	Kamal Atef Yousef Abu Taha, 16, Khan Younis
+July 14	7	Ismael Nabil Ahmad Abu Hatab	Ismael	Hatab	21	Palestinian	M	81	2	0	0	Ismael Nabil Ahmad Abu Hatab, 21, Khan Younis
+July 14	7	Boshra Khalil Zorob	Boshra	Zorob	53	Palestinian	F	275	3	0	0	Boshra Khalil Zorob, 53, Rafah
+July 14	7	Atwa Amira al-Amour	Atwa	al-Amour	63	Palestinian	M	23	4	0	0	Atwa Amira al-Amour, 63, Khan Younis
+July 13	6	Ezzeddin Bolbol	Ezzeddin	Bolbol	25	Palestinian	M	35	3	0	0	Ezzeddin Bolbol, 25, Rafah
+July 13	6	Rami Abu Shanab	Rami	Shanab	25	Palestinian	M	198	3	0	0	Rami Abu Shanab, 25, Deir al-Balah
+July 13	6	Fawziyya Abdul-al	Fawziyya	Abdul-al	73	Palestinian	F	22	4	0	0	Fawziyya Abdul-al, 73, Gaza City
+July 13	6	Moayyad al-Araj	Moayyad	al-Araj	3	Palestinian	NA	28	1	0	0	Moayyad al-Araj, 3, Khan Younis*
+July 13	6	Husam Ibrahim Najjar	Husam	Najjar	14	Palestinian	M	141	1	0	0	Husam Ibrahim Najjar, 14, Jabalia
+July 13	6	Hijaziyya Hamed al-Hilo	Hijaziyya	al-Hilo	80	Palestinian	M	89	4	0	0	Hijaziyya Hamed al-Hilo, 80, Gaza City
+July 13	6	Ruwaida abu Harb Zawayda	Ruwaida	Zawayda	30	Palestinian	F	261	3	0	0	Ruwaida abu Harb Zawayda, 30, central Gaza
+July 13	6	Haitham Ashraf Zorob	Haitham	Zorob	21	Palestinian	M	275	2	0	0	Haitham Ashraf Zorob, 21, Rafah
+July 13	6	Laila Hassan al-Odaat	Laila	al-Odaat	41	Palestinian	F	154	3	0	0	Laila Hassan al-Odaat, 41, al-Maghazi
+July 13	6	Hussein Abdul-Qader Mheisin	Hussein	Mheisin	19	Palestinian	M	138	2	0	0	Hussein Abdul-Qader Mheisin, 19, Gaza
+July 13	6	Qassem Talal Hamdan	Qassem	Hamdan	23	Palestinian	M	81	2	0	0	Qassem Talal Hamdan, 23, Beit Hanoun
+July 13	6	Maher Thabet abu Mour	Maher	Mour	23	Palestinian	M	145	2	0	0	Maher Thabet abu Mour, 23, Khan Younis - related article
+July 13	6	Mohammad Salem Abu Breis	Mohammad	Breis	65	Palestinian	M	38	4	0	0	Mohammad Salem Abu Breis, 65, Deir al-Balah
+July 13	6	Moussa Shehda Moammer	Moussa	Moammer	60	Palestinian	M	145	4	0	0	Moussa Shehda Moammer, 60, Khan Younis
+July 13	6	Hanadi Hamdi Moammer	Hanadi	Moammer	27	Palestinian	F	145	3	0	0	Hanadi Hamdi Moammer, 27, Khan Younis
+July 13	6	Saddam Mousa Moammer	Saddam	Moammer	23	Palestinian	M	145	2	0	0	Saddam Mousa Moammer, 23, Khan Younis
+July 12	5	Anas Yousef Qandil	Anas	Qandil	17	Palestinian	M	171	2	0	0	Anas Yousef Qandil, 17, Jabalia
+July 12	5	Islam Yousef Mohammad Qandil	Islam	Qandil	27	Palestinian	F	171	3	0	0	Islam Yousef Mohammad Qandil, 27, Jabalia
+July 12	5	Mohammad Edrees Abu Sneina	Mohammad	Sneina	20	Palestinian	M	204	2	0	0	Mohammad Edrees Abu Sneina, 20, Jabalia
+July 12	5	Abdul-Rahim Saleh al-Khatib	Abdul-Rahim	al-Khatib	38	Palestinian	M	118	3	0	0	Abdul-Rahim Saleh al-Khatib, 38, Jabalia
+July 12	5	Husam Thieb ar-Razayna	Husam	ar-Razayna	39	Palestinian	M	181	3	0	0	Husam Thieb ar-Razayna, 39, Jabalia
+July 12	5	Ibrahim Nabil Hamada	Ibrahim	Hamada	30	Palestinian	M	81	3	0	0	Ibrahim Nabil Hamada, 30, at-Tuffah - Gaza City
+July 12	5	Hasan Ahmad Abu Ghush	Hasan	Ghush	24	Palestinian	M	78	2	0	0	Hasan Ahmad Abu Ghush, 24, at-Tuffah - Gaza City
+July 12	5	Ahmad Mahmoud al-Bal'awy	Ahmad	al-Bal'awy	26	Palestinian	M	21	3	0	0	Ahmad Mahmoud al-Bal'awy, 26, at-Tuffah - Gaza City
+July 12	5	Ali Nabil Basal	Ali	Basal	32	Palestinian	M	21	3	0	0	Ali Nabil Basal, 32, at-Tuffah - Gaza City
+July 12	5	Mohammad Bassem al-Halaby	Mohammad	al-Halaby	28	Palestinian	M	81	3	0	0	Mohammad Bassem al-Halaby, 28, western Gaza City
+July 12	5	Mohammad Sweity	Mohammad	Sweity	20	Palestinian	M	213	2	0	0	Mohammad Sweity, Abu Askar, 20, western Gaza City
+July 12	5	Khawla al-Hawajri	Khawla	al-Hawajri	25	Palestinian	F	81	3	0	0	Khawla al-Hawajri, 25, Nuseirat refugee camp
+July 12	5	Ola Wishahi	Ola	Wishahi	31	Palestinian	M	239	3	0	0	Ola Wishahi, 31, Mabarra association for the disabled in Jabalia
+July 12	5	Suha Abu Saade	Suha	Saade	38	Palestinian	F	191	3	0	0	Suha Abu Saade, 38, Mabarra association for the disabled in Jabalia
+July 12	5	Mohammad Edrees Abu Sweilem	Mohammad	Sweilem	20	Palestinian	M	213	2	0	0	Mohammad Edrees Abu Sweilem, 20, Jabalia
+July 12	5	Rateb Subhi al-Saifi	Rateb	al-Saifi	22	Palestinian	M	191	2	0	0	Rateb Subhi al-Saifi, 22, Sheikh Radwan - Gaza City
+July 12	5	Azmi Mahmoud Obeid	Azmi	Obeid	51	Palestinian	M	152	3	0	0	Azmi Mahmoud Obeid, 51, Sheikh Radwan - Gaza City
+July 12	5	Nidal Mahmoud Abu al-Malsh	Nidal	al-Malsh	22	Palestinian	M	131	2	0	0	Nidal Mahmoud Abu al-Malsh, 22, Sheikh Radwan - Gaza City
+July 12	5	Suleiman Said Obeid	Suleiman	Obeid	56	Palestinian	M	152	4	0	0	Suleiman Said Obeid, 56, Sheikh Radwan - Gaza City
+July 12	5	Mustafa Muhammad Inaya	Mustafa	Inaya	58	Palestinian	M	104	4	0	0	Mustafa Muhammad Inaya, 58, Sheikh Radwan - Gaza City
+July 12	5	Ghassan Ahmad al-Masri	Ghassan	al-Masri	25	Palestinian	M	131	3	0	0	Ghassan Ahmad al-Masri, 25, Sheikh Radwan - Gaza City
+July 12	5	Rifat Youssef Amer	Rifat	Amer	36	Palestinian	M	23	3	0	0	Rifat Youssef Amer, 36, al-Saftawi
+July 12	5	Rifat Syouti	Rifat	Syouti	NA	Palestinian	M	215	0	0	1	Rifat Syouti, western Gaza City*
+July 12	5	Nahedh Naim al-Batsh	Nahedh	al-Batsh	41	Palestinian	M	21	3	0	0	Nahedh Naim al-Batsh, 41, Khan Younis
+July 12	5	Baha Majed al-Batsh	Baha	al-Batsh	28	Palestinian	M	21	3	0	0	Baha Majed al-Batsh, 28, Khan Younis
+July 12	5	Qusai Issam al-Batsh	Qusai	al-Batsh	12	Palestinian	M	21	1	0	0	Qusai Issam al-Batsh, 12, Khan Younis
+July 12	5	Aziza Yousef al-Batsh	Aziza	al-Batsh	59	Palestinian	F	21	4	0	0	Aziza Yousef al-Batsh, 59, Khan Younis
+July 12	5	Ahmad Noman al-Batsh	Ahmad	al-Batsh	27	Palestinian	M	21	3	0	0	Ahmad Noman al-Batsh, 27, Khan Younis
+July 12	5	Mohammad Issam al-Batsh	Mohammad	al-Batsh	17	Palestinian	M	21	2	0	0	Mohammad Issam al-Batsh, 17, Khan Younis
+July 12	5	Yahia Ala Al-Batsh	Yahia	Al-Batsh	18	Palestinian	M	21	2	0	0	Yahia Ala Al-Batsh, 18, Khan Younis
+July 12	5	Jalal Majed al-Batsh	Jalal	al-Batsh	26	Palestinian	M	21	3	0	0	Jalal Majed al-Batsh, 26, Khan Younis
+July 12	5	Mahmoud Majed al-Batsh	Mahmoud	al-Batsh	22	Palestinian	M	21	2	0	0	Mahmoud Majed al-Batsh, 22, Khan Younis
+July 12	5	Majed Sobhi al-Batsh	Majed	al-Batsh	NA	Palestinian	M	21	0	0	1	Majed Sobhi al-Batsh, Khan Younis
+July 12	5	Marwa Majed al-Batsh	Marwa	al-Batsh	25	Palestinian	F	21	3	0	0	Marwa Majed al-Batsh, 25, Khan Younis
+July 12	5	Khaled Majed al-Batsh	Khaled	al-Batsh	20	Palestinian	M	21	2	0	0	Khaled Majed al-Batsh, 20, Khan Younis
+July 12	5	Ibrahim Majed al-Batsh	Ibrahim	al-Batsh	18	Palestinian	M	21	2	0	0	Ibrahim Majed al-Batsh, 18, Khan Younis
+July 12	5	Manar Majed al-Batsh	Manar	al-Batsh	13	Palestinian	F	21	1	0	0	Manar Majed al-Batsh, 13, Khan Younis
+July 12	5	Amal Hussein al-Batsh	Amal	al-Batsh	49	Palestinian	F	21	3	0	0	Amal Hussein al-Batsh, 49, Khan Younis
+July 12	5	Anas Ala al-Batsh	Anas	al-Batsh	10	Palestinian	M	21	1	0	0	Anas Ala al-Batsh, 10, Khan Younis
+July 12	5	Qusai Ala al-Batsh	Qusai	al-Batsh	20	Palestinian	M	21	2	0	0	Qusai Ala al-Batsh, 20, Khan Younis
+July 12	5	Mohannad Yousef Dheir	Mohannad	Dheir	23	Palestinian	M	48	2	0	0	Mohannad Yousef Dheir, 23, Rafah
+July 12	5	Shadi Mohammad Zorob	Shadi	Zorob	21	Palestinian	M	275	2	0	0	Shadi Mohammad Zorob, 21, Rafah
+July 12	5	Imad Bassam Zorob	Imad	Zorob	21	Palestinian	M	275	2	0	0	Imad Bassam Zorob, 21, Rafah
+July 12	5	Mohannad Yousef Dheir	Mohannad	Dheir	23	Palestinian	M	48	2	0	0	Mohannad Yousef Dheir, 23, Rafah
+July 12	5	Mohammad Arif	Mohammad	Arif	13	Palestinian	M	28	1	0	0	Mohammad Arif, 13, eastern Gaza City
+July 12	5	Mohammad Ghazi Arif	Mohammad	Arif	35	Palestinian	M	28	3	0	0	Mohammad Ghazi Arif, 35, eastern Gaza City
+July 12	5	Ghazi Mustafa Arif	Ghazi	Arif	62	Palestinian	M	28	4	0	0	Ghazi Mustafa Arif, 62, eastern Gaza City
+July 12	5	Ahmad Yousef Dalloul	Ahmad	Dalloul	47	Palestinian	M	41	3	0	0	Ahmad Yousef Dalloul, 47, Gaza
+July 12	5	Fadi Ya'coub Sukkar	Fadi	Sukkar	25	Palestinian	M	211	3	0	0	Fadi Ya'coub Sukkar, 25, Gaza
+July 12	5	Qassem Jaber Odah	Qassem	Odah	16	Palestinian	M	154	2	0	0	Qassem Jaber Odah, 16, Khan Younis
+July 12	5	Mohammad Abdullah Sharatha	Mohammad	Sharatha	53	Palestinian	M	198	3	0	0	Mohammad Abdullah Sharatha, 53, Jabalia
+July 12	5	Mohammad Ahmed Basal	Mohammad	Basal	19	Palestinian	M	21	2	0	0	Mohammad Ahmed Basal, 19, Gaza City
+July 11	4	Wisam Abdul-Razeq Hasan Ghannam	Wisam	Ghannam	31	Palestinian	M	78	3	0	0	Wisam Abdul-Razeq Hasan Ghannam, 31, Rafah
+July 11	4	Mahmoud Abdul-Razeq Hasan Ghannam	Mahmoud	Ghannam	28	Palestinian	M	78	3	0	0	Mahmoud Abdul-Razeq Hasan Ghannam, 28, Rafah
+July 11	4	Kifah Shaker Ghannam	Kifah	Ghannam	33	Palestinian	M	78	3	0	0	Kifah Shaker Ghannam, 33, Rafah
+July 11	4	Ghalia Thieb Ghannam	Ghalia	Ghannam	57	Palestinian	F	78	4	0	0	Ghalia Thieb Ghannam, 57, Rafah
+July 11	4	Mohammad Munir Ashour	Mohammad	Ashour	26	Palestinian	M	29	3	0	0	Mohammad Munir Ashour, 26, Rafah
+July 11	4	Nour Marwan an-Ajdi	Nour	an-Ajdi	10	Palestinian	M	20	1	0	0	Nour Marwan an-Ajdi, 10, Rafah
+July 11	4	Anas Rezeq abu al-Kas	Anas	al-Kas	33	Palestinian	M	111	3	0	0	Anas Rezeq abu al-Kas, 33, Gaza City, doctor
+July 11	4	Abdullah Mustafa abu Mahrouq	Abdullah	Mahrouq	22	Palestinian	M	131	2	0	0	Abdullah Mustafa abu Mahrouq, 22, Deir al-Balah
+July 11	4	Mahmoud Waloud	Mahmoud	Waloud	26	Palestinian	M	231	3	0	0	Mahmoud Waloud, 26, Jabalia
+July 11	4	Hazem Ba'lousha	Hazem	Ba'lousha	NA	Palestinian	M	21	0	0	1	Hazem Ba'lousha, Jabalia
+July 11	4	Ala Abdul Nabi	Ala	Nabi	NA	Palestinian	F	141	0	0	1	Ala Abdul Nabi, Beit Lahia.*
+July 11	4	Ahmed Zaher Hamdan	Ahmed	Hamdan	24	Palestinian	M	81	2	0	0	Ahmed Zaher Hamdan, 24, Beit Hanoun
+July 11	4	Mohammad Kamel al-Kahlout	Mohammad	al-Kahlout	25	Palestinian	M	111	3	0	0	Mohammad Kamel al-Kahlout, 25, Jabalia
+July 11	4	Sami Adnan Shaldan	Sami	Shaldan	25	Palestinian	M	198	3	0	0	Sami Adnan Shaldan, 25, Gaza City
+July 11	4	Salem al-Ashhab	Salem	al-Ashhab	40	Palestinian	M	29	3	0	0	Salem al-Ashhab, 40, Gaza City
+July 11	4	Raed Hani Abu Hani	Raed	Hani	31	Palestinian	M	81	3	0	0	Raed Hani Abu Hani, 31, Rafah
+July 11	4	Mohammad Rabea Abu- Hmeedan	Mohammad	Hmeedan	65	Palestinian	M	93	4	0	0	Mohammad Rabea Abu- Hmeedan, 65, Jabalia
+July 11	4	Shahrman Ismail Abu al-Kas	Shahrman	al-Kas	42	Palestinian	M	111	3	0	0	Shahrman Ismail Abu al-Kas, 42, Al-Bureij
+July 11	4	Mazin Mustafa Aslan	Mazin	Aslan	63	Palestinian	M	29	4	0	0	Mazin Mustafa Aslan, 63, Al Bureij
+July 11	4	Mohammad Samiri	Mohammad	Samiri	24	Palestinian	M	191	2	0	0	Mohammad Samiri, 24, Deir al-Balah
+July 11	4	Rami Abu Mosaed	Rami	Mosaed	23	Palestinian	M	145	2	0	0	Rami Abu Mosaed, 23, Deir al-Balah
+July 11	4	Saber Sokkar	Saber	Sokkar	80	Palestinian	M	205	4	0	0	Saber Sokkar, 80, Gaza City
+July 11	4	Hussein Mohammad al-Mamlouk	Hussein	al-Mamlouk	47	Palestinian	M	131	3	0	0	Hussein Mohammad al-Mamlouk, 47, Gaza City
+July 11	4	Nasser Rabah Mohammad Sammama	Nasser	Sammama	49	Palestinian	M	191	3	0	0	Nasser Rabah Mohammad Sammama, 49, Gaza City
+July 11	4	Abdul-Halim Abdul-Moty Ashra	Abdul-Halim	Ashra	54	Palestinian	M	29	3	0	0	Abdul-Halim Abdul-Moty Ashra, 54, Deir al-Balah
+July 11	4	Sahar Salman Abu Namous	Sahar	Namous	3	Palestinian	F	141	1	0	0	Sahar Salman Abu Namous, 3, Beit Hanoun
+July 11	4	Odai Rafiq Sultan	Odai	Sultan	27	Palestinian	M	211	3	0	0	Odai Rafiq Sultan, 27, Jabalia
+July 11	4	Joma Atiyya Shallouf	Joma	Shallouf	25	Palestinian	M	198	3	0	0	Joma Atiyya Shallouf, 25, Rafah
+July 11	4	Bassam Abul-Rahman Khattab	Bassam	Khattab	6	Palestinian	M	118	1	0	0	Bassam Abul-Rahman Khattab, 6, Deir al-Balah
+July 10	3	Mahmoud Lutfi al-Hajj	Mahmoud	al-Hajj	58	Palestinian	M	81	4	0	0	Mahmoud Lutfi al-Hajj, 58, Khan Younis, father of six killed
+July 10	3	Bassema Abdul-fatteh Mohammad al-Hajj	Bassema	al-Hajj	48	Palestinian	F	81	3	0	0	Bassema Abdul-fatteh Mohammad al-Hajj, 48, Khan Younis, mother of six killed
+July 10	3	Asma Mahmoud al-Hajj	Asma	al-Hajj	22	Palestinian	F	81	2	0	0	Asma Mahmoud al-Hajj, 22, Khan Younis
+July 10	3	Fatima Mahmoud al-Hajj	Fatima	al-Hajj	12	Palestinian	F	81	1	0	0	Fatima Mahmoud al-Hajj, 12, Khan Younis
+July 10	3	Saad Mahmoud al-Hajj	Saad	al-Hajj	17	Palestinian	M	81	2	0	0	Saad Mahmoud al-Hajj, 17, Khan Younis
+July 10	3	Najla Mahmoud al-Hajj	Najla	al-Hajj	29	Palestinian	F	81	3	0	0	Najla Mahmoud al-Hajj, 29, Khan Younis
+July 10	3	Tareq Mahmoud al-Hajj	Tareq	al-Hajj	18	Palestinian	M	81	2	0	0	Tareq Mahmoud al-Hajj, 18, Khan Younis
+July 10	3	Omar Mahmoud al-Hajj	Omar	al-Hajj	20	Palestinian	M	81	2	0	0	Omar Mahmoud al-Hajj, 20, Khan Younis
+July 10	3	Ayman Adham Yusef al-Hajj	Ayman	al-Hajj	16	Palestinian	M	81	2	0	0	Ayman Adham Yusef al-Hajj,16, northern Gaza.
+July 10	3	Baha Abu al-Leil	Baha	al-Leil	35	Palestinian	M	125	3	0	0	Baha Abu al-Leil, 35, Gaza City
+July 10	3	Suleiman Saleem Mousa al-Astal	Suleiman	al-Astal	17	Palestinian	M	29	2	0	0	Suleiman Saleem Mousa al-Astal, 17, Khan Younis
+July 10	3	Ahmed Saleem Mousa al-Astal	Ahmed	al-Astal	24	Palestinian	M	29	2	0	0	Ahmed Saleem Mousa al-Astal, 24, Khan Younis, Suleiman's brother
+July 10	3	Mousa Mohammed Taher al-Astal	Mousa	al-Astal	50	Palestinian	M	29	3	0	0	Mousa Mohammed Taher al-Astal, 50, Khan Younis
+July 10	3	Ibrahim Khalil Qanan	Ibrahim	Qanan	24	Palestinian	M	171	2	0	0	Ibrahim Khalil Qanan, 24, Khan Younis
+July 10	3	Mohammad Khalil Qanan	Mohammad	Qanan	26	Palestinian	M	171	3	0	0	Mohammad Khalil Qanan, 26, Khan Younis, Ibrahim's brother
+July 10	3	Ibrahim Sawali	Ibrahim	Sawali	28	Palestinian	M	191	3	0	0	Ibrahim Sawali, 28, Khan Younis
+July 10	3	Hamdi Badea Sawali	Hamdi	Sawali	33	Palestinian	M	191	3	0	0	Hamdi Badea Sawali, 33, Khan Younis
+July 10	3	Mohammad al-Aqqad	Mohammad	al-Aqqad	24	Palestinian	M	27	2	0	0	Mohammad al-Aqqad, 24, Khan Younis
+July 10	3	Ismael Hassan Abu Jame	Ismael	Jame	19	Palestinian	M	101	2	0	0	Ismael Hassan Abu Jame, 19, Khan Younis
+July 10	3	Hussein Odeh Abu Jame	Hussein	Jame	75	Palestinian	M	101	4	0	0	Hussein Odeh Abu Jame, 75, Khan Younis
+July 10	3	Abdullah Ramadan Abu Ghazal	Abdullah	Ghazal	5	Palestinian	M	78	1	0	0	Abdullah Ramadan Abu Ghazal, 5, Beit Hanoun
+July 10	3	Mohammad Ehsan Ferwana	Mohammad	Ferwana	27	Palestinian	M	65	3	0	0	Mohammad Ehsan Ferwana, 27, Khan Younis
+July 10	3	Salem Qandil	Salem	Qandil	27	Palestinian	M	171	3	0	0	Salem Qandil, 27, Gaza City
+July 10	3	Amer al-Fayyoumi	Amer	al-Fayyoumi	30	Palestinian	M	61	3	0	0	Amer al-Fayyoumi, 30, Gaza City
+July 10	3	Raed az-Zourah	Raed	az-Zourah	32	Palestinian	M	275	3	0	0	Raed az-Zourah, 32, Khan Younis
+July 09	2	Hamed Shihab	Hamed	Shihab	NA	Palestinian	M	198	0	0	1	Hamed Shihab, Journalist - Gaza
+July 09	2	Salima al-Arja	Salima	al-Arja	53	Palestinian	F	28	3	0	0	Salima al-Arja, 53, Rafah
+July 09	2	Miriam Atiya al-Arja	Miriam	al-Arja	9	Palestinian	F	28	1	0	0	Miriam Atiya al-Arja, 9, Rafah
+July 09	2	Rafiq al-Kafarna	Rafiq	al-Kafarna	30	Palestinian	M	111	3	0	0	Rafiq al-Kafarna, 30
+July 09	2	Abdul-Nasser Abu Kweik	Abdul-Nasser	Kweik	60	Palestinian	M	133	4	0	0	Abdul-Nasser Abu Kweik, 60
+July 09	2	Khaled Abu Kweik	Khaled	Kweik	31	Palestinian	M	133	3	0	0	Khaled Abu Kweik, 31
+July 09	2	Mohammad Mustafa Malika	Mohammad	Malika	1.5	Palestinian	M	131	1	0	0	Mohammad Mustafa Malika, 18 months
+July 09	2	Hana Mohammed Fuad Malaka	Hana	Malaka	28	Palestinian	F	131	3	0	0	Hana Mohammed Fuad Malaka, 28, Mohammad's Mother, 27
+July 09	2	Hatem Abu Salem	Hatem	Salem	NA	Palestinian	M	191	0	0	1	Hatem Abu Salem, Gaza City
+July 09	2	Mohammad Khaled an-Nimra	Mohammad	an-Nimra	22	Palestinian	M	149	2	0	0	Mohammad Khaled an-Nimra, 22
+July 09	2	Sahar Hamdan	Sahar	Hamdan	40	Palestinian	F	81	3	0	0	Sahar Hamdan, al-Masry, 40, Beit Hanoun
+July 09	2	Mohammad Ibrahim al-Masry	Mohammad	al-Masry	14	Palestinian	M	131	1	0	0	Mohammad Ibrahim al-Masry, 14, Beit Hanoun
+July 09	2	Amjad Hamdan	Amjad	Hamdan	23	Palestinian	M	81	2	0	0	Amjad Hamdan, 23, Beit Hanoun
+July 09	2	Hani Saleh Hamad	Hani	Hamad	57	Palestinian	M	81	4	0	0	Hani Saleh Hamad, 57, Beit Hanoun
+July 09	2	Ibrahim Hani Saleh Hamad	Ibrahim	Hamad	20	Palestinian	M	81	2	0	0	Ibrahim Hani Saleh Hamad, 20, Beit Hanoun
+July 09	2	Mohammad Khalaf Nawasra	Mohammad	Nawasra	4	Palestinian	M	141	1	0	0	Mohammad Khalaf Nawasra, 4, al-Maghazi
+July 09	2	Nidal Khalaf Nawasra	Nidal	Nawasra	5	Palestinian	M	141	1	0	0	Nidal Khalaf Nawasra, 5, al-Maghazi
+July 09	2	Salah Awad Nawasra	Salah	Nawasra	24	Palestinian	M	141	2	0	0	Salah Awad Nawasra, 24, al-Maghazi., father of Mohammad and Nidal
+July 09	2	Aesha Najm al-Nawasra	Aesha	al-Nawasra	1.91666666667	Palestinian	F	141	1	0	0	Aesha Najm al-Nawasra, 23, al-Maghazi, mother of Mohammad and Nidal, pregnant in the fourth month
+July 09	2	Naifa Mohammed Zaher Farajallah	Naifa	Farajallah	80	Palestinian	F	61	4	0	0	Naifa Mohammed Zaher Farajallah, 80, al-Mughraqa
+July 09	2	Amal Yousef Abdul-Ghafour	Amal	Abdul-Ghafour	20	Palestinian	F	78	2	0	0	Amal Yousef Abdul-Ghafour, 20, Khan Younis
+July 09	2	Nariman Jouda Abdul-Ghafour	Nariman	Abdul-Ghafour	1.5	Palestinian	M	78	1	0	0	Nariman Jouda Abdul-Ghafour, 18 months, Khan Younis
+July 09	2	Ibrahim Daoud al-Bal'aawy	Ibrahim	al-Bal'aawy	NA	Palestinian	M	21	0	0	1	Ibrahim Daoud al-Bal'aawy
+July 09	2	Abdul-Rahman Jamal az-Zamely	Abdul-Rahman	az-Zamely	NA	Palestinian	M	261	0	0	1	Abdul-Rahman Jamal az-Zamely
+July 09	2	Ibrahim Ahmad Abdin	Ibrahim	Abdin	42	Palestinian	M	12	3	0	0	Ibrahim Ahmad Abdin, 42, Rafah
+July 09	2	Mustafa Abu Murr	Mustafa	Murr	20	Palestinian	M	151	2	0	0	Mustafa Abu Murr, 20, Rafah
+July 09	2	Khaled Abu Murr	Khaled	Murr	22	Palestinian	M	151	2	0	0	Khaled Abu Murr, 22, Rafah
+July 09	2	Mazin Faraj Al-Jarba	Mazin	Al-Jarba	NA	Palestinian	M	101	0	0	1	Mazin Faraj Al-Jarba
+July 09	2	Marwan Eslayyem	Marwan	Eslayyem	NA	Palestinian	M	69	0	0	1	Marwan Eslayyem
+July 09	2	Raed Mohammed Shalat	Raed	Shalat	37	Palestinian	M	198	3	0	0	Raed Mohammed Shalat, 37, al-Nussairat
+July 09	2	Yasmin Mohammad Matouq	Yasmin	Matouq	4	Palestinian	F	131	1	0	0	Yasmin Mohammad Matouq, 4, Beit Hanoun
+July 08	1	Mohammad Shaban	Mohammad	Shaban	24	Palestinian	M	198	2	0	0	Mohammad Shaban, 24, Gaza
+July 08	1	Amjad Shaban	Amjad	Shaban	30	Palestinian	M	198	3	0	0	Amjad Shaban, 30, Gaza
+July 08	1	Khader al-Basheeleqety	Khader	al-Basheeleqety	45	Palestinian	M	21	3	0	0	Khader al-Basheeleqety, 45, Gaza
+July 08	1	Rashad Yassin	Rashad	Yassin	27	Palestinian	M	251	3	0	0	Rashad Yassin, 27, Nusseirat
+July 08	1	Mohammad Ayman Ashour	Mohammad	Ashour	15	Palestinian	M	29	2	0	0	Mohammad Ayman Ashour, 15, Khan Younis
+July 08	1	Riyadh Mohammad Kaware	Riyadh	Kaware	50	Palestinian	M	111	3	0	0	Riyadh Mohammad Kaware, 50, Khan Younis
+July 08	1	Bakr Mohammad Joudeh	Bakr	Joudeh	50	Palestinian	M	115	3	0	0	Bakr Mohammad Joudeh, 50, Khan Younis
+July 08	1	Ammar Mohammad Joudeh	Ammar	Joudeh	26	Palestinian	M	115	3	0	0	Ammar Mohammad Joudeh, 26, Khan Younis
+July 08	1	Hussein Yousef Kaware	Hussein	Kaware	13	Palestinian	M	111	1	0	0	Hussein Yousef Kaware, 13, Khan Younis
+July 08	1	Bassem Salem Kaware	Bassem	Kaware	10	Palestinian	M	111	1	0	0	Bassem Salem Kaware, 10, Khan Younis
+July 08	1	Mohammad Ibrahim Kaware	Mohammad	Kaware	50	Palestinian	M	111	3	0	0	Mohammad Ibrahim Kaware, 50, Khan Younis
+July 08	1	Mohammad Habib	Mohammad	Habib	22	Palestinian	M	81	2	0	0	Mohammad Habib, 22, Gaza
+July 08	1	Ahmed Mousa Habib	Ahmed	Habib	16	Palestinian	M	81	2	0	0	Ahmed Mousa Habib, 16, Gaza
+July 08	1	Saqr Aayesh al-Ajjoury	Saqr	al-Ajjoury	22	Palestinian	M	20	2	0	0	Saqr Aayesh al-Ajjoury, 22, Jabalia
+July 08	1	Ahmad Nael Mahdi	Ahmad	Mahdi	16	Palestinian	M	131	2	0	0	Ahmad Nael Mahdi, 16, Gaza
+July 08	1	Hafeth Mohammad Hamad	Hafeth	Hamad	26	Palestinian	M	81	3	0	0	Hafeth Mohammad Hamad, 26, Beit Hanoun
+July 08	1	Ibrahim Mohammad Hamad	Ibrahim	Hamad	26	Palestinian	M	81	3	0	0	Ibrahim Mohammad Hamad, 26, Beit Hanoun
+July 08	1	Mahdi Mohammad Hamad	Mahdi	Hamad	46	Palestinian	M	81	3	0	0	Mahdi Mohammad Hamad, 46, Beit Hanoun
+July 08	1	Fawziyya Khalil Hamad	Fawziyya	Hamad	62	Palestinian	F	81	4	0	0	Fawziyya Khalil Hamad, 62, Beit Hanoun
+July 08	1	Donia Mahdi Hamad	Donia	Hamad	16	Palestinian	F	81	2	0	0	Donia Mahdi Hamad, 16, Beit Hanoun
+July 08	1	Soha Hamad	Soha	Hamad	25	Palestinian	F	81	3	0	0	Soha Hamad, 25, Beit Hanoun
+July 08	1	Suleiman Salam Abu Sawaween	Suleiman	Sawaween	22	Palestinian	M	191	2	0	0	Suleiman Salam Abu Sawaween, 22, Khan Younis
+July 08	1	Siraj Eyad Abdul-Aal	Siraj	Abdul-Aal	8	Palestinian	M	11	1	0	0	Siraj Eyad Abdul-Aal, 8, Khan Younis
+July 08	1	Abdul-Hadi Soufi	Abdul-Hadi	Soufi	24	Palestinian	M	205	2	0	0	Abdul-Hadi Soufi, 24, Rafah
