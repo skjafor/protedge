@@ -11,7 +11,7 @@ Data on Palestinian victims of Protective Edge (July-August 2014)
   * "raw_Aug4_toi.txt" - downloaded from http://www.timesofisrael.com/fallen-idf-soldiers-in-operation-protective-edge/
 * "scripts raw scrape" - scripts (Python) to scrape the files TODO: alter so that the download+scraping is done automatically. Already done for "alakhbar".
 * "data parsed" - data parsed by the Python scripts
-* "combined_akhbar_toisrael.txt" - a single file with the parsed data for Palestinians and Israeli soldiers. TODO: apparently, there are only 56 Israeli soldiers, check
+* "combined_akhbar_toisrael.txt" - a single file with the parsed data for Palestinians and Israeli soldiers. 
 * "script_draw.R" - R script to process data and draw plots
 * "plots" - plots
   * "p_protedge_sim_noisraeli.png" - scatterplot, with simulated data, no datapoints for Israeli soldiers
