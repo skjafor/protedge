@@ -1,4 +1,4 @@
-ds <- read.csv("combined_akhbar_israel.txt", sep="\t")
+ds <- read.csv("combined_akhbar_toisrael.txt", sep="\t")
 
 library(lubridate)
 class(ds$date<-as.Date(ds$date, format="%b %d"))
