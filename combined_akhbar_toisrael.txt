@@ -1930,6 +1930,13 @@ July 21	14	Non-Commissioned Officer Ohad Shemesh		Shemesh	27	Israeli	M	198	3	0	0
 July 22	15	Staff Sergeant Avitar Moshe Torjamin		Torjamin	20	Israeli	M	215	2	0	0	
 July 22	15	Captain Dmitri Levitas		Levitas	26	Israeli	M	125	3	0	0	
 July 23	16	First Lieutenant Natan Cohen		Cohen	23	Israeli	M	45	2	0	0	
+July 22	15	Second Lt. Paz Elyahu		Elyahu	22	Israeli	M	62	2	0	0	
+July 22	15	Staff Sgt. Li Mat		Mat	19	Israeli	M	131	2	0	0	
+July 22	15	Staff Sgt. Shachar Dauber		Dauber	20	Israeli	M	41	2	0	0	
+July 25	18	Master Sgt. Yair Ashkenazi		Ashkenazi	36	Israeli	M	29	3	0	0	
+July 20	13	Staff Sgt. Oron Shaul		Shaul	20	Israeli	M	198	2	0	0	
+July 25	18	Staff Sgt. Guy Levy		Levy	21	Israeli	M	125	2	0	0	
+July 25	18	Staff Sgt. Guy Boyland		Boyland	21	Israeli	M	35	2	0	0	
 July 25	18	First Sgt. Amit Yeori		Yeori	20	Israeli	M	255	2	0	0	
 July 26	19	Second Lt. Roy Peles		Peles	21	Israeli	M	165	2	0	0	
 July 26	19	First Sgt. Gal Bason		Bason	21	Israeli	M	21	2	0	0	
@@ -1957,3 +1964,4 @@ July 31	24	Staff Sgt. Noam Rosenthal		Rosenthal	20	Israeli	M	195	2	0	0
 August 1	25	Capt. (res.) Liran Adir		Adir	31	Israeli	M	14	3	0	0	
 August 1	25	Staff Sgt. Liel Gidoni		Gidoni	20	Israeli	M	79	2	0	0	
 August 1	25	Mjr. Benya Sharel		Sharel	26	Israeli	M	198	3	0	0	
+August 1	25	Second Lt. Hadar Goldin		Goldin	23	Israeli	M	85	2	0	0	

@@ -9,14 +9,13 @@ if __name__=='__main__':
     
     infile=open('../data_raw_Aug4/raw_Aug4_toi.txt','r')
     outfile=open('pgi.txt','w')
-    outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\t
-                  Ethnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tCircumstances\n')
+    outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\tEthnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tCircumstances\n')
 
     string=""
 
     for line in infile:
         string+=line
-    list=string.split('\n*')[1:-1]
+    list=string.split('\n*')[1:]
 
     ethnic_group="Israeli"
     sex="M"
@@ -26,7 +25,8 @@ if __name__=='__main__':
     first_name=""
 
     for x in list:
-        m1=re.search('(.+)\*, (\d+),', x)
+        print x
+        m1=re.search('(.+)\*, (\d+)(,| years)', x)
         m2=re.search('(July|August) (\d+)', x)
 
 

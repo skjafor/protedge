@@ -81,7 +81,7 @@ dss<-ds%>%filter(plot_colour2 %in% levels(ds$plot_colour2)) %>%
 palette=c("dark grey", "green", "red", "blue")
 p3 <- ggplot(dss, aes(x=date, y=cumDeaths, colour=plot_colour2))
 p3 <- p3 + geom_smooth()
-p3 <- p3 + xlab("Timeline")+ylab("Deaths")+ scale_y_continuous()+ ggtitle("Deaths")
+p3 <- p3 + xlab("Timeline")+ylab("Deaths (cumulative)")+ scale_y_continuous()+ ggtitle("Deaths in Operation Protective Edge")
 p3 <- p3 + scale_colour_manual(values=palette, name="Group")
 p3 <- p3 + theme_bw()+theme(legend.key = element_rect(fill = "white"))
 p3
