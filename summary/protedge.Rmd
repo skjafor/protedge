@@ -1,0 +1,234 @@
+---
+title: "Visualisations of Operation Protective Edge"
+author: "Iga Korneta"
+date: "Wednesday, August 13, 2014"
+output: html_document
+---
+
+### Introduction
+
+I first became interested in visualising [Operation Protective Edge](https://en.wikipedia.org/wiki/Operation_Protective_Edge) when I saw the huge lists of victims on the [IMEMC](http://www.imemc.org/article/68429) and [Al-Akhbar blog/journal](http://english.al-akhbar.com/node/20528) websites. I wanted to create some sort of a visual shorthand of the operation, beyond lists and statistics.
+
+This document shows some of the results of my curiosity.
+
+
+### Data sources and processing
+
+#### Sources
+
+I scraped the data from [IMEMC](http://www.imemc.org/article/68429), [Al-Akhbar](http://english.al-akhbar.com/node/20528) and, for the Israeli soldier fatalities, [Times of Israel](http://www.timesofisrael.com/fallen-idf-soldiers-in-operation-protective-edge/). Unfortunately, it turned out that the data was rather dirty, and thus required a lot of (irreproducible, unless you want to devote a lot of time to that) manual massaging. 
+
+In particular:
+
+* IMEMC and Al-Akhbar use different Arabic-to-English transliterations;
+
+* IMEMC only lists identified victims, Al-Akhbar lists all;
+
+* multiple records differ on ages, locations etc. between the sources; some records are obviously repeated in both sources, with minor spelling errors etc..
+
+My chosen procedure was common-sense and as follows:
+
+* match mutually identified records where possible;
+
+* match identified IMEMC records with "unknown" placeholder records from Al-Akhbar from the same date where possible;
+
+* add placeholder records to the Al-Akhbar list as needed. Those placeholder records are identified as having post-decimal points digits. So, for example, "unknown1" is an original Al-Akhbar placeholder record, "unknown1.1" was added to facilitate list merging.
+
+Because I chose a greedy procedure for merging, the list is slightly longer than the 'official' statistics. At the time of the data processing (Aug 12, 2014), the raw Al-Akhbar file has 1940 records. The final file has 2019 Palestinian records (in addition to 64 Israeli ones). 1102 of the Palestinian records repeat between the Al-Akhbar and IMEMC lists.
+
+#### Processing
+
+The final file contains the following variables:
+
+* date, ordinal day (starting from July 8th, 2014 as the first day of the operation), ethnicity;
+
+* full name, first name, last name, name summary, age, sex, place of death, circumstances from the Al-Akhbar file;
+
+Gender data was derived by running the first names through [here](http://www.indiachildnames.com/genderof.aspx) and [here](http://www.gpeters.com/names/baby-names.php).
+
+Name summary is a numerical shorthand for name, defined as ((ord(last_name_low[0])-96)*10+(ord(last_name_low[1])-96)), where ord(x)=ASCII value of x. (ord(a)-96)=1
+
+* full name, name summary, age, sex, place of death, circumstances from the IMEMC file - column names starting from (IMEMC_);
+
+* combined-record name summary, age, sex, and place of death; IMEMC records, which are supposed to be more correct, take precedence over Al-Akhbar records;
+
+* age group, defined as: "Unknown", "Child" (<=14), "Young adult" (<=24), "Adult" (<=54), "Elderly";
+
+* simulated ages and name summaries, for the plots where I wanted to add the "unidentified" records.
+
+
+### Results
+
+#### Exploratory analysis
+
+Exploratory graphs show enrichment in the young male category:
+
+```{r explot1, echo=FALSE, message=FALSE, fig.height=4, fig.align='center'}
+library(ggplot2)
+library(gridExtra)
+library(plyr)
+library(dplyr)
+library(lubridate)
+library(hexbin)
+
+final <- read.csv("./final.txt", sep="\t")
+final$Date<-as.Date(final$Date, format="%d-%b")
+final$Comb_sex <- as.factor(final$Comb_sex)
+final$Comb_place <- as.factor(final$Comb_place)
+agegroupmag <- c("Adults", "Children", "Elderly", "Unknown", "Young adults")
+final$Age_group <- as.factor(agegroupmag[final$Age_group])
+final$Age_group <- factor(final$Age_group, levels=c("Unknown", "Children", "Young adults", "Adults", "Elderly"))
+
+final$temp <- ifelse(final$Comb_name_summary==0, "Unidentified", "Identified")
+
+plot1 <- ggplot(final, aes(x=temp, fill=temp))
+plot1 <- plot1 + geom_bar() + theme_bw() + xlab("Identification") + ylab("Count")
+plot1 <- plot1 + scale_fill_manual(values=c("dark grey", "light grey")) +theme(legend.position="none")
+
+plot2 <- ggplot(final[final$Ethnic_group=="Palestinian",], aes(x=Comb_age))
+plot2 <- plot2 + geom_bar(fill="dark red", color="white") + theme_bw() + xlab("Age") + ylab("Count")
+
+plot3 <- ggplot(final[final$Ethnic_group=="Palestinian" & !is.na(final$Comb_sex),], aes(x=Comb_sex))
+plot3 <- plot3 + geom_bar(fill="black") + theme_bw() + xlab("Sex") + ylab("Count")
+
+temp <- adply(tapply(final$Comb_place, final$Comb_place, count), c(1))
+temp <- transform(temp, x=reorder(x, -freq))
+
+plot4 <- ggplot(temp[temp$freq>5,], aes(x=x, y=freq))
+plot4 <- plot4 + geom_bar(stat="identity", fill="dark red") 
+plot4 <- plot4 + theme_bw()+ ylab("Place") + xlab("Count") + coord_flip() +theme(axis.text.y=element_text(size=6))
+
+grid.arrange(plot1, plot2, plot3, plot4)
+
+```
+
+Side by side comparison of victim age stratification vs. the age stratification of the Gaza Strip (data from [Index Mundi](http://www.indexmundi.com/gaza_strip/demographics_profile.html)):
+
+```{r explot2, echo=FALSE, message=FALSE, fig.height=2, fig.align='center'}
+temp.side.by.side <- adply(tapply(final$Age_group[final$Ethnic_group!="Israeli"], final$Age_group[final$Ethnic_group!="Israeli"], count), c(1))
+temp.side.by.side <- temp.side.by.side[temp.side.by.side$x!="Unknown",c(2:3)]
+temp.side.by.side$freq <- temp.side.by.side$freq*100/sum(temp.side.by.side$freq)
+temp.side.by.side$Gaza <- c(43.5, 20.9, 29.6, 6.0)
+colnames(temp.side.by.side) <- c("Group", "Victims", "Gaza")
+temp.side.by.side$Group <- factor(temp.side.by.side$Group, levels=c("Children", "Young adults", "Adults", "Elderly"))
+
+plot21 <- ggplot(temp.side.by.side, aes(fill=Group))
+plot21 <- plot21 + geom_bar(aes(x="Gaza whole", y=temp.side.by.side$Gaza), stat="identity")
+plot21 <- plot21 + geom_bar(aes(x="Victims", y=temp.side.by.side$Victims), stat="identity")
+plot21 <- plot21 + theme_bw() + scale_fill_brewer(name="Age group", palette="RdGy") +xlab("") +ylab("Percent") + coord_flip()+theme(legend.position="bottom", legend.text=element_text(size=6))
+plot21
+```
+
+Interestingly, a chi-square test shows a p-value of 0.2133, which would indicate that these two distributions are **not** markedly different (despite looking different on the barplots above).
+
+#### Victims by day of operation and Information updating
+
+This plot show the cumulative deaths by day of operation:
+
+```{r explot3, echo=FALSE, message=FALSE, fig.height=2, fig.align='center'}
+palette=c("black", "dark red", "red", "dark grey", "dark green", "light blue")
+final$yanf <- ifelse(final$Ethnic_group=="Israeli", "Israeli soldiers", as.character(final$Age_group))
+final$yanf <- factor(as.factor(final$yanf), levels=c("Unknown", "Children", "Young adults", "Adults", "Elderly", "Israeli soldiers"))
+
+#temp <- adply(tapply(!is.na(final$Full_name), final[,c(1,26)], sum), c(1,2))
+#colnames(temp) <- c("Date", "Group", "Count")
+
+#p31 <- ggplot(temp, aes(x=Date, y=Count, color=Group, group=1))
+#p31 <- p31+geom_line()+facet_wrap(~Group) + theme_bw() + scale_color_manual(values=palette)
+#p31
+
+temp2 <- final%>%group_by(yanf)%>%mutate(cumDeaths=order_by(Date, cumsum(!is.na(Full_name))))
+p31 <- ggplot(temp2, aes(x=Date, y=cumDeaths, colour=yanf))
+p31 <- p31 + geom_line()
+p31 <- p31 + xlab("Timeline")+ylab("Deaths (cumulative)")+ scale_y_continuous()
+p31 <- p31 + scale_colour_manual(values=palette, name="Group")
+p31 <- p31 + theme_bw()+ theme(legend.key = element_rect(fill = "white"))
+p31
+
+```
+
+The "unknown" category will be pushed forward the more and more information there arrives. The Al-Akhbar website is not back-updated for new information regarding previously unidentified victims - thus freezing the initial status of the information.
+
+```{r explot4, echo=FALSE, message=FALSE, fig.height=4, fig.align='center'}
+final$Akhbar_Age_group <- ifelse((is.na(final$Age)), "Unknown", "NA")
+for (x in 1:length(final$Akhbar_Age_group)){
+  if (!is.na(final$Age[x]) & final$Age[x] <= 14) {final$Akhbar_Age_group[x]="Children"}
+  else if (!is.na(final$Age[x]) &final$Age[x] <= 24) {final$Akhbar_Age_group[x]="Young adults"}
+  else if (!is.na(final$Age[x]) &final$Age[x] <= 54) {final$Akhbar_Age_group[x]="Adults"}
+  else if (!is.na(final$Age[x])) {final$Akhbar_Age_group[x]="Elderly"}
+}
+
+final$Akhbar_yanf <- ifelse(final$Ethnic_group=="Israeli", "Israeli soldiers", as.character(final$Akhbar_Age_group))
+final$Akhbar_yanf <- factor(as.factor(final$Akhbar_yanf), levels=c("Unknown", "Children", "Young adults", "Adults", "Elderly", "Israeli soldiers"))
+
+temp3 <- final%>%group_by(Akhbar_yanf)%>%mutate(cumDeaths=order_by(Date, cumsum(!is.na(Full_name))))
+p32 <- ggplot(temp3, aes(x=Date, y=cumDeaths, colour=Akhbar_yanf))
+p32 <- p32 + geom_line()
+p32 <- p32 + xlab("Timeline")+ylab("Deaths (cumulative) (initial reports)")+ scale_y_continuous()
+p32 <- p32 + scale_colour_manual(values=palette, name="Group")
+p32 <- p32 + theme_bw()+ theme(legend.key = element_rect(fill = "white"))
+grid.arrange(p31,p32)
+
+```
+
+#### Final visualisations: the Hexbin and the Scatterplot
+
+The goal of visual analytics is to bring order to chaos. Nevertheless, I was rather concerned about the ethics of doing so when it comes to summarising human deaths. It makes them too clean; too sterile. I wanted a visualisation that would show me the chaos - that would not shirk from it.
+
+
+I started from a hexbin plot.
+
+```{r explot5, echo=FALSE, message=FALSE, fig.width=6, fig.height=3, fig.align='center'}
+final$Date2<-as.factor(format(final$Date, "%m/%d"))
+p51<-ggplot(final[final$Ethnic_group!="Israeli" | is.na(final$Comb_age),],aes(x=Date2, y=Comb_age, group=1))
+suppressWarnings(p51<-p51+geom_hex(binwidth=c(1, 5)))
+suppressWarnings(p51<-p51+geom_smooth(color="white", se=F))
+p51<-p51+theme_bw()+scale_fill_continuous(low = "#CCCCCC", high = "#FF0000")
+p51<-p51+xlab("Timeline")+ylab("Age of victim") + theme(axis.text.x=element_text(angle=30, size=6))
+suppressWarnings(p51)
+```
+
+I added simulated age data to account for the yet-unidentified victims.
+
+```{r explot6, echo=FALSE, message=FALSE, fig.width=6, fig.height=3,fig.align='center'}
+p52<-ggplot(final[final$Ethnic_group!="Israeli",],aes(x=Date2, y=Sim_age, group=1))
+p52<-p52+geom_hex(binwidth=c(1, 5))
+p52<-p52+geom_smooth(color="white", se=F)
+p52<-p52+theme_bw()+scale_fill_continuous(low = "#CCCCCC", high = "#FF0000")
+p52<-p52+xlab("Timeline")+ylab("Age of victim") + theme(axis.text.x=element_text(angle=30, size=6))
+p52
+```
+
+Then, I decided to abandon all pretense of a structure and use a scatterplot instead.
+
+```{r explot7, echo=FALSE, message=FALSE, fig.height=6, fig.width=10, fig.align='center'}
+palette2=c("grey", "black", "dark red",  "light blue")
+sexmap <- c("Women", "Men")
+final$yanf3 <- ifelse(final$Ethnic_group=="Israeli", "Israeli soldiers", as.character(sexmap[final$Comb_sex]))
+final$yanf3 <- ifelse(is.na(final$yanf3), "Unknown", final$yanf3)
+final$yanf3 <- factor(as.factor(final$yanf3), levels=c("Unknown", "Women", "Men", "Israeli soldiers"))
+
+sizemap<-c(2, 3, rep(2,4))
+final$size<-sizemap[final$yanf]
+
+plot7 <- ggplot(final[final$Ethnic_group!="Israeli",], aes(x=Date2, y=Sim_age, color=yanf3, size=size, label=Full_name))
+plot7 <- plot7 + geom_point(position=position_jitter(w=0.45, h=0.05), alpha=7/10)
+plot7 <- plot7 + geom_text(position=position_jitter(w=0.45, h=0.05), size=1)+scale_size_area()
+plot7 <- plot7 + theme_bw() + theme(legend.position="none", axis.text.x=element_text(angle=3, size=6))+xlab("Timeline")+ylab("Age of victim")+scale_colour_manual(values=palette2, name="Gender") 
+plot7
+```
+
+(Men are coded dark red; women, black; the colour is meant to be unpleasant and evocative of blood splatter.) From the chaos, another sort of order emerges as the death clusters determine the pivotal points of the operation. It is now perfectly clear when the ground invasion started (07/20) and when the ceasefires occurred.
+
+
+It's possible to add the information about Israeli soldiers here:
+
+```{r explot8, echo=FALSE, message=FALSE, fig.height=3.5, fig.width=6, fig.align='center'}
+plot71 <- ggplot(final, aes(x=Date2, y=Sim_age, color=yanf3, size=size, label=Full_name))
+plot71 <- plot71 + geom_point(position=position_jitter(w=0.45, h=0.05), alpha=7/10)
+plot71 <- plot71 + geom_text(position=position_jitter(w=0.45, h=0.05), size=1)+scale_size_area()
+plot71 <- plot71 + theme_bw() + theme(legend.position="none", axis.text.x=element_text(angle=30, size=6))+xlab("Timeline")+ylab("Age of victim")+scale_colour_manual(values=palette2, name="Gender") 
+plot71
+```
+
+But it's not really obligatory.

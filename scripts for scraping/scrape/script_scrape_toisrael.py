@@ -7,9 +7,9 @@ if __name__=='__main__':
     #f = urllib.urlopen(url)
     
     
-    infile=open('../data_raw_Aug4/raw_Aug4_toi.txt','r')
-    outfile=open('pgi.txt','w')
-    outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\tEthnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tCircumstances\n')
+    infile=open('../data_raw_Aug12/raw_toi.txt','r')
+    outfile=open('parsed_israel.txt','w')
+    outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\tEthnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tPlace\tCircumstances\n')
 
     string=""
 
@@ -23,6 +23,7 @@ if __name__=='__main__':
     age_unknown_flag="0"
     circumstances=""
     first_name=""
+    place=""
 
     for x in list:
         print x
@@ -62,7 +63,7 @@ if __name__=='__main__':
             agecode="4"
         
         outfile.write(date+'\t'+ordinal_day+'\t'+full_name+'\t'+first_name+'\t'+last_name+'\t'+age+'\t'+ethnic_group+'\t'+sex
-                      +'\t'+namecode+'\t'+agecode+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+circumstances+'\n')
+                      +'\t'+namecode+'\t'+agecode+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+place+'\t'+circumstances+'\n')
        
             
     outfile.close()    

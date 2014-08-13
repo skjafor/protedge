@@ -1,0 +1,31 @@
+Central Gaza	Central District
+Rafah	Rafah
+Deir al-Balah	Deir al-Balah
+Khan Younis	Khan Younis
+Beit Lahia	Beit Lahia
+Shati	Shati
+Gaza City	Gaza City
+Jabalia	Jabalia
+Nusseirat	Nusseirat
+Shuja'eyya	Shujaeyya
+Nuseirat	Nusseirat
+Maghazi	Maghazi
+Rafat	Rafah
+Central District	Central District
+central District	Central District
+Sheja'eyya	Shujaeyya
+Beit Hanoun	Beit Hanoun
+Zeitoun	Zaitoun
+Zahra	Khan Younis
+Shujaeyya	Shujaeyya
+Shejaeyya	Shejaeyya
+Zaitoun	Zaitoun
+Al Bureij	Al Bureij
+Jahr	Jahr al-Deek
+Sheikh Ejleen	Gaza City
+Juhr Ed	Jahr al-Deek
+Sheikh Radwan	Gaza City
+north Gaza	Northern Gaza
+North Gaza	Northern Gaza
+Northern Gaza	Northern Gaza
+northern Gaza	Northern Gaza

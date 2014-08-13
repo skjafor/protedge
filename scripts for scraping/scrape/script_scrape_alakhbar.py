@@ -3,17 +3,17 @@ import urllib2, cookielib
 
 if __name__=="__main__":
     ####get the file
-    url=('http://english.al-akhbar.com/node/20528')
-    hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
-       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-       'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-       'Accept-Encoding': 'none',
-       'Accept-Language': 'en-US,en;q=0.8',
-       'Connection': 'keep-alive'}
+    #url=('http://english.al-akhbar.com/node/20528')
+    #hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
+    #   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    #   'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+    #   'Accept-Encoding': 'none',
+    #   'Accept-Language': 'en-US,en;q=0.8',
+    #   'Connection': 'keep-alive'}
     
-    string=urllib2.urlopen(urllib2.Request(url, headers=hdr)).read() 
-    string=string.split('will update the list as new information is released.</p>')[1].split('<p><i>(Al-Akhbar)</i></p>')[0]
-    list=string.split('>')
+    #string=urllib2.urlopen(urllib2.Request(url, headers=hdr)).read() 
+    #string=string.split('will update the list as new information is released.</p>')[1].split('<p><i>(Al-Akhbar)</i></p>')[0]
+    #list=string.split('>')
 
     ####create the name-gender dictionary
     namedic={}
@@ -25,22 +25,34 @@ if __name__=="__main__":
             namedic[temp[0]]=temp[1]
         else:
             namedic[temp[0]]=""
+
+    placedic={}
+    placedicfile=open('places_akhbar.txt','r')
+    for placedicline in placedicfile:
+        temp=placedicline.strip().split('\t')
+        #print temp[0]
+        if len(temp)>1:
+            placedic[temp[0]]=temp[1]
     
+    infile=open('../data_raw_Aug12/raw_alakhbar.txt','r')
 
     ####set up the structure of the outfile
-    outfile=open('pg2.txt','w')
+    outfile=open('parsed_akhbar.txt','w')
+    #outfile2=open('places_akhbar.txt','w')
     
     outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\t'+
-                      'Ethnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tCircumstances\n')
+                      'Ethnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tPlace\tCircumstances\n')
     prevline=""
     ordinal_day=0              
     unknown_count=0
     ethnic_group="Palestinian"
     firstnamelist=[]
+    placelist=[]
+    prevplace=""
 
 
     ####parse the lines containing dates
-    for line in list:
+    for line in infile:
         #date parsing
         if ', July' in line or ', August' in line:
             day=re.search('(\d+)', line).group(1)
@@ -69,6 +81,7 @@ if __name__=="__main__":
             first_name=""
             last_name=""
             middle_name=""
+            place=""
 
             line=re.search('(\d+)\. ?(.+)', line).group(2) #stripping the ordinal
 
@@ -79,6 +92,7 @@ if __name__=="__main__":
                 circumstances=prevline
             else:
                 circumstances=prevline+" "+line.strip()
+                place=prevplace
 
 
         #age        
@@ -155,7 +169,7 @@ if __name__=="__main__":
                     temp_first_name=('').join((first_name.split('-')[0]).split('\''))
                 else:
                     temp_first_name=first_name.split('-')[0]
-                print temp_first_name
+                #print temp_first_name
                 if len(temp_first_name)>1:
                     if namedic[temp_first_name]=="M":
                         sex="M"
@@ -171,12 +185,26 @@ if __name__=="__main__":
                             sex="F"
                     else:
                         sex="NA"
+
+                #place
+                #if re.search(' in (.+)', line)!=None:
+                #    if re.search(' in (.+)', line).group(1) not in placelist:
+                #        placelist.append(re.search('in (.+)', line).group(1))
+                for x in placedic.keys():
+                    if x in line:
+                        place=placedic[x]
+                if place=="" and "Gaza City" in line:
+                    place="Gaza City"
+                if place=="" and "Gaza" in line:
+                    place="Gaza"                    
+                prevplace=place
+                
                 
         ####print parsed result
             outfile.write(str(date)+'\t'+str(ordinal_day)+'\t'+full_name+'\t'+first_name+'\t'+last_name+'\t'+str(age)+'\t'+ethnic_group+'\t'+sex
-                      +'\t'+str(namecode)+'\t'+str(agecode)+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+circumstances+'\n')             
+                      +'\t'+str(namecode)+'\t'+str(agecode)+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+place+'\t'+circumstances+'\n')             
     outfile.close()
 
-    #for x in firstnamelist:
+    #for x in placelist:
     #    outfile2.write(x+'\n')
     #outfile2.close()

@@ -6,7 +6,7 @@ if __name__=="__main__":
 
     #url=('http://www.imemc.org/article/68429')
     #string=urllib.urlopen(url).read()
-    #print string
+
 
     namedic={}
     dicfile=open('name_gender_correspondence.txt','r')
@@ -17,22 +17,29 @@ if __name__=="__main__":
             namedic[temp[0]]=temp[1]
         else:
             namedic[temp[0]]=""
-    namedic['Diaed']=""
+    namedic['Maida']="F"
+
+    placedic={}
+    placedicfile=open('places_imemc.txt','r')
+    for placedicline in placedicfile:
+        temp=placedicline.strip().split('\t')
+        #print temp[0]
+        if len(temp)>1:
+            placedic[temp[0]]=temp[1]   
 
 
-
-
-    infile=open('../data_raw_Aug4/raw_Aug4_imemc.txt','r')
-    outfile=open('pg2_imemc.txt','w')
-    #outfile2=open('firstnames_imemc.txt','w')    
+    infile=open('../data_raw_Aug12/raw_imemc.txt','r')
+    outfile=open('parsed_imemc.txt','w')
+    #outfile2=open('places_imemc.txt','w')    
 
     outfile.write('Date\tOrdinal_day\tFull_name\tFirst_name\tLast_name\tAge\t'+
-                      'Ethnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tCircumstances\n')
+                      'Ethnic_group\tSex\tName_summary\tAge_group\tName_unknown\tAge_unknown\tPlace\tCircumstances\n')
 
-    ordinal_day=29              
+    ordinal_day=36              
     unknown_count=0
     ethnic_group="Palestinian"
     firstnamelist=[]
+    placelist=[]
 
 
 
@@ -63,32 +70,26 @@ if __name__=="__main__":
             first_name=""
             last_name=""
             middle_name=""
-
-            #line=re.search('(\d+)\. (.+)', line).group(2) #stripping the ordinal
+            place=""
 
 
         #full circumstances
-            #if "same" not in line:
-             #   prevline=line.strip()
-              #  circumstances=prevline
-            #else:
-             #   circumstances=prevline+" "+line.strip()
             circumstances=line.strip()
+
 
         #age        
             if re.search('(\d+)', line)!=None:
                 age=re.search('(\d+)', line).group(1)
                 if "month" in line:
                     age=(float(re.search('(\d+)', line).group(1))/12)
-
-                    
+                   
         #age unknown
             else:
                age_unknown_flag="1"
                agecode="0"
 
 
-        #old age summary            
+        #age summary            
             if age!="NA":
                 if float(age)<=14:
                     agecode="1"
@@ -98,7 +99,6 @@ if __name__=="__main__":
                     agecode="3"
                 elif float(age)>54:
                     agecode="4"
-
                        
 
         #name                
@@ -111,7 +111,6 @@ if __name__=="__main__":
             else:
                 full_name=line.strip()
                 
-
 
         #name summary
             if name_unknown_flag=="0":
@@ -145,7 +144,7 @@ if __name__=="__main__":
                 namecode=str(namecode)
 
 
-            #finally, gender!
+            #gender
                 if '\'' in first_name.split('-')[0]:
                     temp_first_name=('').join((first_name.split('-')[0]).split('\''))
                 else:
@@ -165,15 +164,29 @@ if __name__=="__main__":
                         sex="F"
                 else:
                     sex="NA"
-                    
 
+            #place                    
+            #if re.search(', ([A-Z]\w+) ([A-Z]\w+)', line)!=None:
+                #print(re.search(', ([A-Z]\w+) ([A-Z]\w+)', line).group(1))
+                #place=re.search(', ([A-Z]\w+) ([A-Z]\w+)', line).group(1)+" " + re.search(', ([A-Z]\w+) ([A-Z]\w+)', line).group(2)
+            #elif re.search(', ([A-Z]\w+)', line)!=None:
+                #place=re.search(', ([A-Z]\w+)', line).group(1)
+            #if place not in placelist:
+                #placelist.append(place)
+            for x in placedic.keys():
+                if x in line:
+                    place=placedic[x]
+                    print x
+            if place=="" and "Gaza" in line:
+                place="Gaza"
+                
                 
         #print parsed result
-                outfile.write(date+'\t'+str(ordinal_day)+'\t'+full_name+'\t'+first_name+'\t'+last_name+'\t'+str(age)+'\t'+ethnic_group+'\t'+sex
-                      +'\t'+namecode+'\t'+agecode+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+circumstances+'\n')
+            outfile.write(date+'\t'+str(ordinal_day)+'\t'+full_name+'\t'+first_name+'\t'+last_name+'\t'+str(age)+'\t'+ethnic_group+'\t'+sex
+                      +'\t'+namecode+'\t'+agecode+'\t'+name_unknown_flag+'\t'+age_unknown_flag+'\t'+place+'\t'+circumstances+'\n')
                 
     outfile.close()
 
-    #for x in firstnamelist:
-     #   outfile2.write(x+'\n')
+    #for x in placelist:
+    #    outfile2.write(x+'\n')
     #outfile2.close()

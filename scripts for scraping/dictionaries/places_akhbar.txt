@@ -1,0 +1,70 @@
+Central Gaza	Central District
+Rafah	Rafah
+Deir al-Balah	Deir al-Balah
+Khan Younis	Khan Younis
+Beit Lahia	Beit Lahia
+Shati	Shati
+Gaza City	Gaza City
+Jabalia	Jabalia
+Nusseirat	Nusseirat
+Shuja'eyya	Shujaeyya
+Nuseirat	Nusseirat
+Maghazi	Maghazi
+Rafat	Rafah
+Central District	Central District
+central District	Central District
+Sheja'eyya	Shujaeyya
+Beit Hanoun	Beit Hanoun
+Zeitoun	Zaitoun
+Zahra	Khan Younis
+Shujaeyya	Shujaeyya
+Shejaeyya	Shejaeyya
+Zaitoun	Zaitoun
+Al Bureij	Al Bureij
+Jahr	Jahr al-Deek
+Sheikh Ejleen	Gaza City
+Juhr Ed	Jahr al-Deek
+Sheikh Radwan	Gaza City
+north Gaza	Northern Gaza
+North Gaza	Northern Gaza
+Northern Gaza	Northern Gaza
+northern Gaza	Northern Gaza
+Moghraqa	Moghraqa
+Sha'af	Shaaf
+Meghazi	Maghazi
+Beit Lahiya	Beit Lahia
+central Gaza	Central District
+Jabaliya	Jabalia
+Jiher el-Deek	Jahr al-Deek
+Sheikh Ajlin	Gaza City
+central province	Central District
+al-Shawka	al-Shawka
+al-Shujayeh	Shujaeyya
+Jahr al-Dik	Jahr al-Deek
+Abraj al-Nada	Abraj al-Nada
+Om al-Nasr	Om al-Nasr
+al-Fakhari	al-Fakhari
+Jbalia	Jabalia
+al-Wista	Wista
+rafah	Rafah
+al-Barij	Al Bureij
+Beni Soheileh	Bani Souhayla
+Beit Lahya	Beit Lahia
+al-Ramal	Ramal
+Mughraqa	Moghraqa
+al-Karama	Karama
+al-Shaaf	Shaaf
+al-Nsayrat	Nusseirat
+al-Zaytoun	Zaitoun
+al-Mahatta	Mahatta
+al-Breij	Al Bureij
+Nosayrat	Nusseirat
+Bani Souhayla	Bani Souhayla
+al-Mighraqa	Moghraqa
+Absan	Absan
+Khuza'a	Khuzaa
+al-Attatara	al-Attatara
+al-Maghraqa	Moghraqa
+al-Sohayla	Bani Souhayla
+Khan Younes	Khan Younis
+Dier al-Balah	Deir al-Balah

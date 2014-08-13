@@ -1,0 +1,65 @@
+Date	Ordinal_day	Full_name	First_name	Last_name	Age	Ethnic_group	Sex	Name_summary	Place	IMEMC_name	IMEMC_age	IMEMC_place	IMEMC_sex	IMEMC_name_summary	Circumstances	IMEMC_circumstances
+18-Jul	11	First Sergeant Eitan Barak		Barak	20	Israeli	M	21								
+19-Jul	12	Major Amotz Greenberg		Greenberg	45	Israeli	M	88								
+19-Jul	12	Sergeant Adar Barsano		Barsano	20	Israeli	M	21								
+19-Jul	12	Second Lieutenant Bar Rahav		Rahav	21	Israeli	M	181								
+19-Jul	12	Staff Sergeant Bnaya Rubel		Rubel	20	Israeli	M	201								
+20-Jul	13	Staff Sergeant Oren Simcha Noach		Noach	22	Israeli	M	155								
+20-Jul	13	Sergeant Ben Itzhak Oanounou		Oanounou	19	Israeli	M	151								
+20-Jul	13	Staff Sergeant Daniel Pomerantz		Pomerantz	20	Israeli	M	175								
+20-Jul	13	Sergeant Shon Mondshine		Mondshine	19	Israeli	M	145								
+20-Jul	13	Staff Sergeant Shachar Tase		Tase	20	Israeli	M	201								
+20-Jul	13	Staff Sergeant Max Steinberg		Steinberg	24	Israeli	M	210								
+20-Jul	13	Major Tzafrir Baror		Baror	32	Israeli	M	21								
+20-Jul	13	Captain Tsvi Kaplan		Kaplan	28	Israeli	M	111								
+20-Jul	13	Staff Sergeant Gilad Rozenthal Yacoby		Yacoby	21	Israeli	M	251								
+20-Jul	13	Staff Sergeant Oz Mendelovich		Mendelovich	21	Israeli	M	135								
+19-Jul	12	Staff Sergeant Nissim Sean Carmeli		Carmeli	21	Israeli	M	31								
+20-Jul	13	Staff Sergeant Moshe Malko		Malko	20	Israeli	M	131								
+20-Jul	13	Staff Sergeant Jordan Bensemhoun		Bensemhoun	22	Israeli	M	25								
+21-Jul	14	Staff Sergeant Yuval Dagan		Dagan	22	Israeli	M	41								
+21-Jul	14	Staff Sergeant Tal Ifrach		Ifrach	21	Israeli	M	96								
+21-Jul	14	Sergeant Nadav Goldmacher		Goldmacher	23	Israeli	M	85								
+21-Jul	14	Second Lieutenant Yuval Haiman		Haiman	21	Israeli	M	81								
+21-Jul	14	Sergeant-Major Bayhesain Kshaun		Kshaun	39	Israeli	M	129								
+21-Jul	14	Lieutenant-Colonel Dolev Keidar		Keidar	38	Israeli	M	115								
+21-Jul	14	Sergeant First Class Oded Ben Sira		Sira	22	Israeli	M	199								
+21-Jul	14	Non-Commissioned Officer Ohad Shemesh		Shemesh	27	Israeli	M	198								
+22-Jul	15	Staff Sergeant Avitar Moshe Torjamin		Torjamin	20	Israeli	M	215								
+22-Jul	15	Captain Dmitri Levitas		Levitas	26	Israeli	M	125								
+23-Jul	16	First Lieutenant Natan Cohen		Cohen	23	Israeli	M	45								
+22-Jul	15	Second Lt. Paz Elyahu		Elyahu	22	Israeli	M	62								
+22-Jul	15	Staff Sgt. Li Mat		Mat	19	Israeli	M	131								
+22-Jul	15	Staff Sgt. Shachar Dauber		Dauber	20	Israeli	M	41								
+25-Jul	18	Master Sgt. Yair Ashkenazi		Ashkenazi	36	Israeli	M	29								
+20-Jul	13	Staff Sgt. Oron Shaul		Shaul	20	Israeli	M	198								
+25-Jul	18	Staff Sgt. Guy Levy		Levy	21	Israeli	M	125								
+25-Jul	18	Staff Sgt. Guy Boyland		Boyland	21	Israeli	M	35								
+25-Jul	18	First Sgt. Amit Yeori		Yeori	20	Israeli	M	255								
+26-Jul	19	Second Lt. Roy Peles		Peles	21	Israeli	M	165								
+26-Jul	19	First Sgt. Gal Bason		Bason	21	Israeli	M	21								
+26-Jul	19	First Sgt. Avraham Grintzvaig		Grintzvaig	21	Israeli	M	88								
+24-Jul	17	Capt. Liad Lavi		Lavi	20	Israeli	M	121								
+22-Jul	15	Chief Warrant Officer Rami Kahlon		Kahlon	39	Israeli	M	111								
+26-Jul	19	Sgt. First Class (res.) Barak Refael Degorker		Degorker	27	Israeli	M	45								
+28-Jul	21	Staff Sgt. Moshe Davino		Davino	20	Israeli	M	41								
+28-Jul	21	Staff Sgt. Adi Briga		Briga	23	Israeli	M	38								
+28-Jul	21	Cpl. Niran Cohen		Cohen	20	Israeli	M	45								
+28-Jul	21	Cpl. Meidan Maymon Biton		Biton	20	Israeli	M	29								
+28-Jul	21	Staff Sgt. Eliav Eliyahu Haim Kahlon		Kahlon	22	Israeli	M	111								
+28-Jul	21	Sgt. Dor Dery		Dery	18	Israeli	M	45								
+28-Jul	21	Sgt. Sagi Erez		Erez	19	Israeli	M	68								
+28-Jul	21	Sgt. Barkey Ishai Shor		Shor	21	Israeli	M	198								
+28-Jul	21	Sgt. Daniel Kedmi		Kedmi	18	Israeli	M	115								
+28-Jul	21	Sgt. Nadav Raimond		Raimond	19	Israeli	M	181								
+30-Jul	23	Staff Sgt. Matan Gotlib		Gotlib	21	Israeli	M	85								
+30-Jul	23	Staff Sgt. Omer Hay		Hay	21	Israeli	M	81								
+30-Jul	23	Staff Sgt. Guy Algranati		Algranati	20	Israeli	M	22								
+31-Jul	24	Staff Sgt. Shay Kushnir		Kushnir	20	Israeli	M	131								
+31-Jul	24	Capt. Omri Tal		Tal	22	Israeli	M	201								
+31-Jul	24	Sgt. First Class Daniel Marash		Marash	22	Israeli	M	131								
+31-Jul	24	Staff Sgt. Noam Rosenthal		Rosenthal	20	Israeli	M	195								
+1-Aug	25	Capt. (res.) Liran Adir		Adir	31	Israeli	M	14								
+1-Aug	25	Staff Sgt. Liel Gidoni		Gidoni	20	Israeli	M	79								
+1-Aug	25	Mjr. Benya Sharel		Sharel	26	Israeli	M	198								
+1-Aug	25	Second Lt. Hadar Goldin		Goldin	23	Israeli	M	85								
