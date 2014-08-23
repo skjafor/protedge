@@ -3,6 +3,7 @@ title: "Visualisations of Operation Protective Edge"
 author: "Iga Korneta"
 date: "Wednesday, August 13, 2014"
 output: html_document
+status: process
 ---
 
 ### Introduction
