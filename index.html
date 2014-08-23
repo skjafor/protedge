@@ -1,0 +1,146 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Victims of Protective Edge by ikorneta</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Victims of Protective Edge</h1>
+        <p>Data on Palestinian victims of Protective Edge (July-August 2014)</p>
+
+        <p class="view"><a href="https://github.com/ikorneta/protedge">View the Project on GitHub <small>ikorneta/protedge</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/ikorneta/protedge/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/ikorneta/protedge/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/ikorneta/protedge">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a name="visualisations-of-operation-protective-edge" class="anchor" href="#visualisations-of-operation-protective-edge"><span class="octicon octicon-link"></span></a>Visualisations of Operation Protective Edge</h1>
+
+<h5>
+<a name="iga-korneta" class="anchor" href="#iga-korneta"><span class="octicon octicon-link"></span></a>Iga Korneta</h5>
+
+<h5>
+<a name="wednesday-august-13-2014" class="anchor" href="#wednesday-august-13-2014"><span class="octicon octicon-link"></span></a>Wednesday, August 13, 2014</h5>
+
+<h3>
+<a name="introduction" class="anchor" href="#introduction"><span class="octicon octicon-link"></span></a>Introduction</h3>
+
+<p>I first became interested in visualising <a href="https://en.wikipedia.org/wiki/Operation_Protective_Edge">Operation Protective Edge</a> when I saw the huge lists of victims on the <a href="http://www.imemc.org/article/68429">IMEMC</a> and <a href="http://english.al-akhbar.com/node/20528">Al-Akhbar blog/journal</a> websites. I wanted to create some sort of a visual shorthand of the operation, beyond lists and statistics.</p>
+
+<p>This document shows some of the results of my curiosity.</p>
+
+<h3>
+<a name="data-sources-and-processing" class="anchor" href="#data-sources-and-processing"><span class="octicon octicon-link"></span></a>Data sources and processing</h3>
+
+<h4>
+<a name="sources" class="anchor" href="#sources"><span class="octicon octicon-link"></span></a>Sources</h4>
+
+<p>I scraped the data from <a href="http://www.imemc.org/article/68429">IMEMC</a>, <a href="http://english.al-akhbar.com/node/20528">Al-Akhbar</a> and, for the Israeli soldier fatalities, <a href="http://www.timesofisrael.com/fallen-idf-soldiers-in-operation-protective-edge/">Times of Israel</a>. Unfortunately, it turned out that the data was rather dirty, and thus required a lot of (irreproducible, unless you want to devote a lot of time to that) manual massaging. </p>
+
+<p>In particular:</p>
+
+<ul>
+<li><p>IMEMC and Al-Akhbar use different Arabic-to-English transliterations;</p></li>
+<li><p>IMEMC only lists identified victims, Al-Akhbar lists all;</p></li>
+<li><p>multiple records differ on ages, locations etc. between the sources; some records are obviously repeated in both sources, with minor spelling errors etc..</p></li>
+</ul><p>My chosen procedure was common-sense and as follows:</p>
+
+<ul>
+<li><p>match mutually identified records where possible;</p></li>
+<li><p>match identified IMEMC records with "unknown" placeholder records from Al-Akhbar from the same date where possible;</p></li>
+<li><p>add placeholder records to the Al-Akhbar list as needed. Those placeholder records are identified as having post-decimal points digits. So, for example, "unknown1" is an original Al-Akhbar placeholder record, "unknown1.1" was added to facilitate list merging.</p></li>
+</ul><p>Because I chose a greedy procedure for merging, the list is slightly longer than the 'official' statistics. At the time of the data processing (Aug 12, 2014), the raw Al-Akhbar file has 1940 records. The final file has 2019 Palestinian records (in addition to 64 Israeli ones). 1102 of the Palestinian records repeat between the Al-Akhbar and IMEMC lists.</p>
+
+<h4>
+<a name="processing" class="anchor" href="#processing"><span class="octicon octicon-link"></span></a>Processing</h4>
+
+<p>The final file contains the following variables:</p>
+
+<ul>
+<li><p>date, ordinal day (starting from July 8th, 2014 as the first day of the operation), ethnicity;</p></li>
+<li><p>full name, first name, last name, name summary, age, sex, place of death, circumstances from the Al-Akhbar file;</p></li>
+</ul><p>Gender data was derived by running the first names through <a href="http://www.indiachildnames.com/genderof.aspx">here</a> and <a href="http://www.gpeters.com/names/baby-names.php">here</a>.</p>
+
+<p>Name summary is a numerical shorthand for name, defined as ((ord(last_name_low[0])-96)*10+(ord(last_name_low[1])-96)), where ord(x)=ASCII value of x. (ord(a)-96)=1</p>
+
+<ul>
+<li><p>full name, name summary, age, sex, place of death, circumstances from the IMEMC file - column names starting from (IMEMC_);</p></li>
+<li><p>combined-record name summary, age, sex, and place of death; IMEMC records, which are supposed to be more correct, take precedence over Al-Akhbar records;</p></li>
+<li><p>age group, defined as: "Unknown", "Child" (&lt;=14), "Young adult" (&lt;=24), "Adult" (&lt;=54), "Elderly";</p></li>
+<li><p>simulated ages and name summaries, for the plots where I wanted to add the "unidentified" records.</p></li>
+</ul><h3>
+<a name="results" class="anchor" href="#results"><span class="octicon octicon-link"></span></a>Results</h3>
+
+<h4>
+<a name="exploratory-analysis" class="anchor" href="#exploratory-analysis"><span class="octicon octicon-link"></span></a>Exploratory analysis</h4>
+
+<p>Exploratory graphs show enrichment in the young male category:</p>
+
+<p><img src="/images/figure/explot1.png" title="plot of chunk explot1" alt="plot of chunk explot1"></p>
+
+<p>Side by side comparison of victim age stratification vs. the age stratification of the Gaza Strip (data from <a href="http://www.indexmundi.com/gaza_strip/demographics_profile.html">Index Mundi</a>):</p>
+
+<p><img src="/images/figure/explot2.png" title="plot of chunk explot2" alt="plot of chunk explot2"></p>
+
+<p>Interestingly, a chi-square test shows a p-value of 0.2133, which would indicate that these two distributions are <strong>not</strong> markedly different (despite looking different on the barplots above).</p>
+
+<h4>
+<a name="victims-by-day-of-operation-and-information-updating" class="anchor" href="#victims-by-day-of-operation-and-information-updating"><span class="octicon octicon-link"></span></a>Victims by day of operation and Information updating</h4>
+
+<p>This plot show the cumulative deaths by day of operation:</p>
+
+<p><img src="/images/figure/explot3.png" title="plot of chunk explot3" alt="plot of chunk explot3"></p>
+
+<p>The "unknown" category will be pushed forward the more and more information there arrives. The Al-Akhbar website is not back-updated for new information regarding previously unidentified victims - thus freezing the initial status of the information.</p>
+
+<p><img src="/images/figure/explot4.png" title="plot of chunk explot4" alt="plot of chunk explot4"></p>
+
+<h4>
+<a name="final-visualisations-the-hexbin-and-the-scatterplot" class="anchor" href="#final-visualisations-the-hexbin-and-the-scatterplot"><span class="octicon octicon-link"></span></a>Final visualisations: the Hexbin and the Scatterplot</h4>
+
+<p>The goal of visual analytics is to bring order to chaos. Nevertheless, I was rather concerned about the ethics of doing so when it comes to summarising human deaths. It makes them too clean; too sterile. I wanted a visualisation that would show me the chaos - that would not shirk from it.</p>
+
+<p>I started from a hexbin plot.</p>
+
+<p><img src="/images/figure/explot5.png" title="plot of chunk explot5" alt="plot of chunk explot5"></p>
+
+<p>I added simulated age data to account for the yet-unidentified victims.</p>
+
+<p><img src="/images/figure/explot6.png" title="plot of chunk explot6" alt="plot of chunk explot6"></p>
+
+<p>Then, I decided to abandon all pretense of a structure and use a scatterplot instead.</p>
+
+<p><img src="/images/figure/explot7.png" title="plot of chunk explot7" alt="plot of chunk explot7"></p>
+
+<p>(Men are coded dark red; women, black; the colour is meant to be unpleasant and evocative of blood splatter.) From the chaos, another sort of order emerges as the death clusters determine the pivotal points of the operation. It is now perfectly clear when the ground invasion started (07/20) and when the ceasefires occurred.</p>
+
+<p>It's possible to add the information about Israeli soldiers here:</p>
+
+<p><img src="/images/figure/explot8.png" title="plot of chunk explot8" alt="plot of chunk explot8"></p>
+
+<p>But it's not really obligatory.</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/ikorneta">ikorneta</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
